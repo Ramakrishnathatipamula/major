@@ -1,0 +1,31 @@
+# Environment & Secrets
+.env
+*.env
+
+# Python Bytecode & Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Datasets & Downloads
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Model Checkpoints
+models/saved_models/*
+!models/saved_models/.gitkeep
+
+# IDE Settings
+.vscode/
+.idea/
+.DS_Store
+models/disease/*.pth
+data/vector_store/

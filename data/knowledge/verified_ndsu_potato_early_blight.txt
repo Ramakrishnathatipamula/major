@@ -1,0 +1,24 @@
+Title: Early Blight in Potato
+Organization: North Dakota State University Extension
+Crop: Potato
+Disease: Early Blight
+Target Pathogen: Alternaria solani
+Document Type: extension_guide
+Publication Date: unknown
+URL Reference: https://www.ag.ndsu.edu/potatoextension/early-blight-in-potato
+Geographic Relevance: Northern Great Plains / North America
+
+DISEASE OVERVIEW & CROP PHENOLOGY:
+Early blight (Alternaria solani) affects potato crops across all production regions. Disease incidence and severity are strongly correlated with plant age and physiological canopy maturity. Susceptibility increases markedly after tuber initiation and during canopy senescence.
+
+DISEASE SYMPTOMS & DIAGNOSIS:
+Lesions initially develop on lower, older leaves as small brown spots. Expanding lesions form dark concentric rings bounded by major leaf veins. Yellowing (chlorosis) around lesions is common due to fungal toxin production. Lesions may also form on stems and tubers, where tuber lesions appear as dark, sunken, leathery dry rots.
+
+ENVIRONMENTAL CONDUCIVENESS & P-DAYS:
+Infection is favored by high physiological heat accumulation (P-Days > 300) combined with warm temperatures (20°C to 28°C) and extended leaf wetness or high relative humidity (>= 85%). Alternating rainy and dry periods facilitate fungal spore production and aerial dispersal.
+
+INTEGRATED CONTROL PRACTICES:
+1. Resistant Cultivars: Select potato varieties demonstrating moderate resistance to early blight where available.
+2. Nitrogen Management: Maintain optimum nitrogen levels throughout tuber bulking to delay foliage senescence.
+3. Residue Destruction: Plow under crop residue after harvest to reduce overwintering spore carryover in soil.
+4. Field Scouting: Monitor lower canopy foliage bi-weekly starting at tuber initiation; track daily P-Day heat unit accumulation.

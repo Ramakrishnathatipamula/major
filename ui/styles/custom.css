@@ -1,0 +1,71 @@
+/* AI Crop Doctor Custom CSS Styling */
+
+/* Main Container Padding */
+.main .block-container {
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+    max-width: 1300px;
+}
+
+/* Metric Cards */
+div[data-testid="stMetricValue"] {
+    font-size: 1.8rem !important;
+    font-weight: 700 !important;
+    color: #10B981 !important;
+}
+
+div[data-testid="stMetricLabel"] {
+    font-size: 0.9rem !important;
+    color: #94A3B8 !important;
+    font-weight: 600 !important;
+}
+
+/* Risk Badges */
+.risk-badge-high {
+    background-color: #EF4444;
+    color: white;
+    padding: 0.35rem 0.85rem;
+    border-radius: 0.5rem;
+    font-weight: 700;
+    font-size: 1.1rem;
+    display: inline-block;
+}
+
+.risk-badge-moderate {
+    background-color: #F59E0B;
+    color: white;
+    padding: 0.35rem 0.85rem;
+    border-radius: 0.5rem;
+    font-weight: 700;
+    font-size: 1.1rem;
+    display: inline-block;
+}
+
+.risk-badge-low {
+    background-color: #10B981;
+    color: white;
+    padding: 0.35rem 0.85rem;
+    border-radius: 0.5rem;
+    font-weight: 700;
+    font-size: 1.1rem;
+    display: inline-block;
+}
+
+/* Section Header styling */
+.section-header {
+    border-bottom: 2px solid #1E293B;
+    padding-bottom: 0.5rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    color: #F8FAFC;
+    font-weight: 700;
+}
+
+/* Card Container Styling */
+.crop-card {
+    background-color: #1E293B;
+    border-radius: 0.75rem;
+    padding: 1.25rem;
+    border: 1px solid #334155;
+    margin-bottom: 1rem;
+}

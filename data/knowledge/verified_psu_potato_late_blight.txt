@@ -1,0 +1,25 @@
+Title: Tomato-Potato Late Blight in the Home Garden
+Organization: Penn State Extension
+Crop: Potato
+Disease: Late Blight
+Target Pathogen: Phytophthora infestans
+Document Type: extension_guide
+Publication Date: unknown
+URL Reference: https://extension.psu.edu/tomato-potato-late-blight-in-the-home-garden
+Geographic Relevance: Northeastern US / Temperate Regions
+
+DISEASE NATURE & INFECTION CYCLE:
+Late blight, caused by Phytophthora infestans, is an airborne water mold disease capable of rapid destruction. The pathogen requires living plant host tissue or infected seed tubers to survive over winter. Wind currents can transport viable airborne sporangia several miles from infected sources to clean potato fields.
+
+SYMPTOM RECOGNITION:
+Leaf symptoms start as small, water-soaked, dark green or purplish-black spots that expand quickly during wet periods. Leaf margins may turn brown and dry up during drier weather, but resume spreading when high humidity returns. In high humidity, white downy mold appears on the underside of leaves around lesion borders. Stems can also develop dark brown lesions, leading to vine collapse.
+
+ENVIRONMENTAL RISK FACTORS:
+High relative humidity (>= 90%), dense fog, frequent rainfall, and moderate temperatures (15°C to 22°C) create optimal environmental conditions for late blight epidemics. Continuous leaf wetness for 10 to 14 hours accelerates sporangia production and infection.
+
+INTEGRATED PREVENTIVE MANAGEMENT:
+1. Certified Disease-Free Seed: Obtain certified seed tubers from reliable suppliers.
+2. Air Circulation: Space rows adequately to promote rapid canopy drying after rainfall.
+3. Watering Practices: Apply water directly to the soil base or use drip irrigation; avoid overhead watering late in the afternoon.
+4. Harvesting & Vine Killing: Kill potato vines 2 weeks prior to harvest using mechanical mowing or vine desiccation to allow skin set and prevent sporangia from washing onto tubers during harvest.
+5. Monitoring: Inspect field borders and low-lying, poorly drained zones weekly during high-humidity periods.

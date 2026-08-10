@@ -1,0 +1,25 @@
+Title: Potato Late Blight Management & Pathology Guide
+Organization: Cornell University Cooperative Extension & USDA Agricultural Research Service
+Crop: Potato
+Disease: Late Blight
+Target Pathogen: Phytophthora infestans
+Document Type: Extension Bulletin
+Publication Date: 2023-05-15
+
+DISEASE DESCRIPTION & BIOLOGY:
+Late Blight, caused by the oomycete pathogen Phytophthora infestans, is one of the most destructive foliage diseases affecting potato crops globally. The pathogen overwinters primarily in infected seed tubers, cull piles, or volunteer potato plants. Under favorable environmental conditions, sporangia are produced and dispersed by wind currents across several miles to infect healthy foliage.
+
+VISUAL SYMPTOMS:
+Initial symptoms appear as small, irregular, water-soaked dark green or brown spots on lower leaves or stems. During humid conditions (relative humidity >= 90%), lesions enlarge rapidly into dark brown or black blighted patches. A distinctive white fuzzy mold growth (sporangiophores and sporangia) appears on the undersides of infected leaves along the lesion margins, particularly during moist early morning hours.
+
+FAVORABLE ENVIRONMENTAL CONDITIONS:
+Late Blight development is heavily governed by canopy temperature and leaf wetness duration. Sporangia formation and germination reach optimal rates when continuous relative humidity remains at or above 90% and ambient temperatures range between 15°C and 22°C for 9 or more consecutive hours. Under these optimal conditions, a spore can germinate, infect tissue, and produce new sporangia within 3 to 5 days.
+
+CULTURAL PREVENTION & MANAGEMENT:
+1. Certified Seed Tubers: Always plant certified disease-free seed tubers to prevent introducing primary inoculum into the field.
+2. Cull Pile Management: Completely eliminate or cover cull piles with black plastic tarps to prevent airborne spore release.
+3. Canopy Moisture Control: Utilize drip irrigation rather than overhead sprinkler irrigation to avoid prolonging leaf wetness duration.
+4. Field Sanitation & Crop Rotation: Practice 3-year non-solanaceous crop rotation and kill vines 2 weeks prior to harvest to prevent tuber contamination.
+
+FIELD SCOUTING PROTOCOLS:
+Scout fields weekly starting at canopy closure, increasing to twice weekly during period of High Environmental Risk (cumulative Wallin DSV >= 14). Focus scouting on low-lying areas, shaded field borders, and dense canopy zones where leaf wetness persists longest.

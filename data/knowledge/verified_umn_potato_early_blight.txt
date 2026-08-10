@@ -1,0 +1,24 @@
+Title: Early blight in tomato and potato
+Organization: University of Minnesota Extension
+Crop: Potato
+Disease: Early Blight
+Target Pathogen: Alternaria solani
+Document Type: extension_guide
+Publication Date: unknown
+URL Reference: https://extension.umn.edu/disease-management/early-blight-tomato-and-potato
+Geographic Relevance: Upper Midwest / North America
+
+DISEASE DESCRIPTION & PATHOGEN BIOLOGY:
+Early blight is a common foliar disease of potatoes and tomatoes caused by the fungus Alternaria solani. The fungus overwinters in plant debris in the soil, infected tubers, or weeds such as nightshade. Conidia spores are spread by wind, rain splash, and mechanical equipment. Older, lower canopy leaves become susceptible first as plants mature.
+
+VISUAL SYMPTOMS & TARGET SPOTS:
+Symptoms begin on older lower leaves as dark brown to black circular spots. As lesions enlarge up to a half-inch in diameter, they develop distinct dark raised concentric rings, giving them a characteristic 'target spot' or 'bullseye' pattern. The leaf area surrounding the target spot often turns yellow (chlorotic halo). Severe leaf infection leads to leaf yellowing, drying, and premature defoliation.
+
+ENVIRONMENTAL CONDUCIVENESS:
+Alternaria solani thrives under alternating wet and dry weather conditions. Warm temperatures ranging from 20°C to 28°C (68°F to 82°F) paired with heavy dew, rain, or high relative humidity (>= 85%) for 4 to 8 hours promote spore germination and fungal tissue penetration. Stressed or nitrogen-deficient crops experience accelerated symptom severity.
+
+CULTURAL PREVENTION & CROP CARE:
+1. Plant Fertility: Maintain balanced nitrogen and potassium plant nutrition; avoid plant stress which increases foliage vulnerability.
+2. Crop Rotation: Implement a 3- to 4-year crop rotation with non-solanaceous crops (such as corn, small grains, or legumes).
+3. Irrigation Management: Water early in the morning so foliage dries quickly, or use drip irrigation.
+4. Residue Management: Till or disk crop residue immediately after harvest to accelerate fungal decomposition.

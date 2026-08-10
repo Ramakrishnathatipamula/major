@@ -1,0 +1,25 @@
+Title: Late blight of tomato and potato
+Organization: University of Minnesota Extension
+Crop: Potato
+Disease: Late Blight
+Target Pathogen: Phytophthora infestans
+Document Type: extension_guide
+Publication Date: unknown
+URL Reference: https://extension.umn.edu/disease-management/late-blight
+Geographic Relevance: Upper Midwest / North America
+
+DISEASE OVERVIEW & PATHOGEN BIOLOGY:
+Late blight is a destructive disease affecting potatoes and tomatoes caused by Phytophthora infestans, a water mold pathogen (oomycete). The pathogen overwinters in infected potato tubers left in fields, cull piles, or stored seed. In spring, infected tubers sprout and produce sporangia that are dispersed by wind and rain splash to healthy canopy leaves.
+
+VISUAL SYMPTOMS & IDENTIFICATION:
+Initial leaf symptoms appear as irregular, pale green to water-soaked spots, often near leaf tips or margins. Under moist conditions, lesions expand rapidly into dark brown to black blighted areas. During humid mornings or high moisture periods (relative humidity >= 90%), a delicate white fuzzy growth of sporangia forms on the undersides of infected leaves along the outer edges of the lesions. Infected tubers develop copper-brown skin discoloration and dry firm rot beneath the surface.
+
+FAVORABLE ENVIRONMENTAL CONDITIONS:
+Late blight develops most rapidly during cool, wet weather. Optimal disease conditions occur when relative humidity reaches 90% or higher and temperatures range between 15°C and 22°C (59°F to 72°F) for continuous periods of 9 or more hours. Under high moisture conditions, entire potato fields can be defoliated within 7 to 10 days if unmanaged.
+
+CULTURAL MANAGEMENT & PREVENTION:
+1. Plant Certified Seed: Always purchase and plant certified disease-free potato seed tubers.
+2. Destroy Cull Piles: Bury, freeze, or completely cover potato cull piles before spring emergence to eliminate primary inoculum reservoirs.
+3. Control Volunteer Potatoes: Eliminate volunteer potato plants in surrounding fields and fence rows.
+4. Irrigation Management: Avoid excessive overhead irrigation. Prefer drip irrigation or irrigate early in the morning so canopy leaves dry quickly.
+5. Sanitation: If isolated late blight plants are discovered, remove and destroy or disk under infected plants immediately.

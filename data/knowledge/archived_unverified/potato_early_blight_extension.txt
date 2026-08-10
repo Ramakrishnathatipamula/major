@@ -1,0 +1,25 @@
+Title: Potato Early Blight Management & Phenology Guide
+Organization: Purdue University Extension & UC Davis Agriculture and Natural Resources
+Crop: Potato
+Disease: Early Blight
+Target Pathogen: Alternaria solani
+Document Type: Extension Bulletin
+Publication Date: 2023-04-20
+
+DISEASE DESCRIPTION & BIOLOGY:
+Early Blight, caused by the fungal pathogen Alternaria solani, is a widespread foliar disease of potatoes. Unlike Late Blight, Early Blight primarily attacks older, maturing foliage as plant canopy senescence begins. The fungus overwinters as conidia or mycelium in infected crop residue, infected tubers, or solanaceous weed hosts.
+
+VISUAL SYMPTOMS:
+Symptoms typically appear first on lower, older leaves as small, dry, dark brown to black spots. As lesions expand, they develop characteristic concentric ridges, creating a distinctive 'target spot' or 'bullseye' appearance. The leaf tissue surrounding the target spots often turns yellow (chlorotic halo). In severe infestations, affected leaves dry up, turn brown, and drop prematurely.
+
+FAVORABLE ENVIRONMENTAL CONDITIONS:
+Alternaria solani favors alternating wet and dry conditions. Fungal spore germination and infection occur during periods of warm temperatures (20°C to 28°C) paired with extended dew or relative humidity >= 85% for 4 to 8 hours. High physiological heat unit accumulation (P-Days > 300) combined with canopy maturity increases crop susceptibility.
+
+CULTURAL PREVENTION & CROP CARE:
+1. Balanced Crop Nutrition: Maintain adequate nitrogen and potassium fertility; stressed or nutrient-deficient plants are significantly more susceptible to Early Blight.
+2. Irrigation Management: Avoid late evening overhead sprinkler irrigations that keep canopy leaves wet overnight. Prefer drip irrigation.
+3. Crop Residue Management: Disk or plow under crop residue thoroughly after harvest to accelerate fungal tissue decomposition.
+4. Crop Rotation: Rotate out of solanaceous crops (potato, tomato, eggplant, pepper) for at least 3 years to deplete soil conidia populations.
+
+SCOUTING & MONITORING:
+Begin monitoring lower canopy leaves bi-weekly after tuber initiation. Track physiological days (P-Days) to anticipate high vulnerability periods (P-Days > 300).
