@@ -138,6 +138,25 @@ class CropDoctor:
         # Step 1: Run Disease Classification with verified active crop
         pred_result = self.disease_predictor.predict(image_input, crop=active_crop)
 
+        # Multimodal AI Clinical Refinement if specialist model is uncertain (<60% confidence)
+        if pred_result.get("is_low_confidence") or pred_result.get("confidence", 0) < 60.0 or pred_result.get("predicted_disease") is None:
+            try:
+                from modules.identification.multimodal_verifier import multimodal_verify_leaf
+                multi_res = multimodal_verify_leaf(image_input)
+                if multi_res and multi_res.get("disease") and multi_res.get("confidence", 0) >= 70.0:
+                    disease_name = str(multi_res["disease"]).strip()
+                    pred_result["predicted_disease"] = f"{active_crop}___{disease_name.replace(' ', '_')}"
+                    pred_result["friendly_name"] = disease_name
+                    pred_result["confidence"] = float(multi_res["confidence"])
+                    pred_result["is_low_confidence"] = False
+                    pred_result["is_rejected"] = False
+                    pred_result["prediction_status"] = "SUPPORTED_CONFIDENT"
+                    pred_result["warning"] = None
+                    if "probabilities" in pred_result and isinstance(pred_result["probabilities"], dict):
+                        pred_result["probabilities"][disease_name] = float(multi_res["confidence"]) / 100.0
+            except Exception:
+                pass
+
         # Step 2: Generate Grad-CAM Visual Explanation (if crop supported)
         gradcam_path = ""
         if pred_result.get("is_supported", True):

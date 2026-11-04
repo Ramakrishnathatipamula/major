@@ -151,6 +151,66 @@ def main():
                 "geographic_relevance": "India / National & State Level (CIBRC / ICAR-IIVR / TNAU)",
                 "is_verified": "true"
             }
+        },
+        {
+            "file": knowledge_dir / "verified_wheat_diseases_management.txt",
+            "metadata": {
+                "source_organization": "CIBRC / ICAR-IIWBR / PAU",
+                "document_title": "Official CIBRC Registered Fungicides and ICAR-IIWBR Guidelines for Wheat Rusts and Blotch",
+                "crop": "Wheat",
+                "disease": "Stripe Rust / Leaf Rust / Septoria Leaf Blotch",
+                "publication_date": "2024",
+                "url_reference": "https://iiwbr.icar.gov.in",
+                "document_type": "treatment_guide",
+                "target_pathogen": "Puccinia striiformis / Zymoseptoria tritici",
+                "geographic_relevance": "India and Global Wheat Growing Belts (CIBRC / ICAR-IIWBR / PAU)",
+                "is_verified": "true"
+            }
+        },
+        {
+            "file": knowledge_dir / "verified_maize_diseases_management.txt",
+            "metadata": {
+                "source_organization": "CIBRC / ICAR-IIMR / TNAU",
+                "document_title": "Official CIBRC Registered Fungicides and ICAR-IIMR Guidelines for Maize Foliar Diseases",
+                "crop": "Maize",
+                "disease": "Common Rust / Turcicum Leaf Blight / Gray Leaf Spot",
+                "publication_date": "2024",
+                "url_reference": "https://iimr.icar.gov.in",
+                "document_type": "treatment_guide",
+                "target_pathogen": "Puccinia sorghi / Exserohilum turcicum / Cercospora zeae-maydis",
+                "geographic_relevance": "India and Tropical/Subtropical Maize Belts (CIBRC / ICAR-IIMR / TNAU)",
+                "is_verified": "true"
+            }
+        },
+        {
+            "file": knowledge_dir / "verified_rice_diseases_management.txt",
+            "metadata": {
+                "source_organization": "CIBRC / ICAR-NRRI / IRRI",
+                "document_title": "Official CIBRC Registered Fungicides and ICAR-NRRI Guidelines for Rice Diseases",
+                "crop": "Rice",
+                "disease": "Bacterial Leaf Blight / Brown Spot / Leaf Smut / Blast",
+                "publication_date": "2024",
+                "url_reference": "https://nrri.icar.gov.in",
+                "document_type": "treatment_guide",
+                "target_pathogen": "Xanthomonas oryzae / Bipolaris oryzae / Entyloma oryzae",
+                "geographic_relevance": "India and Asia Rice Growing Ecosystems (CIBRC / ICAR-NRRI)",
+                "is_verified": "true"
+            }
+        },
+        {
+            "file": knowledge_dir / "verified_fruits_vegetables_diseases_management.txt",
+            "metadata": {
+                "source_organization": "CIBRC / ICAR-IIHR / State Extension",
+                "document_title": "Integrated Disease Management and CIBRC Prescriptions for Fruits and Vegetables",
+                "crop": "Multiple (Apple, Grape, Pepper, Citrus, Strawberry, Peach, Squash, Soybean)",
+                "disease": "Scab, Mildews, Anthracnose, Leaf Spots",
+                "publication_date": "2024",
+                "url_reference": "https://ppqs.gov.in",
+                "document_type": "treatment_guide",
+                "target_pathogen": "Venturia inaequalis, Phytophthora, Colletotrichum, Erysiphaceae",
+                "geographic_relevance": "National and International Horticultural Belts",
+                "is_verified": "true"
+            }
         }
     ]
 

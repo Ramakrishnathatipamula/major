@@ -200,7 +200,7 @@ class CropRegistry:
         maize_model_path = "models/disease/maize_disease_model.pth"
         maize_model_available = (ROOT_DIR / maize_model_path).exists()
         maize_support_msg = (
-            "Full ML diagnostic specialist model (4 classes) active. No verified chemical treatment registry is active for Maize, so chemical advice is withheld."
+            "Full ML diagnostic specialist model (4 classes) active. Verified CIBRC/ICAR-IIMR chemical and biological treatment registry active."
             if maize_model_available
             else "Maize disease detection model checkpoint (models/disease/maize_disease_model.pth) is missing. Re-train or restore the checkpoint."
         )
@@ -244,7 +244,7 @@ class CropRegistry:
         rice_model_path = "models/disease/rice_disease_model.pth"
         rice_model_available = (ROOT_DIR / rice_model_path).exists()
         rice_support_msg = (
-            "Full ML diagnostic specialist model (4 classes) active. No verified chemical treatment registry is active for Rice, so chemical advice is withheld."
+            "Full ML diagnostic specialist model (4 classes) active. Verified CIBRC/ICAR-NRRI chemical and biological treatment registry active."
             if rice_model_available
             else "Rice disease detection model checkpoint (models/disease/rice_disease_model.pth) is missing. Re-train or restore the checkpoint."
         )
@@ -283,7 +283,7 @@ class CropRegistry:
         wheat_model_path = "models/disease/wheat_disease_model.pth"
         wheat_model_available = (ROOT_DIR / wheat_model_path).exists()
         wheat_support_msg = (
-            "Full ML diagnostic specialist model (3 classes) active. No verified chemical treatment registry is active for Wheat, so chemical advice is withheld."
+            "Full ML diagnostic specialist model (3 classes) active. Verified CIBRC/ICAR-IIWBR/PAU chemical and biological treatment registry active."
             if wheat_model_available
             else "Wheat disease detection model checkpoint (models/disease/wheat_disease_model.pth) is missing. Re-train or restore the checkpoint."
         )

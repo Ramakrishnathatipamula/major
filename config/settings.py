@@ -23,7 +23,7 @@ SAVED_MODELS_DIR = MODELS_DIR / "saved_models"
 WEATHER_API_KEY = os.getenv("WEATHER_API_KEY", "")
 LLM_API_KEY = os.getenv("LLM_API_KEY", "")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY") or os.getenv("LLM_API_KEY") or os.getenv("GOOGLE_API_KEY") or ""
-GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-flash-lite-latest")
 APP_ENV = os.getenv("APP_ENV", "development")
 
 # Image Preprocessing Policy

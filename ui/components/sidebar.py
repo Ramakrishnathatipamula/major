@@ -108,9 +108,11 @@ def render_sidebar() -> Dict[str, Any]:
                 target = candidates[0]
                 st.session_state.map_center_lat = target.latitude
                 st.session_state.map_center_lon = target.longitude
+                st.session_state.selected_lat = target.latitude
+                st.session_state.selected_lon = target.longitude
                 st.session_state.map_zoom = 15
                 st.session_state.last_search_query = clean_query
-                st.sidebar.info(f"🔍 Map centered near **{target.display_name}**. Zoom and click directly on your field.")
+                st.sidebar.info(f"🔍 Field location set to **{target.display_name}**. You can also click directly on the map to refine the exact field coordinates.")
         except Exception as exc:
             resolution_error = str(exc)
             st.session_state.last_search_query = clean_query
