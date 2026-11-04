@@ -1,12 +1,15 @@
 # Environment & Secrets
 .env
 *.env
+!.env.example
 
 # Python Bytecode & Caches
 __pycache__/
 *.py[cod]
 *$py.class
 .pytest_cache/
+.mypy_cache/
+.ruff_cache/
 
 # Virtual Environments
 venv/
@@ -18,14 +21,41 @@ data/raw/*
 !data/raw/.gitkeep
 data/processed/*
 !data/processed/.gitkeep
+data/processed/temp_uploads/
+data/archived_synthetic_samples/*/
 
-# Model Checkpoints
-models/saved_models/*
+data/vector_store/
+
+data/identification/splits_15class/
+
+# Generated evaluation artifacts
+data/field_eval/reports/
+data/identification/evaluation_report.json
+data/identification/eval_report_full.json
+data/identification/confusion_matrix.png
+data/identification/evaluation_report_15class.json
+data/identification/eval_report_full_15class.json
+data/identification/confusion_matrix_15class.png
+data/potato/eval_report_full.json
+data/potato/confusion_matrix.png
+data/tomato/evaluation_report.json
+
+# Model Checkpoints & Binary Artifacts
+
+
 !models/saved_models/.gitkeep
+
+# Logs and Temporary Files
+*.log
+*.tmp
+*.temp
 
 # IDE Settings
 .vscode/
 .idea/
-.DS_Store
-models/disease/*.pth
-data/vector_store/
+
+# macOS
+**/.DS_Store
+
+# Nested repositories (PlantDoc dataset checkout)
+data/field_eval/raw_plantdoc/.git/

@@ -1,0 +1,44 @@
+Title: Official CIBRC Registered Fungicides & TNAU / NDSU Management Guidelines for Potato Early Blight
+Organization: Central Insecticides Board & Registration Committee (CIBRC), TNAU & NDSU Extension
+Crop: Potato
+Disease: Early Blight
+Target Pathogen: Alternaria solani
+Document Type: treatment_guide
+Publication Date: 2024
+URL Reference: https://ppqs.gov.in
+Geographic Relevance: India & North America (CIBRC / TNAU / NDSU)
+is_verified: true
+
+DISEASE NATURE & TIMING STRATEGY:
+Early blight of potato is caused by the fungal pathogen Alternaria solani. It primarily affects older, lower canopy leaves after tuber initiation as plants mature and senesce. Favorable conditions include warm temperatures (20°C to 30°C) with alternating wet and dry periods (intermittent rainfall, morning dews >= 85% RH for 4-8 hours).
+Unlike Late Blight, Early Blight is strongly correlated with crop stress, nutrient deficiencies (particularly low nitrogen and potassium), and foliage aging.
+
+PROTECTIVE & SYSTEMIC FUNGICIDE OPTIONS (CIBRC REGISTERED):
+1. Mancozeb 75% WP:
+   - Category: Contact protectant (FRAC Group M03).
+   - Target: Early foliar protection against Alternaria solani.
+   - Verified Application Rate: 0.2% concentration (2.0 kg/ha in 1,000 litres of water, or 2.0 g per litre of water).
+   - Timing & Schedule: Begin spraying as soon as early concentric lesions appear on lower foliage or after tuber initiation. Repeat at 10 to 15-day intervals if warm, humid conditions persist.
+2. Chlorothalonil 75% WP:
+   - Category: Broad-spectrum contact protectant (FRAC Group M05).
+   - Verified Application Rate: 0.2% (approx. 2 kg/ha in 1,000 litres of water).
+   - Timing: Alternate with Mancozeb to maintain multi-site protection and prevent resistance.
+3. Copper Oxychloride 50% WP (e.g. Blitox-50) / Zineb 75% WP:
+   - Category: Inorganic copper / dithiocarbamate protectant.
+   - Verified Application Rate: 0.2% to 0.25% (2.0 to 2.5 g per litre of water).
+   - Timing: Early preventive spray upon initial detection.
+4. Triazole / Strobilurin Systemic Options (e.g. Difenoconazole / Azoxystrobin):
+   - Category: FRAC Group 3 (DMI triazole) / FRAC Group 11 (QoI strobilurin).
+   - Application Note: Must be rotated with contact multi-site protectants (Mancozeb or Chlorothalonil) to prevent pathogen resistance.
+
+NON-CHEMICAL & CULTURAL MANAGEMENT:
+1. Plant Nutrition: Maintain balanced nitrogen and potassium fertility; avoid nitrogen starvation during tuber bulking which accelerates canopy senescence.
+2. Crop Rotation: Rotate out of solanaceous crops (potato, tomato, eggplant, pepper) for at least 3 to 4 years to deplete soil conidia carryover.
+3. Residue Destruction: Plow under or burn infected plant debris immediately after harvest.
+4. Water Management: Use drip irrigation or irrigate early in the morning so canopy foliage dries rapidly during daylight.
+
+SAFETY & PRECAUTIONS:
+1. Always wear protective clothing, rubber gloves, and a face mask during preparation and spraying.
+2. Check specific product container label for registered brand Pre-Harvest Interval (PHI) and Re-Entry Interval (REI).
+3. Do not apply when wind speed exceeds 15 km/h to prevent spray drift.
+4. Statutory Notice: Chemical recommendations must comply with local state agricultural recommendations and registered label specifications.

@@ -1,0 +1,1514 @@
+[
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Apple___Apple_scab/01a66316-0e98-4d3b-a56f-d78752cd043f___FREC_Scab 3003.JPG",
+    "crop_id": "apple",
+    "disease_class": "Apple___Apple_scab",
+    "md5": "b864c04c6195b89d7d7555311dbc3ca4"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Apple___healthy/02720439-ecbd-4c7a-9382-4c8156b6f15b___RS_HL 5918.JPG",
+    "crop_id": "apple",
+    "disease_class": "Apple___healthy",
+    "md5": "f4af77d9eec2f2ab5c3b585a13da4f49"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Apple___Black_rot/05fd8037-fd27-4d26-9e5d-9a47856ab134___JR_FrgE.S 8770.JPG",
+    "crop_id": "apple",
+    "disease_class": "Apple___Black_rot",
+    "md5": "f7be7ef8133a925e6dca834cf59411db"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Apple___Black_rot/033b1492-d5cf-4de7-a195-941f7780e092___JR_FrgE.S 8710.JPG",
+    "crop_id": "apple",
+    "disease_class": "Apple___Black_rot",
+    "md5": "a26cfcaef04b54827da86ba871647c6e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Apple___Black_rot/0612c9fa-e647-4083-85e7-b1638452c24b___JR_FrgE.S 8771.JPG",
+    "crop_id": "apple",
+    "disease_class": "Apple___Black_rot",
+    "md5": "b20683c495c78050599e7477422fe479"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Apple___Black_rot/0b8dabb7-5f1b-4fdc-b3fa-30b289707b90___JR_FrgE.S 3047.JPG",
+    "crop_id": "apple",
+    "disease_class": "Apple___Black_rot",
+    "md5": "f3f8687844695ea602e8c7216522ac23"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Apple___healthy/023810b0-18e6-4352-9dfa-c2f4c034cda5___RS_HL 7538.JPG",
+    "crop_id": "apple",
+    "disease_class": "Apple___healthy",
+    "md5": "d396b25b06b8c576786fa79da66c58e2"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Apple___Black_rot/057c985f-2a00-40fe-b48f-590aabd3babe___JR_FrgE.S 3015.JPG",
+    "crop_id": "apple",
+    "disease_class": "Apple___Black_rot",
+    "md5": "70270da61697ee069866b3796f4bf4b2"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Apple___healthy/01b32971-5125-4982-98e2-22daa9ae864a___RS_HL 7977.JPG",
+    "crop_id": "apple",
+    "disease_class": "Apple___healthy",
+    "md5": "041972e817c4421ee56432d07c2424bf"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Apple___healthy/01efa999-757d-487e-8250-27c7854c0ca8___RS_HL 7515.JPG",
+    "crop_id": "apple",
+    "disease_class": "Apple___healthy",
+    "md5": "334e2ac82825fb58e8382003d9d9c21b"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Apple___Black_rot/02168189-aa75-4284-a7f0-8ca5901ea783___JR_FrgE.S 2948.JPG",
+    "crop_id": "apple",
+    "disease_class": "Apple___Black_rot",
+    "md5": "58cbd02acfa2942711fefba3c5aacc66"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Apple___healthy/09074cd1-a3f0-4d64-97d9-16919451bd58___RS_HL 6258.JPG",
+    "crop_id": "apple",
+    "disease_class": "Apple___healthy",
+    "md5": "0e457cde0f2636d37ccb7de33fe9358c"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Apple___Cedar_apple_rust/58c70126-b289-441f-a608-eff6a2df3762___FREC_C.Rust 3654.JPG",
+    "crop_id": "apple",
+    "disease_class": "Apple___Cedar_apple_rust",
+    "md5": "003ef9bc4f8b4fcab2e504b6e64be4c6"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Apple___Black_rot/1452dba2-3694-4657-ac64-fed65ebea056___JR_FrgE.S 3081.JPG",
+    "crop_id": "apple",
+    "disease_class": "Apple___Black_rot",
+    "md5": "8b523b78691719ef75201022d8200f91"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Apple___Apple_scab/0537ad56-3d24-4e97-a947-65b9b37f8988___FREC_Scab 3079.JPG",
+    "crop_id": "apple",
+    "disease_class": "Apple___Apple_scab",
+    "md5": "46073b81e4dbe9800e0ff7335d7ee84b"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Apple___Black_rot/04de1246-ecfa-4d2c-bc2d-16b81b0bd364___JR_FrgE.S 2970.JPG",
+    "crop_id": "apple",
+    "disease_class": "Apple___Black_rot",
+    "md5": "ab567e75e14831504edb379482c911bf"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Apple___healthy/00fca0da-2db3-481b-b98a-9b67bb7b105c___RS_HL 7708.JPG",
+    "crop_id": "apple",
+    "disease_class": "Apple___healthy",
+    "md5": "f77ff65daba07c7cf60124491c66fd7d"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Apple___Cedar_apple_rust/17b9f64c-4660-424f-9c8e-d9a49654e512___FREC_C.Rust 3776.JPG",
+    "crop_id": "apple",
+    "disease_class": "Apple___Cedar_apple_rust",
+    "md5": "362835af4a894ad91a07bee132c442a8"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Pepper,_bell___Bacterial_spot/0022d6b7-d47c-4ee2-ae9a-392a53f48647___JR_B.Spot 8964.JPG",
+    "crop_id": "bell_pepper",
+    "disease_class": "Pepper,_bell___Bacterial_spot",
+    "md5": "1998aa771506fd96dde8c044c8639e34"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Pepper,_bell___healthy/18f75aea-62fb-4c71-998a-ff62d078ab21___JR_HL 8174.JPG",
+    "crop_id": "bell_pepper",
+    "disease_class": "Pepper,_bell___healthy",
+    "md5": "74ff5f68364a9e3b7789a4d9a1854b2b"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Pepper,_bell___healthy/06ae69f3-53f7-4ad8-b6b0-185dd26b2fc0___JR_HL 7971.JPG",
+    "crop_id": "bell_pepper",
+    "disease_class": "Pepper,_bell___healthy",
+    "md5": "fdcbb7a755cf475c993d538c8e6fc52c"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Pepper,_bell___healthy/0367e017-cabb-41e5-9777-79b3c7c9177a___JR_HL 7814.JPG",
+    "crop_id": "bell_pepper",
+    "disease_class": "Pepper,_bell___healthy",
+    "md5": "ab7af8a51d05fee3d5b2f0eaed1fa711"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Pepper,_bell___healthy/075e9bdc-4921-440b-948d-83f30151317c___JR_HL 7958.JPG",
+    "crop_id": "bell_pepper",
+    "disease_class": "Pepper,_bell___healthy",
+    "md5": "91a70d3b21fdb1d0670d3e6ecd4c0e09"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Pepper,_bell___healthy/03396fd1-be05-40a7-81b2-67000e77d479___JR_HL 8721.JPG",
+    "crop_id": "bell_pepper",
+    "disease_class": "Pepper,_bell___healthy",
+    "md5": "01aecd1b4e7a27b052c35dc4f34c6ac7"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Pepper,_bell___healthy/1629488b-4d52-423d-bb67-448479fa573b___JR_HL 8607.JPG",
+    "crop_id": "bell_pepper",
+    "disease_class": "Pepper,_bell___healthy",
+    "md5": "f5efb727f6a4367098670733e92b1314"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Pepper,_bell___healthy/0414429e-4295-4216-b2ed-96b21cb35928___JR_HL 8250.JPG",
+    "crop_id": "bell_pepper",
+    "disease_class": "Pepper,_bell___healthy",
+    "md5": "b75a823ea7082843eaadb9a02fab0268"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Pepper,_bell___healthy/1091d6d7-6767-4643-897e-3637df768172___JR_HL 8111.JPG",
+    "crop_id": "bell_pepper",
+    "disease_class": "Pepper,_bell___healthy",
+    "md5": "43b6458d3e1101826039489e9330e511"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Pepper,_bell___healthy/12e22bb7-46e1-4714-8139-83e3a9bfef07___JR_HL 7813.JPG",
+    "crop_id": "bell_pepper",
+    "disease_class": "Pepper,_bell___healthy",
+    "md5": "4a3dffdeab4a66a5118d8005b574eedc"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Pepper,_bell___healthy/01482fdd-5dfd-4190-bbc0-6189a3161fae___JR_HL 7983.JPG",
+    "crop_id": "bell_pepper",
+    "disease_class": "Pepper,_bell___healthy",
+    "md5": "7932bfa48824244066810360ea5bb3e3"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Pepper,_bell___healthy/0eb476b9-8b21-4b24-adef-7db813abbca3___JR_HL 7926.JPG",
+    "crop_id": "bell_pepper",
+    "disease_class": "Pepper,_bell___healthy",
+    "md5": "95acce655d7579aa8ebcc915b87c3d92"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Pepper,_bell___Bacterial_spot/21556c18-1833-43a9-86b2-8e7130b4dbce___JR_B.Spot 3230.JPG",
+    "crop_id": "bell_pepper",
+    "disease_class": "Pepper,_bell___Bacterial_spot",
+    "md5": "debd3eacb4240032d9e5abcb7b90a074"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Pepper,_bell___healthy/03c966a7-ac9e-4c8e-965a-6c0e7289a0e8___JR_HL 8509.JPG",
+    "crop_id": "bell_pepper",
+    "disease_class": "Pepper,_bell___healthy",
+    "md5": "4190847e6d08c98a6377d6518a813f0f"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Pepper,_bell___Bacterial_spot/05af15b5-fbda-4dab-a4ba-c783d531d24d___JR_B.Spot 3150.JPG",
+    "crop_id": "bell_pepper",
+    "disease_class": "Pepper,_bell___Bacterial_spot",
+    "md5": "2c99fe94374be43309ccf3bcd5bdb02f"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Pepper,_bell___healthy/016c8a9f-8eab-41b2-bb4b-0eb6ed0b2a7d___JR_HL 8591.JPG",
+    "crop_id": "bell_pepper",
+    "disease_class": "Pepper,_bell___healthy",
+    "md5": "cc15426e93a28a6768d56d2f82bddc28"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Pepper,_bell___healthy/0354e474-d930-4098-97f8-0acee01817ea___JR_HL 7623.JPG",
+    "crop_id": "bell_pepper",
+    "disease_class": "Pepper,_bell___healthy",
+    "md5": "c87f1779c9395844d502bcab14dd7064"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Pepper,_bell___Bacterial_spot/21f7119e-d926-4be3-9ace-d6b26b280e64___JR_B.Spot 8837.JPG",
+    "crop_id": "bell_pepper",
+    "disease_class": "Pepper,_bell___Bacterial_spot",
+    "md5": "62209a227388aa041cfd8150e7c2ca40"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Blueberry___healthy/00fee259-67b7-4dd7-8b36-12503bbdba14___RS_HL 2681.JPG",
+    "crop_id": "blueberry",
+    "disease_class": "Blueberry___healthy",
+    "md5": "b41098761ac25720ef74205cafab762c"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Blueberry___healthy/2ebf0a15-fd7b-4930-a035-dd4a5a6c4207___RS_HL 0540.JPG",
+    "crop_id": "blueberry",
+    "disease_class": "Blueberry___healthy",
+    "md5": "53425e1bae9f7ba9ee029cff6170d81a"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Blueberry___healthy/2c45747f-caa3-4329-b111-a1d23520a8b8___RS_HL 5333.JPG",
+    "crop_id": "blueberry",
+    "disease_class": "Blueberry___healthy",
+    "md5": "7f48c9155fa3c331c52dc524d64a6c27"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Blueberry___healthy/1b47df97-07bf-430d-82ff-927d9ba420fe___RS_HL 0565.JPG",
+    "crop_id": "blueberry",
+    "disease_class": "Blueberry___healthy",
+    "md5": "3f116e11885143e0b1a831833be151a9"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Blueberry___healthy/2e359428-bc73-4b9a-a697-9739e1aea38e___RS_HL 0751.JPG",
+    "crop_id": "blueberry",
+    "disease_class": "Blueberry___healthy",
+    "md5": "02e61fb411426007c5ae79e286dca215"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Blueberry___healthy/1a80f857-9e16-40d0-b110-9ad52692221b___RS_HL 0692.JPG",
+    "crop_id": "blueberry",
+    "disease_class": "Blueberry___healthy",
+    "md5": "3836d44c9b8cf1af27863b435403c9b9"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Blueberry___healthy/2c60fe44-7c47-4425-8dbe-e4812495f23f___RS_HL 4930.JPG",
+    "crop_id": "blueberry",
+    "disease_class": "Blueberry___healthy",
+    "md5": "3304282d8eb97a93c668244a571a0402"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Blueberry___healthy/238b67d0-98fe-4e16-82b3-22f67c357585___RS_HL 0440.JPG",
+    "crop_id": "blueberry",
+    "disease_class": "Blueberry___healthy",
+    "md5": "dba217e0a6b449cf9797994cd8d784ec"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Blueberry___healthy/2221aa0f-b66e-4b48-a6e6-84904977189b___RS_HL 4949.JPG",
+    "crop_id": "blueberry",
+    "disease_class": "Blueberry___healthy",
+    "md5": "3de72b469f7c7607c74ca487d74d1ed7"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Blueberry___healthy/24013c74-54aa-4a2d-adf2-dcd29336ef44___RS_HL 2617.JPG",
+    "crop_id": "blueberry",
+    "disease_class": "Blueberry___healthy",
+    "md5": "d64378abbaa7c740badbecc2ef0615d6"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Blueberry___healthy/0c87d5fc-df11-4e63-9f07-5220444bef41___RS_HL 0410.JPG",
+    "crop_id": "blueberry",
+    "disease_class": "Blueberry___healthy",
+    "md5": "aa878fc5a0fd1e39a015b439f57c7696"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Blueberry___healthy/1dac8f21-e2ba-4c12-92c3-d2802177062b___RS_HL 2570.JPG",
+    "crop_id": "blueberry",
+    "disease_class": "Blueberry___healthy",
+    "md5": "8cca7a28ae30fe81a9f2ddf83bcffcd4"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Blueberry___healthy/0b344c16-456c-4085-aa61-6a1c4cb93632___RS_HL 2538.JPG",
+    "crop_id": "blueberry",
+    "disease_class": "Blueberry___healthy",
+    "md5": "3a7235bf6eeb7d8188e31512faa3b4ae"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Blueberry___healthy/2083cf0f-9e98-4cb5-a58b-be48ee79b1d9___RS_HL 0700.JPG",
+    "crop_id": "blueberry",
+    "disease_class": "Blueberry___healthy",
+    "md5": "ca9832176bb2e22971ef13e97cf25b22"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Blueberry___healthy/0920d941-0a86-4797-9285-10f6f956b893___RS_HL 0455.JPG",
+    "crop_id": "blueberry",
+    "disease_class": "Blueberry___healthy",
+    "md5": "4d6b4e07f407d38584fcf194342ac720"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Blueberry___healthy/10c457f3-fe51-4f31-a78e-7a78d016d0f6___RS_HL 0362.JPG",
+    "crop_id": "blueberry",
+    "disease_class": "Blueberry___healthy",
+    "md5": "9c6ea88678c568b3999a54000f18d9e4"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Blueberry___healthy/0e0c9a84-af5e-454e-bb0d-606113953200___RS_HL 5092.JPG",
+    "crop_id": "blueberry",
+    "disease_class": "Blueberry___healthy",
+    "md5": "86553eebe519a9e2c81c37267547f91a"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Blueberry___healthy/0c7b9ac5-8174-4dbe-9cc3-043b920ec276___RS_HL 2290.JPG",
+    "crop_id": "blueberry",
+    "disease_class": "Blueberry___healthy",
+    "md5": "d417fd5117689d96802e7a25eded2204"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Cherry_(including_sour)___Powdery_mildew/00705aa7-5ea2-4419-9440-8ba65e108eb9___FREC_Pwd.M 0267.JPG",
+    "crop_id": "cherry",
+    "disease_class": "Cherry_(including_sour)___Powdery_mildew",
+    "md5": "86e571c6a3927f3e515997bc42755e51"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Cherry_(including_sour)___healthy/314c9e52-d530-4d1e-8115-f2ddc4b991f7___JR_HL 9860.JPG",
+    "crop_id": "cherry",
+    "disease_class": "Cherry_(including_sour)___healthy",
+    "md5": "cd4221f6247d2a71c861966be1344887"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Cherry_(including_sour)___healthy/0a273dc4-db45-4936-aee3-59919e1df44f___JR_HL 9805.JPG",
+    "crop_id": "cherry",
+    "disease_class": "Cherry_(including_sour)___healthy",
+    "md5": "b8836174cb4fff72ec7721f162d550cd"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Cherry_(including_sour)___healthy/04189592-5db7-441e-a831-eaaa2d7f5d21___JR_HL 9867.JPG",
+    "crop_id": "cherry",
+    "disease_class": "Cherry_(including_sour)___healthy",
+    "md5": "8b826f46321ce0c0c219ae78416b1f80"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Cherry_(including_sour)___healthy/0b677e8e-e97d-4909-9dcd-a744fb6ac8a3___JR_HL 4260.JPG",
+    "crop_id": "cherry",
+    "disease_class": "Cherry_(including_sour)___healthy",
+    "md5": "243244557844a813729cc59cfdb1deba"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Cherry_(including_sour)___healthy/03fac8d0-2e9a-4f2b-b1ce-e93c01f18809___JR_HL 4298.JPG",
+    "crop_id": "cherry",
+    "disease_class": "Cherry_(including_sour)___healthy",
+    "md5": "aec62b630cf819b34512c4878bdbacf6"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Cherry_(including_sour)___healthy/276ae5a6-460d-4a22-af95-0a4f8182610e___JR_HL 4222.JPG",
+    "crop_id": "cherry",
+    "disease_class": "Cherry_(including_sour)___healthy",
+    "md5": "2da2a73cf383211a67fc656e6d2c8eb5"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Cherry_(including_sour)___healthy/077273c0-4325-45d9-995e-20b060eab6bf___JR_HL 9494.JPG",
+    "crop_id": "cherry",
+    "disease_class": "Cherry_(including_sour)___healthy",
+    "md5": "b96bdd96bdc1d8cf3ca141bd33efb421"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Cherry_(including_sour)___healthy/1c936dce-c9d4-49ce-9c06-68ab90d78730___JR_HL 4230.JPG",
+    "crop_id": "cherry",
+    "disease_class": "Cherry_(including_sour)___healthy",
+    "md5": "923512077212cd64ceef43b14ee9d8fd"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Cherry_(including_sour)___healthy/1d981f31-74e1-4903-9e08-0475f632a5e3___JR_HL 9458.JPG",
+    "crop_id": "cherry",
+    "disease_class": "Cherry_(including_sour)___healthy",
+    "md5": "78e95952b85bdec3eba3c9cffbe09361"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Cherry_(including_sour)___healthy/014161fb-3c15-414b-9af3-00cb51a11d7c___JR_HL 9842.JPG",
+    "crop_id": "cherry",
+    "disease_class": "Cherry_(including_sour)___healthy",
+    "md5": "3ae315acd224a6647f335a5b65e28c39"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Cherry_(including_sour)___healthy/18e3c122-617d-4eea-abe5-81e910e58a3c___JR_HL 9830.JPG",
+    "crop_id": "cherry",
+    "disease_class": "Cherry_(including_sour)___healthy",
+    "md5": "4f099162e777360cf0f27668f25bc055"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Cherry_(including_sour)___Powdery_mildew/2030c843-fee8-4b7d-b784-faac863a658f___FREC_Pwd.M 4606.JPG",
+    "crop_id": "cherry",
+    "disease_class": "Cherry_(including_sour)___Powdery_mildew",
+    "md5": "aabb8590d7066b70c86f5ae3349ddc84"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Cherry_(including_sour)___healthy/0580bdc7-e60e-4ba9-87dc-1202e57b94aa___JR_HL 4159.JPG",
+    "crop_id": "cherry",
+    "disease_class": "Cherry_(including_sour)___healthy",
+    "md5": "c75726a460e126925eecbb74d8918803"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Cherry_(including_sour)___Powdery_mildew/0543e14a-64f1-495c-a33c-a9e2463a2a50___FREC_Pwd.M 4632.JPG",
+    "crop_id": "cherry",
+    "disease_class": "Cherry_(including_sour)___Powdery_mildew",
+    "md5": "885b543f22dcee51e54d5667c421c9ee"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Cherry_(including_sour)___healthy/01958ee7-f585-4956-90aa-a40dc79102d4___JR_HL 9836.JPG",
+    "crop_id": "cherry",
+    "disease_class": "Cherry_(including_sour)___healthy",
+    "md5": "240fe9995675a53f33d9271317243403"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Cherry_(including_sour)___healthy/0b2ed0b4-a6e1-4fb3-82dc-47f903f3d0a9___JR_HL 9603.JPG",
+    "crop_id": "cherry",
+    "disease_class": "Cherry_(including_sour)___healthy",
+    "md5": "ab7a4fa1ecfaa2102706b1ab8a5b014d"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Cherry_(including_sour)___Powdery_mildew/22259775-b4b5-4e64-a56f-b2be4260346d___FREC_Pwd.M 5133.JPG",
+    "crop_id": "cherry",
+    "disease_class": "Cherry_(including_sour)___Powdery_mildew",
+    "md5": "91780b4daf0c53d06e39ed186fa12b28"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Grape___Black_rot/004175d8-dc74-4285-8401-3cc9565730bb___FAM_B.Rot 0626.JPG",
+    "crop_id": "grape",
+    "disease_class": "Grape___Black_rot",
+    "md5": "fca7df58ba8683b2435a1556c1e9ef28"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Grape___healthy/0dca4cc0-2f37-4d55-8060-ce5e2137fd45___Mt.N.V_HL 9077.JPG",
+    "crop_id": "grape",
+    "disease_class": "Grape___healthy",
+    "md5": "a5198ceeee61c144e12a843e09f1a9a9"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Grape___Esca_(Black_Measles)/0336e894-5963-4a7e-9b56-e802473ae4c5___FAM_B.Msls 1231.JPG",
+    "crop_id": "grape",
+    "disease_class": "Grape___Esca_(Black_Measles)",
+    "md5": "17bdada0981cbafe5a4e6736d1744b57"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Grape___Esca_(Black_Measles)/01c74b8d-1113-47c0-86a3-6ceea27853c0___FAM_B.Msls 4113.JPG",
+    "crop_id": "grape",
+    "disease_class": "Grape___Esca_(Black_Measles)",
+    "md5": "4f195fa254060eac5395bbe16170c1d2"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Grape___Esca_(Black_Measles)/037b6ea5-3d81-4489-b7a3-1116ee2cc6e1___FAM_B.Msls 0944.JPG",
+    "crop_id": "grape",
+    "disease_class": "Grape___Esca_(Black_Measles)",
+    "md5": "7647c72f60c06ef2501cf356e0a7e217"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Grape___Esca_(Black_Measles)/0a29217d-3154-4541-8d23-9c5e8d9eeb85___FAM_B.Msls 4446.JPG",
+    "crop_id": "grape",
+    "disease_class": "Grape___Esca_(Black_Measles)",
+    "md5": "d8fd67682b6aa0e193e0dcd1483f7063"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Grape___healthy/0ce12a10-c6ff-494e-a927-5ddc809c707a___Mt.N.V_HL 8945.JPG",
+    "crop_id": "grape",
+    "disease_class": "Grape___healthy",
+    "md5": "9ab5d7bac5ec9639d5b00e3f570e846a"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Grape___Esca_(Black_Measles)/0279ec2c-5470-47e8-b1ba-79442bd323bb___FAM_B.Msls 4396.JPG",
+    "crop_id": "grape",
+    "disease_class": "Grape___Esca_(Black_Measles)",
+    "md5": "6958b726146f1861209d400f76cbcd49"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Grape___healthy/084c897b-172c-4263-8d46-c6a629449c60___Mt.N.V_HL 9045.JPG",
+    "crop_id": "grape",
+    "disease_class": "Grape___healthy",
+    "md5": "204b5d1dfafd200e36687235304daea2"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Grape___healthy/0ac4ff49-7fbf-4644-98a4-4dc596e2fa87___Mt.N.V_HL 9004.JPG",
+    "crop_id": "grape",
+    "disease_class": "Grape___healthy",
+    "md5": "10c7ca39f8fb649f20c0f4190e9690e2"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Grape___Esca_(Black_Measles)/01162551-b800-4df8-ac46-64d17d6ac5bf___FAM_B.Msls 1153.JPG",
+    "crop_id": "grape",
+    "disease_class": "Grape___Esca_(Black_Measles)",
+    "md5": "ccb38a0f3c3ec4dc762fc2e6b3f4f344"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Grape___healthy/1725a647-0866-45be-bd9f-e5add660c340___Mt.N.V_HL 9083.JPG",
+    "crop_id": "grape",
+    "disease_class": "Grape___healthy",
+    "md5": "32473a177ab5372fe13f52b488db40b0"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/16b21ef1-9dbd-4d9d-b1c9-6722dcce4bee___FAM_L.Blight 3691.JPG",
+    "crop_id": "grape",
+    "disease_class": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+    "md5": "ac04973a3101a50ac5469cd28177821a"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Grape___Esca_(Black_Measles)/0d35ae1a-b701-4c3e-994f-25cf8f8e4d83___FAM_B.Msls 4261.JPG",
+    "crop_id": "grape",
+    "disease_class": "Grape___Esca_(Black_Measles)",
+    "md5": "3add07ac8447dea9618ce677f892c983"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Grape___Black_rot/02c0e019-97c2-48f5-ac40-90b8789e6288___FAM_B.Rot 0753.JPG",
+    "crop_id": "grape",
+    "disease_class": "Grape___Black_rot",
+    "md5": "df857be70188da34b49ce93c3ae15dd3"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Grape___Esca_(Black_Measles)/062d27c7-8c0f-4ed9-bd63-e506d9965281___FAM_B.Msls 4200.JPG",
+    "crop_id": "grape",
+    "disease_class": "Grape___Esca_(Black_Measles)",
+    "md5": "5866b389ee2a66d830910219db1993e5"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Grape___healthy/02f95acb-5d92-4f2a-b7ec-3af8709ee7c9___Mt.N.V_HL 9078.JPG",
+    "crop_id": "grape",
+    "disease_class": "Grape___healthy",
+    "md5": "48da23094e1475f6193e66765bd698f4"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/04416a29-13a7-49a0-9ab3-f2725ca7b671___FAM_L.Blight 1481.JPG",
+    "crop_id": "grape",
+    "disease_class": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+    "md5": "024f160a9d05f17b9d966ad95ea5f5b1"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/00120a18-ff90-46e4-92fb-2b7a10345bd3___RS_GLSp 9357.JPG",
+    "crop_id": "maize",
+    "disease_class": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "dafb9cc8ef491f8b5e95c9c347e07222"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/04fd8e07-f450-4a00-ab97-b7b033226ddd___R.S_HL 7952 copy.jpg",
+    "crop_id": "maize",
+    "disease_class": "Corn_(maize)___healthy",
+    "md5": "26d480765fbe321caca86450e31d1432"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1580.JPG",
+    "crop_id": "maize",
+    "disease_class": "Corn_(maize)___Common_rust_",
+    "md5": "ecf634ef19402888f49514569832658d"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1574.JPG",
+    "crop_id": "maize",
+    "disease_class": "Corn_(maize)___Common_rust_",
+    "md5": "b07a6d8530ec89a4c9a4cd9d6bb19f4e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1581.JPG",
+    "crop_id": "maize",
+    "disease_class": "Corn_(maize)___Common_rust_",
+    "md5": "b4013f1391373b9f7d15d21018ab44b8"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Common_rust_/RS_Rust 1591.JPG",
+    "crop_id": "maize",
+    "disease_class": "Corn_(maize)___Common_rust_",
+    "md5": "d891ad3cfe3dc9310f6286f430fb8cfb"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/04ed222d-d287-4199-b412-f2f07c872bee___R.S_HL 8101 copy 2.jpg",
+    "crop_id": "maize",
+    "disease_class": "Corn_(maize)___healthy",
+    "md5": "4f82f7482fa8a462ea7d894daa715285"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1578.JPG",
+    "crop_id": "maize",
+    "disease_class": "Corn_(maize)___Common_rust_",
+    "md5": "ba14fc33d2f398d15b468ea688ddb42e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/03fc887f-e206-4233-8829-ff7070bb3449___R.S_HL 5519 copy 2.jpg",
+    "crop_id": "maize",
+    "disease_class": "Corn_(maize)___healthy",
+    "md5": "227ed1f01d46fc302a19b727ab607e48"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/04506233-3040-4d4b-9e8f-acdd0a1e9693___R.S_HL 7942 copy 2.jpg",
+    "crop_id": "maize",
+    "disease_class": "Corn_(maize)___healthy",
+    "md5": "f47943a6a11073c8e2c25a46e2bbaeff"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1567.JPG",
+    "crop_id": "maize",
+    "disease_class": "Corn_(maize)___Common_rust_",
+    "md5": "e9558385385f08835f84daabfc3a03dd"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___healthy/0b03beed-0247-4d38-87ba-eb5b94415312___R.S_HL 8233 copy 2.jpg",
+    "crop_id": "maize",
+    "disease_class": "Corn_(maize)___healthy",
+    "md5": "188d097b91a395a221825193df401bb0"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Northern_Leaf_Blight/0b5eb8db-3477-488b-9cce-6a7712d895ab___RS_NLB 4232.JPG",
+    "crop_id": "maize",
+    "disease_class": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "435ba80e9e5247cc81abf7eb9a7b07dd"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Common_rust_/RS_Rust 1613.JPG",
+    "crop_id": "maize",
+    "disease_class": "Corn_(maize)___Common_rust_",
+    "md5": "f87fc1d0424f1d884a435319aa450e91"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/05daf90f-9100-499f-a4aa-ebc5dfc20adf___RS_GLSp 7335.JPG",
+    "crop_id": "maize",
+    "disease_class": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "50ae6733fc4bdec415ed467078c359fc"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Common_rust_/RS_Rust 1570.JPG",
+    "crop_id": "maize",
+    "disease_class": "Corn_(maize)___Common_rust_",
+    "md5": "6559fff891a8cc88eb3eef0319168689"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/028ed539-32f5-4540-a6af-466179837de9___R.S_HL 8212 copy.jpg",
+    "crop_id": "maize",
+    "disease_class": "Corn_(maize)___healthy",
+    "md5": "eb2d4bd331a952968a9c519692a53574"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/055934ae-8875-4c5e-8c7b-d72287ae967c___RS_NLB 3637.JPG",
+    "crop_id": "maize",
+    "disease_class": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "a0e71cb1438b15dd8a25f2770012a7de"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Orange___Haunglongbing_(Citrus_greening)/000945ae-3cf5-48c2-86a2-a3f1e777f2c7___CREC_HLB 7640.JPG",
+    "crop_id": "orange",
+    "disease_class": "Orange___Haunglongbing_(Citrus_greening)",
+    "md5": "f15e2df6526551bf804b4145ac2a307c"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Orange___Haunglongbing_(Citrus_greening)/0e15fdfa-5f88-4f83-8d5f-231eaa08ec70___CREC_HLB 6788.JPG",
+    "crop_id": "orange",
+    "disease_class": "Orange___Haunglongbing_(Citrus_greening)",
+    "md5": "889daddec46a5fd1a508f056c19423f3"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Orange___Haunglongbing_(Citrus_greening)/0d1c81c8-6d72-42f1-9c71-18055e275a50___CREC_HLB 7416.JPG",
+    "crop_id": "orange",
+    "disease_class": "Orange___Haunglongbing_(Citrus_greening)",
+    "md5": "6421695e37f83226744513bf0c1408e8"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Orange___Haunglongbing_(Citrus_greening)/06a54f29-61ca-4ea4-a08e-37139b995508___UF.Citrus_HLB_Lab 0884.JPG",
+    "crop_id": "orange",
+    "disease_class": "Orange___Haunglongbing_(Citrus_greening)",
+    "md5": "bb81a31ec4fc4fc829bde3a647c65501"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Orange___Haunglongbing_(Citrus_greening)/0dfba584-5440-4e14-b20c-917fc29b7c7e___UF.Citrus_HLB_Lab 9824.JPG",
+    "crop_id": "orange",
+    "disease_class": "Orange___Haunglongbing_(Citrus_greening)",
+    "md5": "bf796e3e410bfc059ee8d6ecf9f7dceb"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Orange___Haunglongbing_(Citrus_greening)/060786c7-31fd-428e-b1e8-c2141078e344___CREC_HLB 7099.JPG",
+    "crop_id": "orange",
+    "disease_class": "Orange___Haunglongbing_(Citrus_greening)",
+    "md5": "d92cd100554c18ab6f05004a3b402cee"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Orange___Haunglongbing_(Citrus_greening)/0d888302-d246-4f6c-829a-dcd03cd3b6f3___CREC_HLB 6948.JPG",
+    "crop_id": "orange",
+    "disease_class": "Orange___Haunglongbing_(Citrus_greening)",
+    "md5": "13d204f69a99c26ccb7b219b24263124"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Orange___Haunglongbing_(Citrus_greening)/0a5026a4-68e9-4cd9-8510-5bdb9d0271f9___UF.Citrus_HLB_Lab 0893.JPG",
+    "crop_id": "orange",
+    "disease_class": "Orange___Haunglongbing_(Citrus_greening)",
+    "md5": "6f4b2e053b3523935265dd4ee46b41cd"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Orange___Haunglongbing_(Citrus_greening)/09879f50-9755-442a-b725-b6358a654db1___CREC_HLB 5132.JPG",
+    "crop_id": "orange",
+    "disease_class": "Orange___Haunglongbing_(Citrus_greening)",
+    "md5": "ae5dc2465b54b7a994c793a5687df6d5"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Orange___Haunglongbing_(Citrus_greening)/0a69c0ed-101b-4cbb-99c2-18fae9efab7c___CREC_HLB 3868.JPG",
+    "crop_id": "orange",
+    "disease_class": "Orange___Haunglongbing_(Citrus_greening)",
+    "md5": "6d2d917745948eb10c5711296c5c370d"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Orange___Haunglongbing_(Citrus_greening)/02651ca6-c0db-477f-ac02-2f3c41eca567___CREC_HLB 5661.JPG",
+    "crop_id": "orange",
+    "disease_class": "Orange___Haunglongbing_(Citrus_greening)",
+    "md5": "b620eb4a399cc03ec7d22a72ee1b7e7a"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Orange___Haunglongbing_(Citrus_greening)/08b35a55-285e-4f02-a6bf-9cdf9eea5597___CREC_HLB 7485.JPG",
+    "crop_id": "orange",
+    "disease_class": "Orange___Haunglongbing_(Citrus_greening)",
+    "md5": "ff737cb8fee0306fac3ee8fea7e814bc"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Orange___Haunglongbing_(Citrus_greening)/038bf9c0-4146-4a59-b6c9-a2e8cb2b0ce5___CREC_HLB 4846.JPG",
+    "crop_id": "orange",
+    "disease_class": "Orange___Haunglongbing_(Citrus_greening)",
+    "md5": "23b8767428447526c6372aedc9845dd6"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Orange___Haunglongbing_(Citrus_greening)/090fa188-d967-41e4-b346-da958d9c2ee5___CREC_HLB 4456.JPG",
+    "crop_id": "orange",
+    "disease_class": "Orange___Haunglongbing_(Citrus_greening)",
+    "md5": "95f21d0abb81e6a14e4d4a43b4903c4e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Orange___Haunglongbing_(Citrus_greening)/0281a45a-3bcd-4c94-8c3d-4d8ff3881ccc___CREC_HLB 4304.JPG",
+    "crop_id": "orange",
+    "disease_class": "Orange___Haunglongbing_(Citrus_greening)",
+    "md5": "20c3df03ab4e08247e92e838e9c6d16c"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Orange___Haunglongbing_(Citrus_greening)/0363e10d-63c1-4dad-9cd6-bb4b0339441f___CREC_HLB 5675.JPG",
+    "crop_id": "orange",
+    "disease_class": "Orange___Haunglongbing_(Citrus_greening)",
+    "md5": "794cc2ec591acf4d0b4bb0fff8952a26"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Orange___Haunglongbing_(Citrus_greening)/03127ac5-da7e-4faf-8aee-917c361a01e0___CREC_HLB 4599.JPG",
+    "crop_id": "orange",
+    "disease_class": "Orange___Haunglongbing_(Citrus_greening)",
+    "md5": "dd1bda8f404caa3dd2a9418697355940"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Orange___Haunglongbing_(Citrus_greening)/03af5c7f-4be6-4fc1-b46c-a155d321ca67___UF.Citrus_HLB_Lab 1106.JPG",
+    "crop_id": "orange",
+    "disease_class": "Orange___Haunglongbing_(Citrus_greening)",
+    "md5": "d4e324ae8949fde1ed4795c15ac0234f"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Peach___Bacterial_spot/00130039-8425-42e9-9dd9-15aead7271ff___Rut._Bact.S 3421.JPG",
+    "crop_id": "peach",
+    "disease_class": "Peach___Bacterial_spot",
+    "md5": "1423ff810b4ee01316de6446f55bc248"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Peach___healthy/5ebee827-88b2-4897-9d60-bb5c3bf55307___Rutg._HL 3712.JPG",
+    "crop_id": "peach",
+    "disease_class": "Peach___healthy",
+    "md5": "cb3e69ebb8684fddd9b63f71662fc4f3"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Peach___healthy/10cb4d5e-c22a-4b3b-8725-3a78368d257d___Rutg._HL 3538.JPG",
+    "crop_id": "peach",
+    "disease_class": "Peach___healthy",
+    "md5": "692e78928bbb9c4545ad1c7ba5309fbe"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Peach___healthy/0999b486-f391-4b79-8c3f-41e957e606a7___Rutg._HL 3701.JPG",
+    "crop_id": "peach",
+    "disease_class": "Peach___healthy",
+    "md5": "3e80f1049f89b8d0db542f005d82a9ad"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Peach___healthy/13cd3713-b0ae-4a7f-a0f6-b3a6cc2fd932___Rutg._HL 2477.JPG",
+    "crop_id": "peach",
+    "disease_class": "Peach___healthy",
+    "md5": "28e31cab0cfb4344b77177691655e713"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Peach___healthy/0904cac4-8eed-4e7a-86f2-c4c27e9753a0___Rutg._HL 2423.JPG",
+    "crop_id": "peach",
+    "disease_class": "Peach___healthy",
+    "md5": "ea94c866e6037273ef01574d4dab8f53"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Peach___healthy/5b4ce44b-5186-4ee8-9b5f-19ee5a01a2ea___Rutg._HL 3551.JPG",
+    "crop_id": "peach",
+    "disease_class": "Peach___healthy",
+    "md5": "8dd38dbe829cf5a1b1d2bf739601eada"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Peach___healthy/0d082b09-eca2-4ee5-b7b5-e840590bceac___Rutg._HL 3574.JPG",
+    "crop_id": "peach",
+    "disease_class": "Peach___healthy",
+    "md5": "990809ff1afb39e66bcb1ce713436129"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Peach___healthy/493f89d6-f910-44c4-9da0-6bd3d7358fa3___Rutg._HL 2480.JPG",
+    "crop_id": "peach",
+    "disease_class": "Peach___healthy",
+    "md5": "1a72318307db370f18062305c693884c"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Peach___healthy/5227377f-ffad-4c90-8bd6-a778cae82e1f___Rutg._HL 3599.JPG",
+    "crop_id": "peach",
+    "disease_class": "Peach___healthy",
+    "md5": "efe488d6969abc38911716d7afb11ce7"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Peach___healthy/0598c367-7200-4f61-af7b-eddb6bf99e55___Rutg._HL 3737.JPG",
+    "crop_id": "peach",
+    "disease_class": "Peach___healthy",
+    "md5": "e8edfba4a9244362e997a5c1382ef7b9"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Peach___healthy/351fa63d-34fc-4cfc-bfd0-437387c63973___Rutg._HL 3694.JPG",
+    "crop_id": "peach",
+    "disease_class": "Peach___healthy",
+    "md5": "b5f30660260d4fd34b361970adc5737f"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Peach___Bacterial_spot/0f3f66b4-b358-46e1-809d-5365b8e04c25___Rutg._Bact.S 2166.JPG",
+    "crop_id": "peach",
+    "disease_class": "Peach___Bacterial_spot",
+    "md5": "28a1b5cf8303f85aad3b22b59e36c7c7"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Peach___healthy/0c387b80-6b69-4b54-9ec5-e2ebdabdff83___Rutg._HL 3706.JPG",
+    "crop_id": "peach",
+    "disease_class": "Peach___healthy",
+    "md5": "b481c9ab27d88a7d529da3291e9aa029"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Peach___Bacterial_spot/025fdbf8-0339-4821-b788-d2a92b974d31___Rutg._Bact.S 2047.JPG",
+    "crop_id": "peach",
+    "disease_class": "Peach___Bacterial_spot",
+    "md5": "9c12e6c0de88dad0e8491361b8f814cf"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Peach___healthy/05e0cf21-79e1-40a9-857b-26f11c9fdd12___Rutg._HL 3650.JPG",
+    "crop_id": "peach",
+    "disease_class": "Peach___healthy",
+    "md5": "81d0df31be69d3e1287d1098a1855236"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Peach___healthy/06fdeacf-ac44-4af3-9541-25c77806b8e1___Rutg._HL 3549.JPG",
+    "crop_id": "peach",
+    "disease_class": "Peach___healthy",
+    "md5": "f44cb7f35a767386bda18af030769ac3"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Peach___Bacterial_spot/0fd9e444-ff39-4714-9d04-5220dc0c0754___Rut._Bact.S 1289.JPG",
+    "crop_id": "peach",
+    "disease_class": "Peach___Bacterial_spot",
+    "md5": "73c2af7945d33f1e86a8938ec2d00244"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Potato___Early_blight/001187a0-57ab-4329-baff-e7246a9edeb0___RS_Early.B 8178.JPG",
+    "crop_id": "potato",
+    "disease_class": "Potato___Early_blight",
+    "md5": "179b88359c32acd18b02dca04586f7b7"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Potato___Late_blight/04fe5855-ec9c-40b3-9893-ca8addc236bd___RS_LB 4913.JPG",
+    "crop_id": "potato",
+    "disease_class": "Potato___Late_blight",
+    "md5": "2858dff6979919e9ca1b2f4c43feab13"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Potato___Early_blight/16133ed7-f960-44a5-bd03-8e665e777363___RS_Early.B 7504.JPG",
+    "crop_id": "potato",
+    "disease_class": "Potato___Early_blight",
+    "md5": "e64f13a7b1ad3c524154abee08133156"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Potato___Early_blight/0a8a68ee-f587-4dea-beec-79d02e7d3fa4___RS_Early.B 8461.JPG",
+    "crop_id": "potato",
+    "disease_class": "Potato___Early_blight",
+    "md5": "3500894ac8e5461e1e1d1f21e1349da0"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Potato___healthy/a3ec91aa-8503-4711-a912-0d1427e25686___RS_HL 5409.JPG",
+    "crop_id": "potato",
+    "disease_class": "Potato___healthy",
+    "md5": "3a447241f8e8195bd25418b2d6556514"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Potato___healthy/4bbccfb6-5720-4c80-9b37-0c3ed8999c9f___RS_HL 1791.JPG",
+    "crop_id": "potato",
+    "disease_class": "Potato___healthy",
+    "md5": "7b2b479b475feef4410f3baf1bde3299"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Potato___healthy/a02b6205-b40a-4178-8b34-3494f84b9d1f___RS_HL 1958.JPG",
+    "crop_id": "potato",
+    "disease_class": "Potato___healthy",
+    "md5": "187d7e969f5b95c6b3511201d11f4ad1"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Potato___healthy/8b2ce6b6-f00a-4f25-ac6d-4249dd7dc5f6___RS_HL 1890.JPG",
+    "crop_id": "potato",
+    "disease_class": "Potato___healthy",
+    "md5": "008da30b1c4708bd67d56de041fb4cec"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Potato___healthy/875d6ded-5f01-495c-a945-ad2e17f87f91___RS_HL 1848.JPG",
+    "crop_id": "potato",
+    "disease_class": "Potato___healthy",
+    "md5": "90b1f286ec4964748465f315e2990d7a"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Potato___Late_blight/03bab48b-962b-4c08-bc98-da95237d20ac___RS_LB 3190.JPG",
+    "crop_id": "potato",
+    "disease_class": "Potato___Late_blight",
+    "md5": "06c160094aa15cd6eb4ee6971ae449ef"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Potato___Late_blight/01270f5c-a44b-4da7-9398-289088c197ab___RS_LB 2517.JPG",
+    "crop_id": "potato",
+    "disease_class": "Potato___Late_blight",
+    "md5": "9ba23b35178d17ed2de31275c1f5f68e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Potato___healthy/57e24d88-fd01-4422-b8b5-d688d2296184___RS_HL 5401.JPG",
+    "crop_id": "potato",
+    "disease_class": "Potato___healthy",
+    "md5": "be6f80d7f1eb89a003dc1eaeec45dbbb"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Potato___Early_blight/07d777f8-2c5a-48da-935e-f17c572b1e6e___RS_Early.B 7880.JPG",
+    "crop_id": "potato",
+    "disease_class": "Potato___Early_blight",
+    "md5": "b8f04d970e55116314e5134fb35a4460"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Potato___healthy/5fcbde8f-52af-4963-b324-ff7f4dd6bd4c___RS_HL 1762.JPG",
+    "crop_id": "potato",
+    "disease_class": "Potato___healthy",
+    "md5": "afec70ebefbf2daaa8adae46367cb95a"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Potato___Late_blight/12d72127-7880-4481-b3c6-caff04116a86___RS_LB 2632.JPG",
+    "crop_id": "potato",
+    "disease_class": "Potato___Late_blight",
+    "md5": "8742d46d0defa7748cf7749f84ab86d4"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Potato___healthy/369479a9-3c28-4d77-8731-9ae54e719af3___RS_HL 1785.JPG",
+    "crop_id": "potato",
+    "disease_class": "Potato___healthy",
+    "md5": "6da8fb5218918f560710c04a50ac429a"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Potato___Early_blight/0604174e-3018-4faa-9975-0be32d2c0789___RS_Early.B 7123.JPG",
+    "crop_id": "potato",
+    "disease_class": "Potato___Early_blight",
+    "md5": "429dceb5dbba1caeb81a4971829a6bc7"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Potato___Late_blight/1b8ae46e-1202-4715-8ad1-fd18046c42d3___RS_LB 3880.JPG",
+    "crop_id": "potato",
+    "disease_class": "Potato___Late_blight",
+    "md5": "47ce03505d3135de262ead6bdf247e45"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Raspberry___healthy/00a3fc0e-64cc-4e35-ac2f-aef04fda9b22___Mary_HL 9177.JPG",
+    "crop_id": "raspberry",
+    "disease_class": "Raspberry___healthy",
+    "md5": "d1c650aa52fc1d3d09be5e203896a99d"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Raspberry___healthy/c1311840-6ce5-4d86-a282-b483d67a0155___Mary_HL 9227.JPG",
+    "crop_id": "raspberry",
+    "disease_class": "Raspberry___healthy",
+    "md5": "731c274328488e4e6d1ad72d2578828f"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Raspberry___healthy/b8a96dea-8442-4855-9fdf-c29c9d4eca5a___Mary_HL 6398.JPG",
+    "crop_id": "raspberry",
+    "disease_class": "Raspberry___healthy",
+    "md5": "c716cf06eb7c9ff7d2afb57953c9801d"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Raspberry___healthy/75b57c5e-9275-4342-882d-f144af40c631___Mary_HL 9346.JPG",
+    "crop_id": "raspberry",
+    "disease_class": "Raspberry___healthy",
+    "md5": "42a95ff1cbfe6f62d637774119c2340d"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Raspberry___healthy/c0f97900-7342-4275-8d6d-40d49d35df75___Mary_HL 6216.JPG",
+    "crop_id": "raspberry",
+    "disease_class": "Raspberry___healthy",
+    "md5": "a20739a1f43120813f66006980a8e19b"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Raspberry___healthy/7144dcc1-87b5-4c76-9200-965dde6bc779___Mary_HL 9171.JPG",
+    "crop_id": "raspberry",
+    "disease_class": "Raspberry___healthy",
+    "md5": "d404ab122f9f5c58e42a10fc10e975aa"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Raspberry___healthy/ba2f9f86-c854-42d0-bc56-0992eaa2799a___Mary_HL 6302.JPG",
+    "crop_id": "raspberry",
+    "disease_class": "Raspberry___healthy",
+    "md5": "f9c0a0e30d530ea1bcbd95d2a8f2aec8"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Raspberry___healthy/9f89443e-fa60-4b30-b579-1542b87f8c99___Mary_HL 9245.JPG",
+    "crop_id": "raspberry",
+    "disease_class": "Raspberry___healthy",
+    "md5": "646319d3697252e93a68c71ed8b9c0b3"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Raspberry___healthy/98226f66-15a1-40d5-9b62-04ae5b4fd8d5___Mary_HL 9159.JPG",
+    "crop_id": "raspberry",
+    "disease_class": "Raspberry___healthy",
+    "md5": "e360961a97478beccce87448485e43ab"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Raspberry___healthy/9fc0d788-9c2b-4067-ba69-3aca330fd389___Mary_HL 9145.JPG",
+    "crop_id": "raspberry",
+    "disease_class": "Raspberry___healthy",
+    "md5": "1fd9e48f1866f07ae125df45903696df"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Raspberry___healthy/39c58533-32b4-46c6-b512-26168583d80c___Mary_HL 9199.JPG",
+    "crop_id": "raspberry",
+    "disease_class": "Raspberry___healthy",
+    "md5": "393b22cd6a9ef15ec484a6f823e1f0f7"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Raspberry___healthy/7fdeb60a-15db-4759-858a-e1118bad583a___Mary_HL 9194.JPG",
+    "crop_id": "raspberry",
+    "disease_class": "Raspberry___healthy",
+    "md5": "97012d4aae8f25678bc9af4d034be955"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Raspberry___healthy/22b87710-2baf-40c8-b37c-9b753a542813___Mary_HL 9226.JPG",
+    "crop_id": "raspberry",
+    "disease_class": "Raspberry___healthy",
+    "md5": "d4165c7f56034f5435b41d9677dccb51"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Raspberry___healthy/894cf725-37b5-498f-beae-d1a9a3e32bac___Mary_HL 6388.JPG",
+    "crop_id": "raspberry",
+    "disease_class": "Raspberry___healthy",
+    "md5": "05d840dcd851da334c30d22fc6b5db69"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Raspberry___healthy/17e50337-1fc7-413d-a9e5-2825b1b8e7bb___Mary_HL 6390.JPG",
+    "crop_id": "raspberry",
+    "disease_class": "Raspberry___healthy",
+    "md5": "bda024e436d15d49270560b95f15b9ee"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Raspberry___healthy/463042b8-3b99-473c-b59e-756f6eaf4400___Mary_HL 9221.JPG",
+    "crop_id": "raspberry",
+    "disease_class": "Raspberry___healthy",
+    "md5": "8be142132948c9fd0fce08c103ab2ebb"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Raspberry___healthy/3d9757e9-7753-4d8c-8c60-d78f4522b021___Mary_HL 6352.JPG",
+    "crop_id": "raspberry",
+    "disease_class": "Raspberry___healthy",
+    "md5": "9ecf0a557289627034e76b4c053e4072"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Raspberry___healthy/23ba8894-db3b-4a55-8a7b-703bf9ddaccc___Mary_HL 9138.JPG",
+    "crop_id": "raspberry",
+    "disease_class": "Raspberry___healthy",
+    "md5": "b201ac8fad0f7a5e60e035ea3ba28e86"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Soybean___healthy/0007ca44-b81d-475c-b8b5-c226a041f020___RS_HL 6331.JPG",
+    "crop_id": "soybean",
+    "disease_class": "Soybean___healthy",
+    "md5": "3176228ae48e90982b93c23876529955"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Soybean___healthy/0efbdb1a-023c-4280-8afe-e4e0f380c5af___RS_HL 4010.JPG",
+    "crop_id": "soybean",
+    "disease_class": "Soybean___healthy",
+    "md5": "9e779acbf288ded8840a45d986eb091e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Soybean___healthy/0e5cc13e-d980-4e3d-bbf3-1e230d7abd86___RS_HL 3711.JPG",
+    "crop_id": "soybean",
+    "disease_class": "Soybean___healthy",
+    "md5": "f3b2000cefd7938367f4581215df5a7f"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Soybean___healthy/08132ae0-becf-4283-966c-9ca9fedd7d38___RS_HL 6186.JPG",
+    "crop_id": "soybean",
+    "disease_class": "Soybean___healthy",
+    "md5": "e66d6ff0300f5a2550d085ea13366bb7"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Soybean___healthy/0e95d8eb-a44a-4db9-a257-a3270863ebf7___RS_HL 6046.JPG",
+    "crop_id": "soybean",
+    "disease_class": "Soybean___healthy",
+    "md5": "b7b4c754e7921889a49d78898b6d8e3c"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Soybean___healthy/074e197c-d75c-4168-8643-f54f945286c9___RS_HL 4605.JPG",
+    "crop_id": "soybean",
+    "disease_class": "Soybean___healthy",
+    "md5": "43303e656b0818394ef34728697f38ed"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Soybean___healthy/0e7617e5-8ef1-45be-83ca-04465a10f5de___RS_HL 6717.JPG",
+    "crop_id": "soybean",
+    "disease_class": "Soybean___healthy",
+    "md5": "88d48c0ba7219983ad4a3dfd14a7137d"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Soybean___healthy/0d1fb4ab-e4c4-4aa0-ac62-739c57a0d8c6___RS_HL 5830.JPG",
+    "crop_id": "soybean",
+    "disease_class": "Soybean___healthy",
+    "md5": "5a31935bf2fc0dd441af48162b4218b3"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Soybean___healthy/0b694607-c999-4e91-be01-224859f658dc___RS_HL 3383.JPG",
+    "crop_id": "soybean",
+    "disease_class": "Soybean___healthy",
+    "md5": "4296a3ae255c5cacc33d6103adbc3608"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Soybean___healthy/0d2616e4-9fa2-453b-b3aa-778d3335312f___RS_HL 3798.JPG",
+    "crop_id": "soybean",
+    "disease_class": "Soybean___healthy",
+    "md5": "35998e30c8ed0a25f3b3232e16f38a7f"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Soybean___healthy/02dde1ba-e68e-4ce5-b341-65e7c552ceac___RS_HL 5648.JPG",
+    "crop_id": "soybean",
+    "disease_class": "Soybean___healthy",
+    "md5": "e128d114a4968c32b013a4b548689eae"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Soybean___healthy/09e619a9-6a35-497c-aafb-e85f8df0b1b7___RS_HL 3629.JPG",
+    "crop_id": "soybean",
+    "disease_class": "Soybean___healthy",
+    "md5": "0f8f94ef4e323ef616a5e95cece663ed"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Soybean___healthy/0304e96b-dbcc-477c-82d9-a6ecfbbd2c0f___RS_HL 5951.JPG",
+    "crop_id": "soybean",
+    "disease_class": "Soybean___healthy",
+    "md5": "9d66ae40dab1a3ad5d0300b52a78c43a"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Soybean___healthy/0a78db40-b53d-4d33-90fd-c26323f77258___RS_HL 5081.JPG",
+    "crop_id": "soybean",
+    "disease_class": "Soybean___healthy",
+    "md5": "b43da9500b19fc8585b9a0a56cb7172e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Soybean___healthy/01d36fe5-7f15-4203-bb58-f07530227073___RS_HL 5148.JPG",
+    "crop_id": "soybean",
+    "disease_class": "Soybean___healthy",
+    "md5": "840f84305e9d506b7c78b3e3300ea261"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Soybean___healthy/04bc7e4f-8fea-40cd-a4d3-4c83c823c526___RS_HL 6072.JPG",
+    "crop_id": "soybean",
+    "disease_class": "Soybean___healthy",
+    "md5": "4b51a01772d66b65b07fdafbb21b5f49"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Soybean___healthy/045dba20-7120-47d2-b7dc-86cdbe77580b___RS_HL 4774.JPG",
+    "crop_id": "soybean",
+    "disease_class": "Soybean___healthy",
+    "md5": "739e2b61c464de6f4f824c1589758ab3"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Soybean___healthy/03235cc8-2d8d-4bd3-b40f-558d0058ea70___RS_HL 4680.JPG",
+    "crop_id": "soybean",
+    "disease_class": "Soybean___healthy",
+    "md5": "8a882dacc32682c2eb2b7abb2931e310"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Squash___Powdery_mildew/0045a100-36d3-45df-b417-d487d6e07eb4___UMD_Powd.M 0003.JPG",
+    "crop_id": "squash",
+    "disease_class": "Squash___Powdery_mildew",
+    "md5": "3f46e77d01fa0b4a2e2cd92a5e561382"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Squash___Powdery_mildew/3401fa4c-3ff4-467e-b208-f152f1a9a50b___UMD_Powd.M 0429.JPG",
+    "crop_id": "squash",
+    "disease_class": "Squash___Powdery_mildew",
+    "md5": "93988f88e1107d49d3c35b3009d6ae5b"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Squash___Powdery_mildew/2ca04622-a708-4e0b-a3d9-ee0f685708b5___MD_Powd.M 0052.JPG",
+    "crop_id": "squash",
+    "disease_class": "Squash___Powdery_mildew",
+    "md5": "334f0e698872acaecde80e64a80669d8"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Squash___Powdery_mildew/19ba7276-1f19-422e-90ae-5c45a0d0e965___UMD_Powd.M 9777.JPG",
+    "crop_id": "squash",
+    "disease_class": "Squash___Powdery_mildew",
+    "md5": "73c5afab4c4ec1a49b1e15f20f91bb13"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Squash___Powdery_mildew/32fa34a6-8bda-4612-b318-99f2339c5a1d___UMD_Powd.M 0518.JPG",
+    "crop_id": "squash",
+    "disease_class": "Squash___Powdery_mildew",
+    "md5": "dfacdba33894014ecbde7d2b7a609b31"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Squash___Powdery_mildew/18ddfc71-1d5b-43f2-937e-2e6c1e3bc8d4___UMD_Powd.M 0212.JPG",
+    "crop_id": "squash",
+    "disease_class": "Squash___Powdery_mildew",
+    "md5": "464bd2221f5adc036123cf3995c57678"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Squash___Powdery_mildew/2d08c98f-43b4-4b9c-a2a5-f055f58f5875___UMD_Powd.M 0460.JPG",
+    "crop_id": "squash",
+    "disease_class": "Squash___Powdery_mildew",
+    "md5": "79d428af6bc7c223687d9ea7b797d6f6"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Squash___Powdery_mildew/27d9264b-d2cc-45aa-9aa5-3b483b8212f8___MD_Powd.M 0388.JPG",
+    "crop_id": "squash",
+    "disease_class": "Squash___Powdery_mildew",
+    "md5": "8e8e05e2f5eeb9e65621b69f743c7003"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Squash___Powdery_mildew/25f2a85c-2b27-4708-a479-c57e3475f98a___MD_Powd.M 0374.JPG",
+    "crop_id": "squash",
+    "disease_class": "Squash___Powdery_mildew",
+    "md5": "093e6b7dc996bf9c5dc534ded8e0608c"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Squash___Powdery_mildew/29603b9a-79fc-4cb4-814c-fe9db0fc3973___UMD_Powd.M 0126.JPG",
+    "crop_id": "squash",
+    "disease_class": "Squash___Powdery_mildew",
+    "md5": "ce142144502c9e252b76e1419392cb7d"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Squash___Powdery_mildew/0b9a9359-d35a-483d-a19f-656485060f26___MD_Powd.M 0871.JPG",
+    "crop_id": "squash",
+    "disease_class": "Squash___Powdery_mildew",
+    "md5": "de92a757d9a25f323abccefcaf67c9e8"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Squash___Powdery_mildew/2322b277-2f19-464b-86cc-b10ff9236089___MD_Powd.M 0788.JPG",
+    "crop_id": "squash",
+    "disease_class": "Squash___Powdery_mildew",
+    "md5": "baa156455055db4a4a51447325c6fc8a"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Squash___Powdery_mildew/0c651f2e-6c35-49d9-9e4d-3c853b271610___UMD_Powd.M 0509.JPG",
+    "crop_id": "squash",
+    "disease_class": "Squash___Powdery_mildew",
+    "md5": "cc6a6df360ea8bc3a4bc50fe0e889827"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Squash___Powdery_mildew/243787b5-8072-45e3-b3cf-e2f08eb3c89f___MD_Powd.M 0723.JPG",
+    "crop_id": "squash",
+    "disease_class": "Squash___Powdery_mildew",
+    "md5": "4021bc78a144e87578fa5d972548b02c"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Squash___Powdery_mildew/07a25fb3-e97d-4678-af19-1dfab6553024___UMD_Powd.M 0454.JPG",
+    "crop_id": "squash",
+    "disease_class": "Squash___Powdery_mildew",
+    "md5": "e0f28cdcdd785921d647875615ed0766"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Squash___Powdery_mildew/0cc89556-cbac-487b-a674-2d0939db6448___MD_Powd.M 0736.JPG",
+    "crop_id": "squash",
+    "disease_class": "Squash___Powdery_mildew",
+    "md5": "1b309f8afd854f38f578fd31c7c8ab8d"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Squash___Powdery_mildew/0c4ba708-c14e-40ee-81a0-db067b2fa2ff___UMD_Powd.M 0017.JPG",
+    "crop_id": "squash",
+    "disease_class": "Squash___Powdery_mildew",
+    "md5": "1111a6f667bf02c00baecf348a2fb987"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Squash___Powdery_mildew/0ccd6d5d-6896-4ce5-8b14-87a794412881___MD_Powd.M 0543.JPG",
+    "crop_id": "squash",
+    "disease_class": "Squash___Powdery_mildew",
+    "md5": "b38e682c4b6e65a22beee930088b2753"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Strawberry___Leaf_scorch/0024203d-6e4c-490f-b9a8-e5926df0b76e___RS_L.Scorch 0795.JPG",
+    "crop_id": "strawberry",
+    "disease_class": "Strawberry___Leaf_scorch",
+    "md5": "f6afdfa8bbd6f865e3236050ffa40c60"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Strawberry___healthy/64939151-e6df-4236-8ba4-51ac9bcd7795___RS_HL 1811.JPG",
+    "crop_id": "strawberry",
+    "disease_class": "Strawberry___healthy",
+    "md5": "b4167b3469bb1222255105fea83578e3"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Strawberry___healthy/1171891a-bfa5-461f-803c-590f622b0f1c___RS_HL 4382.JPG",
+    "crop_id": "strawberry",
+    "disease_class": "Strawberry___healthy",
+    "md5": "e795c93bf7891609adb9908b03b56fa4"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Strawberry___healthy/08dd3504-4ea2-4afb-89ac-c666f3016b94___RS_HL 4619.JPG",
+    "crop_id": "strawberry",
+    "disease_class": "Strawberry___healthy",
+    "md5": "6b89dd4cb4009a1cdc8cbdef800ae3e1"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Strawberry___healthy/1345a880-f629-49ea-8524-234770fe3cc6___RS_HL 4529.JPG",
+    "crop_id": "strawberry",
+    "disease_class": "Strawberry___healthy",
+    "md5": "cac22a1291246f2ee8b4c6b977fe418a"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Strawberry___healthy/08ac4a71-35c5-45c5-8e49-20427b6e53db___RS_HL 4362.JPG",
+    "crop_id": "strawberry",
+    "disease_class": "Strawberry___healthy",
+    "md5": "b4fb575adf5c992f26c059f33de342c5"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Strawberry___healthy/60fba47d-a79f-4653-b6a4-1adeeb2603c0___RS_HL 1871.JPG",
+    "crop_id": "strawberry",
+    "disease_class": "Strawberry___healthy",
+    "md5": "0bf066364efe6d37fbd0f098f9aa4d17"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Strawberry___healthy/0de0d575-5dd7-4fca-b003-d4a13354c89d___RS_HL 4629.JPG",
+    "crop_id": "strawberry",
+    "disease_class": "Strawberry___healthy",
+    "md5": "0fcb9b27be19b14032fbf0d147a64255"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Strawberry___healthy/3cffaab3-eb47-4ba7-8596-35445be017fc___RS_HL 2217.JPG",
+    "crop_id": "strawberry",
+    "disease_class": "Strawberry___healthy",
+    "md5": "033993c9d0611d3b82d72c7688c4e1c7"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Strawberry___healthy/41dba974-b2b7-4e90-9c93-a8e29200f41c___RS_HL 1659.JPG",
+    "crop_id": "strawberry",
+    "disease_class": "Strawberry___healthy",
+    "md5": "92af4fdf3d4a25c561e76dc7600e5595"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Strawberry___healthy/02ecedef-e743-4909-a000-bff6ff373b6c___RS_HL 2222.JPG",
+    "crop_id": "strawberry",
+    "disease_class": "Strawberry___healthy",
+    "md5": "2c2a62a3f2455890b6bc31eac08e3f51"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Strawberry___healthy/36a5809f-afaf-4c09-ab0c-023ce4fb2ba6___RS_HL 4592.JPG",
+    "crop_id": "strawberry",
+    "disease_class": "Strawberry___healthy",
+    "md5": "7320715382065bb2b4c603e3262fd8df"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Strawberry___Leaf_scorch/24b4756b-eea7-43b9-ace7-8f74e68b8c4f___RS_L.Scorch 0991.JPG",
+    "crop_id": "strawberry",
+    "disease_class": "Strawberry___Leaf_scorch",
+    "md5": "0c26d511e59f95d1463af22070efa349"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Strawberry___healthy/0cb1928d-bed3-4bb7-8c08-35848eb0f7e8___RS_HL 1718.JPG",
+    "crop_id": "strawberry",
+    "disease_class": "Strawberry___healthy",
+    "md5": "d6a1ebb392db3d155d1bdd5326568b76"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Strawberry___Leaf_scorch/05063afb-0737-43d3-ae23-9bb42743bf7f___RS_L.Scorch 1097.JPG",
+    "crop_id": "strawberry",
+    "disease_class": "Strawberry___Leaf_scorch",
+    "md5": "708a56822c1cab2dfaa678adc9421df8"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Strawberry___healthy/0370bc9b-c0c8-49b5-b999-c44323c45216___RS_HL 2202.JPG",
+    "crop_id": "strawberry",
+    "disease_class": "Strawberry___healthy",
+    "md5": "d1d460c762a131b56154b340adb92490"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Strawberry___healthy/1d92fcef-79d0-469b-b9b1-71a318505821___RS_HL 4487.JPG",
+    "crop_id": "strawberry",
+    "disease_class": "Strawberry___healthy",
+    "md5": "9bac5a08def090f64020edbbed97308f"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Strawberry___Leaf_scorch/276ce824-a892-46f0-a68c-9153c9109de5___RS_L.Scorch 1190.JPG",
+    "crop_id": "strawberry",
+    "disease_class": "Strawberry___Leaf_scorch",
+    "md5": "513b894c1e8c0f09c8766e4ce3fd6c9a"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Tomato___Bacterial_spot/00416648-be6e-4bd4-bc8d-82f43f8a7240___GCREC_Bact.Sp 3110.JPG",
+    "crop_id": "tomato",
+    "disease_class": "Tomato___Bacterial_spot",
+    "md5": "0b678ddfa434697635b1e010eb11c6bd"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Tomato___Spider_mites Two-spotted_spider_mite/04b0cccf-da6f-4ad8-9ff9-0055170a990c___Com.G_SpM_FL 1284.JPG",
+    "crop_id": "tomato",
+    "disease_class": "Tomato___Spider_mites Two-spotted_spider_mite",
+    "md5": "1dea10edba184e664286335a4718c3fc"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Tomato___Spider_mites Two-spotted_spider_mite/0100e504-f6bc-464a-a181-38262117f30a___Com.G_SpM_FL 1202.JPG",
+    "crop_id": "tomato",
+    "disease_class": "Tomato___Spider_mites Two-spotted_spider_mite",
+    "md5": "2bd364c67c8ff9778877ab08fdf45714"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Tomato___Tomato_Yellow_Leaf_Curl_Virus/00576ef6-6fa0-40d2-b365-87850597bafd___UF.GRC_YLCV_Lab 01999.JPG",
+    "crop_id": "tomato",
+    "disease_class": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "md5": "fa656e9140aab15a7444013c55d71aea"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Tomato___Leaf_Mold/091238ce-b84c-4629-a8b2-ba78254bd2e0___Crnl_L.Mold 8788.JPG",
+    "crop_id": "tomato",
+    "disease_class": "Tomato___Leaf_Mold",
+    "md5": "280a67cbc002a51e1e8174a4b047ca40"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Tomato___Leaf_Mold/05138150-866c-460e-a252-19d269a81d4d___Crnl_L.Mold 6745.JPG",
+    "crop_id": "tomato",
+    "disease_class": "Tomato___Leaf_Mold",
+    "md5": "704107435ab715da4f0b0551ab1ae99a"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Tomato___Tomato_Yellow_Leaf_Curl_Virus/00b41556-fe22-41fb-93aa-76b0c45d923a___UF.GRC_YLCV_Lab 02644.JPG",
+    "crop_id": "tomato",
+    "disease_class": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "md5": "d40506d559e6594eef5164b4a157538d"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Tomato___healthy/00bce074-967b-4d50-967a-31fdaa35e688___RS_HL 0223.JPG",
+    "crop_id": "tomato",
+    "disease_class": "Tomato___healthy",
+    "md5": "c35bc8cffb051ae3226b6169fce510e8"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Tomato___Leaf_Mold/02a29ab9-8cba-47a0-bc2f-e7af7dbae149___Crnl_L.Mold 7165.JPG",
+    "crop_id": "tomato",
+    "disease_class": "Tomato___Leaf_Mold",
+    "md5": "9a4c4563128584513fb81d4822160c2e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Tomato___Early_blight/01f87f04-ff38-4aba-b7d1-587aa06e5282___RS_Erly.B 7851.JPG",
+    "crop_id": "tomato",
+    "disease_class": "Tomato___Early_blight",
+    "md5": "b364608a42716486fdedb02893292128"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Tomato___Spider_mites Two-spotted_spider_mite/003b7929-a364-4e74-be1c-37c4c0a6ec63___Com.G_SpM_FL 1414.JPG",
+    "crop_id": "tomato",
+    "disease_class": "Tomato___Spider_mites Two-spotted_spider_mite",
+    "md5": "2782cd8193b77dc02a279c8ff2b9dd32"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Tomato___Early_blight/01861c93-ea8b-4820-aaa8-cc6003b3e75b___RS_Erly.B 7855.JPG",
+    "crop_id": "tomato",
+    "disease_class": "Tomato___Early_blight",
+    "md5": "4b059dca4f34b2fde4847362d7e661f5"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Tomato___Late_blight/00ce4c63-9913-4b16-898c-29f99acf0dc3___RS_Late.B 4982.JPG",
+    "crop_id": "tomato",
+    "disease_class": "Tomato___Late_blight",
+    "md5": "2a6f5c85416b2c74e477820ab1232267"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Tomato___Tomato_Yellow_Leaf_Curl_Virus/009dd1f5-281a-4e54-9f80-a068d0d8cfcd___YLCV_NREC 2162.JPG",
+    "crop_id": "tomato",
+    "disease_class": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "md5": "7f84adf7626d5e2388b1c2b17819b2b8"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Tomato___Septoria_leaf_spot/009bb542-f0c0-40f2-98a7-f547c5adec45___Matt.S_CG 1355.JPG",
+    "crop_id": "tomato",
+    "disease_class": "Tomato___Septoria_leaf_spot",
+    "md5": "c338cf7ee1dbf595f935d4a05b429af2"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Tomato___healthy/000bf685-b305-408b-91f4-37030f8e62db___GH_HL Leaf 308.1.JPG",
+    "crop_id": "tomato",
+    "disease_class": "Tomato___healthy",
+    "md5": "016049c40e7748efe40b55054340cc1f"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Tomato___Tomato_Yellow_Leaf_Curl_Virus/003bce78-28c9-4612-b148-f621e9a23bd4___YLCV_GCREC 5154.JPG",
+    "crop_id": "tomato",
+    "disease_class": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "md5": "e09ac959d81c35b1e11f591c1b278aae"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Tomato___Target_Spot/0118ed61-b135-45be-ad81-7e2d54203be4___Com.G_TgS_FL 8241.JPG",
+    "crop_id": "tomato",
+    "disease_class": "Tomato___Target_Spot",
+    "md5": "14283a29c7ca89f63ed7744c0f8537c2"
+  }
+]

@@ -63,11 +63,22 @@ class GradCAM:
         self.target_layer.register_forward_hook(forward_hook)
         self.target_layer.register_full_backward_hook(backward_hook)
 
+    def _get_target_layer_for_model(self, model: nn.Module, layer_name: str) -> nn.Module:
+        """Find target layer in ResNet-18 model."""
+        if hasattr(model, layer_name):
+            layer = getattr(model, layer_name)
+            if isinstance(layer, nn.Sequential):
+                return layer[-1]
+            return layer
+        else:
+            raise ValueError(f"Layer '{layer_name}' not found in ResNet-18 model.")
+
     def generate_explanation(
         self, 
         image_input: Union[str, Path, Image.Image], 
         output_path: Optional[Union[str, Path]] = None,
-        target_class_idx: Optional[int] = None
+        target_class_idx: Optional[int] = None,
+        crop: str = "Potato"
     ) -> Dict[str, Any]:
         """
         Generate Grad-CAM heatmap visualization and diagnostic metadata.
@@ -76,6 +87,7 @@ class GradCAM:
             image_input: Path to leaf photo or PIL Image object.
             output_path: File path where blended heatmap visualization image will be saved.
             target_class_idx: Optional class index to explain (defaults to top predicted class).
+            crop: Target crop name (e.g. "Potato" or "Tomato").
             
         Returns:
             Dictionary containing:
@@ -94,19 +106,43 @@ class GradCAM:
         else:
             orig_pil = image_input.convert("RGB")
 
-        # Standard preprocessing matching training
-        transform = transforms.Compose([
-            transforms.Resize((224, 224)),
-            transforms.ToTensor(),
-            transforms.Normalize(mean=IMAGENET_MEAN, std=IMAGENET_STD)
-        ])
+        # Resolve active model for target crop
+        active_model = self.predictor.get_model(crop)
+        if active_model is None:
+            active_model = self.model
+            
+        # Hook activations and gradients on active model
+        activations = None
+        gradients = None
+        
+        target_layer = self._get_target_layer_for_model(active_model, "layer4")
+        
+        def forward_hook(module, input, output):
+            nonlocal activations
+            activations = output.detach()
+
+        def backward_hook(module, grad_input, grad_output):
+            nonlocal gradients
+            gradients = grad_output[0].detach()
+
+        h_f = target_layer.register_forward_hook(forward_hook)
+        h_b = target_layer.register_full_backward_hook(backward_hook)
+
+        # Align preprocessing transform with active predictor (letterbox or baseline)
+        transform = getattr(self.predictor, "transform", None)
+        if transform is None:
+            transform = transforms.Compose([
+                transforms.Resize((224, 224)),
+                transforms.ToTensor(),
+                transforms.Normalize(mean=IMAGENET_MEAN, std=IMAGENET_STD)
+            ])
         
         img_tensor = transform(orig_pil).unsqueeze(0).to(self.device) # Shape: [1, 3, 224, 224]
         img_tensor.requires_grad_()
 
         # 1. Forward Pass
-        self.model.zero_grad()
-        outputs = self.model(img_tensor)
+        active_model.zero_grad()
+        outputs = active_model(img_tensor)
         softmax_probs = torch.softmax(outputs, dim=1)[0]
         
         if target_class_idx is None:
@@ -116,18 +152,22 @@ class GradCAM:
         
         # 2. Backward Pass to calculate gradients w.r.t. target class score
         score.backward()
+        
+        # Remove hooks after backward pass
+        h_f.remove()
+        h_b.remove()
 
         # 3. Compute Grad-CAM weights and heatmap
-        gradients = self.gradients[0] # Shape: [512, 7, 7]
-        activations = self.activations[0] # Shape: [512, 7, 7]
+        grad_sample = gradients[0] # Shape: [512, 7, 7]
+        act_sample = activations[0] # Shape: [512, 7, 7]
 
         # Global average pooling of gradients
-        weights = torch.mean(gradients, dim=(1, 2)) # Shape: [512]
+        weights = torch.mean(grad_sample, dim=(1, 2)) # Shape: [512]
 
         # Weighted combination of feature maps
-        cam = torch.zeros(activations.shape[1:], dtype=torch.float32, device=self.device)
+        cam = torch.zeros(act_sample.shape[1:], dtype=torch.float32, device=self.device)
         for i, w in enumerate(weights):
-            cam += w * activations[i]
+            cam += w * act_sample[i]
 
         # Apply ReLU to zero out negative contributions
         cam = torch.relu(cam)
@@ -168,7 +208,7 @@ class GradCAM:
         blended_pil.save(output_path, "JPEG")
 
         # Get diagnostic prediction result
-        pred_result = self.predictor.predict(orig_pil)
+        pred_result = self.predictor.predict(orig_pil, crop=crop)
 
         return {
             "predicted_disease": pred_result["predicted_disease"],

@@ -41,9 +41,18 @@ def create_sample_leaf_image(class_name: str, index: int, target_dir: Path):
     return file_path
 
 def main():
-    print("Creating sample PlantVillage Potato dataset subset...")
-    dataset_base = settings.RAW_DATA_DIR / "plant_village_subset"
+    print("==================================================")
+    print(" AI Crop Doctor - Sample Leaf Image Generator ")
+    print("==================================================")
+    
+    # SAFETY GUARD: Writing synthetic geometric drawings to the active training directory
+    # (data/raw/plant_village_subset) is prohibited to prevent training set contamination.
+    # Synthetic samples are redirected to the quarantined archive directory.
+    dataset_base = settings.DATA_DIR / "archived_synthetic_samples" / "sample_generator_output"
     dataset_base.mkdir(parents=True, exist_ok=True)
+    
+    print(f"⚠️ SAFETY NOTICE: Active training directory is protected from contamination.")
+    print(f"Directing synthetic sample generation to: {dataset_base.relative_to(settings.BASE_DIR)}\n")
     
     total_created = 0
     for cls in CLASSES:
@@ -56,8 +65,8 @@ def main():
             
         print(f"  ✓ Created 5 sample images in: {cls_dir.relative_to(settings.BASE_DIR)}")
         
-    print(f"\n🎉 Successfully created {total_created} sample images across {len(CLASSES)} classes!")
-    print(f"Dataset root: {dataset_base}")
+    print(f"\n🎉 Successfully created {total_created} quarantined sample images across {len(CLASSES)} classes!")
+    print(f"Quarantined output root: {dataset_base}")
 
 if __name__ == "__main__":
     main()

@@ -15,8 +15,11 @@ def render_diagnosis_view(payload: Dict[str, Any], pil_image: Optional[Image.Ima
     # Disease Name Header & Confidence Metric
     disease_name = diag.get("disease", "Unknown")
     confidence = diag.get("confidence", 0.0)
-    conf_pct = round(confidence * 100, 1) if confidence <= 1.0 else round(confidence, 1)
+    # UI display formatting preserves internal confidence value without mutating it
+    conf_pct = round(confidence, 1)
     is_low_conf = diag.get("is_low_confidence", False)
+    is_rejected = diag.get("is_rejected", False)
+    pred_status = diag.get("prediction_status", "SUPPORTED_CONFIDENT")
 
     col_meta1, col_meta2, col_meta3 = st.columns(3)
     with col_meta1:
@@ -24,18 +27,37 @@ def render_diagnosis_view(payload: Dict[str, Any], pil_image: Optional[Image.Ima
     with col_meta2:
         st.metric("Visual Diagnosis", disease_name)
     with col_meta3:
-        st.metric("Classification Confidence", f"{conf_pct}%")
+        if is_rejected:
+            st.metric("Diagnostic Status", "Inconclusive / Rejected ❌", f"{conf_pct}%")
+        elif is_low_conf:
+            st.metric("Diagnostic Status", "Uncertain (Scout Field) ⚠️", f"{conf_pct}%")
+        else:
+            st.metric("Diagnostic Status", "Supported / Confident 🟢", f"{conf_pct}%")
 
-    # Low Confidence Warning Alert
-    if is_low_conf or diag.get("warning"):
-        st.warning("⚠️ **Low Diagnostic Certainty (< 60%)**: Classification confidence is low. Inspect secondary canopy leaves.")
+    # Diagnostic Alerts and Scientific Uncertainty Disclaimers
+    if "Model Pending" in disease_name or "specialist pending" in disease_name.lower() or "unsupported" in disease_name.lower():
+        st.info(f"ℹ️ **Crop Specialist Status**: Disease specialist model for **{diag.get('crop')}** is not available for this request. No disease prediction or chemical treatment is being fabricated.")
+    elif is_rejected:
+        st.error(
+            f"❌ **Prediction Inconclusive / Rejected (< 40.0% Confidence)**: "
+            f"Classification certainty ({conf_pct}%) is near random chance or input validation failed. "
+            "Disease-specific chemical fungicide recommendations are suppressed to prevent misapplication. "
+            "Please inspect secondary canopy leaves and re-take the photo under even lighting."
+        )
+    elif is_low_conf:
+        st.warning(
+            f"⚠️ **Low Diagnostic Certainty (< 60.0% Confidence)**: "
+            f"Tentative prediction ({conf_pct}%). "
+            "Chemical treatments are withheld pending physical confirmation of foliar lesions in the field."
+        )
+
 
     # Class Probabilities Breakdown
     with st.expander("📊 View Class Probabilities Breakdown", expanded=False):
         class_probs = diag.get("class_probabilities", {})
         if class_probs:
             # Clean class names for display
-            clean_probs = {k.replace("Potato___", "").replace("_", " "): v for k, v in class_probs.items()}
+            clean_probs = {k.split("___", 1)[-1].replace("_", " "): v for k, v in class_probs.items()}
             st.bar_chart(clean_probs)
 
     st.markdown("---")
@@ -58,4 +80,4 @@ def render_diagnosis_view(payload: Dict[str, Any], pil_image: Optional[Image.Ima
         else:
             st.info("Grad-CAM visual heatmap unavailable.")
 
-    st.caption("ℹ️ *Grad-CAM highlights image regions that contributed to the model's classification decision.*")
+    st.caption("ℹ️ *Grad-CAM highlights image regions that contributed to the model's classification decision. Softmax confidence indicates the neural network's relative activation distribution over trained classes, not a biological guarantee of leaf pathology.*")

@@ -1,0 +1,417 @@
+[
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000030.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "193a0b1d55b3139c3342d99974784f2f"
+  },
+  {
+    "path": "data/rice/raw/Rice___Leaf_smut_src/DSC_0505.jpg",
+    "class_name": "Rice___Leaf_smut",
+    "md5": "90adb89c67f995dffd9f3deb418b149d"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000039.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "afa45c5440e9134ca5232bc88b1b38aa"
+  },
+  {
+    "path": "data/rice/raw/Rice___Leaf_smut_src/DSC_0506.jpg",
+    "class_name": "Rice___Leaf_smut",
+    "md5": "26582db5d557a7261bfa52714c7d9486"
+  },
+  {
+    "path": "data/rice/raw/Rice___healthy_src/healthy_000041.jpg",
+    "class_name": "Rice___healthy",
+    "md5": "0cf8ecbd1b9b4f65ed31d0af6df00508"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000003.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "380c171263136df7c2b9f2d9bc16d0d7"
+  },
+  {
+    "path": "data/rice/raw/Rice___Leaf_smut_src/DSC_0507.jpg",
+    "class_name": "Rice___Leaf_smut",
+    "md5": "76165e0be58ff3d0d016655c60c41439"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000146.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "3c67270ea3f64d6d2b1e5daefcbd5a3f"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000052.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "1ca5cc9ff9f2a7a1b537eb5d83637f4d"
+  },
+  {
+    "path": "data/rice/raw/Rice___healthy_src/healthy_000019.jpg",
+    "class_name": "Rice___healthy",
+    "md5": "810859808a0892b9738e4fc602acefda"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000096.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "7dab63cb9ecad5e6677dc5ee99b59676"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000030.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "94870ed220f626c5f715854a16f56e54"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000160.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "5628a3a1197642d3958061849edc5c0c"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000102.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "88bee04dc22ba9d8cb189f4997b71ed5"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000083.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "a1fbf720dafe0b9a120f689f1df29981"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000195.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "b951124ee387ce1fd4b34973882d7226"
+  },
+  {
+    "path": "data/rice/raw/Rice___healthy_src/healthy_000069.jpg",
+    "class_name": "Rice___healthy",
+    "md5": "11bfc07858e38eed78ac3a2d4209b6ef"
+  },
+  {
+    "path": "data/rice/raw/Rice___Leaf_smut_src/DSC_0511.jpg",
+    "class_name": "Rice___Leaf_smut",
+    "md5": "b45e8289c2b3d38d19ddff55fa71f7d6"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000200.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "887bccd729d691beff9cac26f19139de"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000042.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "e7a56bff8685fad6969a7c6da01af5aa"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000019.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "1182144c08e8d51fdbbf29ce39ced798"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000006.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "b17a7b16c22d4e4f0327500f1351d813"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000117.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "64ff7c2c2100b82f0cd925d2da59568e"
+  },
+  {
+    "path": "data/rice/raw/Rice___Leaf_smut_src/DSC_0317.JPG",
+    "class_name": "Rice___Leaf_smut",
+    "md5": "e8e50f9d8b2f0dfd32432113b48ff34d"
+  },
+  {
+    "path": "data/rice/raw/Rice___healthy_src/healthy_000080.jpg",
+    "class_name": "Rice___healthy",
+    "md5": "19443b69bf41327f5563f05bb7cb52c7"
+  },
+  {
+    "path": "data/rice/raw/Rice___healthy_src/healthy_000089.jpg",
+    "class_name": "Rice___healthy",
+    "md5": "edad09e03ea113cbf75f71d25af58206"
+  },
+  {
+    "path": "data/rice/raw/Rice___healthy_src/healthy_000047.jpg",
+    "class_name": "Rice___healthy",
+    "md5": "74e46a7d8c3041825092f78d9342ea53"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000025.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "acdcd0ef9c63e8186c22d841f37cec6e"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000018.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "cc627253415b0e695f98146478ddb096"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000150.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "6dad56bb93738a33b63d5f77b4ee382d"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000127.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "eb37f96f97a299b2f7617caa98b625df"
+  },
+  {
+    "path": "data/rice/raw/Rice___healthy_src/healthy_000059.jpg",
+    "class_name": "Rice___healthy",
+    "md5": "d68beb7c5e588d6a089672bfaff25852"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000039.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "9521a0c031c03a407cf3457c81cdfbf4"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000008.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "b67e9139dbd8366ad7d5ce9d29db169f"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000177.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "6148c7b25f2fdddc2f837368655a2538"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000085.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "25c7053b2446c14be719f3848cbf4ad9"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000169.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "06b761e8edd98691b482fc02c89acba7"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000020.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "6cfb43057a9369d68afb46519101fc5b"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000182.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "97988ff826116f70d8c81aea66175463"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000133.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "654df3546a6332a400e964c4101a957b"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000080.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "c0383b31ef7b3024003266a69dfc89d4"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000111.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "7617b8828f99c69680936ac179578745"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000121.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "e7aae94b6afd8c9d0a89682c136db5a0"
+  },
+  {
+    "path": "data/rice/raw/Rice___healthy_src/healthy_000006.jpg",
+    "class_name": "Rice___healthy",
+    "md5": "12f1175deda003bf25adffd51242d9e9"
+  },
+  {
+    "path": "data/rice/raw/Rice___Leaf_smut_src/DSC_0509.jpg",
+    "class_name": "Rice___Leaf_smut",
+    "md5": "7753e5204ccb317aca6436776e18cfd1"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000054.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "dcb748f183b7554c1b0e74aeed9b71a0"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000108.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "ad7baeec5aae50c8abaefc8bcb2ee749"
+  },
+  {
+    "path": "data/rice/raw/Rice___Leaf_smut_src/DSC_0512.jpg",
+    "class_name": "Rice___Leaf_smut",
+    "md5": "df3a332d67c6df24d6da83271a83833c"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000189.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "b927ac5400d498148e1633f8fd7fcea9"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000073.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "9e8cd6f7f605a150615c1549f0ab1212"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000177.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "d4bbf52e78eb40bc033a8df9e3c98b77"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000146.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "15ff4f393b0f8eb914daa513b0e42ecf"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000167.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "0a8ea8052f188ae13478fe25cc535d72"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000066.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "2d75c341b1008c1f4d8e978aa5ed3484"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000010.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "27f3693674a04f9ca72e93f36a5ab1f4"
+  },
+  {
+    "path": "data/rice/raw/Rice___healthy_src/healthy_000030.jpg",
+    "class_name": "Rice___healthy",
+    "md5": "729818e200adedd6aaf018b8baed57cb"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000139.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "c54386c3e570d9fc809407abc806bbf5"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000112.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "054f70668f8ba70ed29a32111f1b3ca1"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000103.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "888305b64afe4a57ec3a72a32fc1281a"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000158.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "472052eecfc882bc983b72a77ef26c23"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000058.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "0245a28712dcebeb6273fcbbdec8fd50"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000098.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "1791b632b9aaadb87892733065c64dc8"
+  },
+  {
+    "path": "data/rice/raw/Rice___healthy_src/healthy_000001.jpg",
+    "class_name": "Rice___healthy",
+    "md5": "2f8840b9c563d1887119cd24e7e97e18"
+  },
+  {
+    "path": "data/rice/raw/Rice___healthy_src/healthy_000003.jpg",
+    "class_name": "Rice___healthy",
+    "md5": "be75c4f5cd02f54ba97491cfe882c974"
+  },
+  {
+    "path": "data/rice/raw/Rice___healthy_src/healthy_000072.jpg",
+    "class_name": "Rice___healthy",
+    "md5": "daf8cb2dd1e1f9da9ec0479153cdab0b"
+  },
+  {
+    "path": "data/rice/raw/Rice___healthy_src/healthy_000070.jpg",
+    "class_name": "Rice___healthy",
+    "md5": "2bd016ca4d1102bee553f1dcb1c4452d"
+  },
+  {
+    "path": "data/rice/raw/Rice___healthy_src/healthy_000011.jpg",
+    "class_name": "Rice___healthy",
+    "md5": "2ae0ae5bbc4395c92bc808afbfd5f3a3"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000006.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "4a382c28165fae238a10593f1b43ebd9"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000043.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "00e16b0a7d54a9a859cfe7ddb67994df"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000074.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "ef63490e3aefa1ee7de7013bdb753801"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000137.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "9559a3c4d460aca5739b0400724ca127"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000157.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "c34a329ec3d7f1bec757d2252aab90f6"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000170.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "1905570bc4a7cc10b328d46cf4ac99f8"
+  },
+  {
+    "path": "data/rice/raw/Rice___healthy_src/healthy_000077.jpg",
+    "class_name": "Rice___healthy",
+    "md5": "03e290bfcbc0c4f17aa48750520576a6"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000064.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "06f5b1a287b7d3f7604aa525f7b869ad"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000088.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "67b7dd176323d02a921bcdb288bfb5ee"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000126.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "b688a3b8e9ada82d931a0c4595fc2d1b"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000175.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "3c3602cb065c86ad7c294ccf6b625bc7"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000113.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "d8e48828e5c7df7d49b1fa156ac05357"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000108.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "9f8dbbf5b70ed7995a416a1672a267fa"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000050.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "196c930b80cc7c8ea3109b6c26217fd7"
+  },
+  {
+    "path": "data/rice/raw/Rice___Bacterial_leaf_blight_src/bacterial_blight_000139.jpg",
+    "class_name": "Rice___Bacterial_leaf_blotch",
+    "md5": "b0f4bf3e5202c06cb1d9f79dd9739f97"
+  },
+  {
+    "path": "data/rice/raw/Rice___Brown_spot_src/brown_spot_000077.jpg",
+    "class_name": "Rice___Brown_spot",
+    "md5": "4f2d58ba5f0169c59df02824fa62198b"
+  }
+]

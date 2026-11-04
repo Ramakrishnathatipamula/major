@@ -1,0 +1,156 @@
+{
+  "total_quarantined": 15,
+  "timestamp": "2026-10-25T22:42:00Z",
+  "quarantined_files": [
+    {
+      "file_name": "sample_01.jpg",
+      "class_label": "Potato___Early_blight",
+      "original_path": "data/raw/plant_village_subset/Potato___Early_blight/sample_01.jpg",
+      "original_relative_path": "data/raw/plant_village_subset/Potato___Early_blight/sample_01.jpg",
+      "archived_path": "data/archived_synthetic_samples/Potato___Early_blight/sample_01.jpg",
+      "archived_relative_path": "data/archived_synthetic_samples/Potato___Early_blight/sample_01.jpg",
+      "md5_hash": "ae1c9b26fd45a58c13133be0b670b7ae",
+      "status": "quarantined"
+    },
+    {
+      "file_name": "sample_02.jpg",
+      "class_label": "Potato___Early_blight",
+      "original_path": "data/raw/plant_village_subset/Potato___Early_blight/sample_02.jpg",
+      "original_relative_path": "data/raw/plant_village_subset/Potato___Early_blight/sample_02.jpg",
+      "archived_path": "data/archived_synthetic_samples/Potato___Early_blight/sample_02.jpg",
+      "archived_relative_path": "data/archived_synthetic_samples/Potato___Early_blight/sample_02.jpg",
+      "md5_hash": "ae1c9b26fd45a58c13133be0b670b7ae",
+      "status": "quarantined"
+    },
+    {
+      "file_name": "sample_03.jpg",
+      "class_label": "Potato___Early_blight",
+      "original_path": "data/raw/plant_village_subset/Potato___Early_blight/sample_03.jpg",
+      "original_relative_path": "data/raw/plant_village_subset/Potato___Early_blight/sample_03.jpg",
+      "archived_path": "data/archived_synthetic_samples/Potato___Early_blight/sample_03.jpg",
+      "archived_relative_path": "data/archived_synthetic_samples/Potato___Early_blight/sample_03.jpg",
+      "md5_hash": "ae1c9b26fd45a58c13133be0b670b7ae",
+      "status": "quarantined"
+    },
+    {
+      "file_name": "sample_04.jpg",
+      "class_label": "Potato___Early_blight",
+      "original_path": "data/raw/plant_village_subset/Potato___Early_blight/sample_04.jpg",
+      "original_relative_path": "data/raw/plant_village_subset/Potato___Early_blight/sample_04.jpg",
+      "archived_path": "data/archived_synthetic_samples/Potato___Early_blight/sample_04.jpg",
+      "archived_relative_path": "data/archived_synthetic_samples/Potato___Early_blight/sample_04.jpg",
+      "md5_hash": "ae1c9b26fd45a58c13133be0b670b7ae",
+      "status": "quarantined"
+    },
+    {
+      "file_name": "sample_05.jpg",
+      "class_label": "Potato___Early_blight",
+      "original_path": "data/raw/plant_village_subset/Potato___Early_blight/sample_05.jpg",
+      "original_relative_path": "data/raw/plant_village_subset/Potato___Early_blight/sample_05.jpg",
+      "archived_path": "data/archived_synthetic_samples/Potato___Early_blight/sample_05.jpg",
+      "archived_relative_path": "data/archived_synthetic_samples/Potato___Early_blight/sample_05.jpg",
+      "md5_hash": "ae1c9b26fd45a58c13133be0b670b7ae",
+      "status": "quarantined"
+    },
+    {
+      "file_name": "sample_01.jpg",
+      "class_label": "Potato___Late_blight",
+      "original_path": "data/raw/plant_village_subset/Potato___Late_blight/sample_01.jpg",
+      "original_relative_path": "data/raw/plant_village_subset/Potato___Late_blight/sample_01.jpg",
+      "archived_path": "data/archived_synthetic_samples/Potato___Late_blight/sample_01.jpg",
+      "archived_relative_path": "data/archived_synthetic_samples/Potato___Late_blight/sample_01.jpg",
+      "md5_hash": "624cc5c5e8530b57a84cf7d61dea9ea5",
+      "status": "quarantined"
+    },
+    {
+      "file_name": "sample_02.jpg",
+      "class_label": "Potato___Late_blight",
+      "original_path": "data/raw/plant_village_subset/Potato___Late_blight/sample_02.jpg",
+      "original_relative_path": "data/raw/plant_village_subset/Potato___Late_blight/sample_02.jpg",
+      "archived_path": "data/archived_synthetic_samples/Potato___Late_blight/sample_02.jpg",
+      "archived_relative_path": "data/archived_synthetic_samples/Potato___Late_blight/sample_02.jpg",
+      "md5_hash": "624cc5c5e8530b57a84cf7d61dea9ea5",
+      "status": "quarantined"
+    },
+    {
+      "file_name": "sample_03.jpg",
+      "class_label": "Potato___Late_blight",
+      "original_path": "data/raw/plant_village_subset/Potato___Late_blight/sample_03.jpg",
+      "original_relative_path": "data/raw/plant_village_subset/Potato___Late_blight/sample_03.jpg",
+      "archived_path": "data/archived_synthetic_samples/Potato___Late_blight/sample_03.jpg",
+      "archived_relative_path": "data/archived_synthetic_samples/Potato___Late_blight/sample_03.jpg",
+      "md5_hash": "624cc5c5e8530b57a84cf7d61dea9ea5",
+      "status": "quarantined"
+    },
+    {
+      "file_name": "sample_04.jpg",
+      "class_label": "Potato___Late_blight",
+      "original_path": "data/raw/plant_village_subset/Potato___Late_blight/sample_04.jpg",
+      "original_relative_path": "data/raw/plant_village_subset/Potato___Late_blight/sample_04.jpg",
+      "archived_path": "data/archived_synthetic_samples/Potato___Late_blight/sample_04.jpg",
+      "archived_relative_path": "data/archived_synthetic_samples/Potato___Late_blight/sample_04.jpg",
+      "md5_hash": "624cc5c5e8530b57a84cf7d61dea9ea5",
+      "status": "quarantined"
+    },
+    {
+      "file_name": "sample_05.jpg",
+      "class_label": "Potato___Late_blight",
+      "original_path": "data/raw/plant_village_subset/Potato___Late_blight/sample_05.jpg",
+      "original_relative_path": "data/raw/plant_village_subset/Potato___Late_blight/sample_05.jpg",
+      "archived_path": "data/archived_synthetic_samples/Potato___Late_blight/sample_05.jpg",
+      "archived_relative_path": "data/archived_synthetic_samples/Potato___Late_blight/sample_05.jpg",
+      "md5_hash": "624cc5c5e8530b57a84cf7d61dea9ea5",
+      "status": "quarantined"
+    },
+    {
+      "file_name": "sample_01.jpg",
+      "class_label": "Potato___healthy",
+      "original_path": "data/raw/plant_village_subset/Potato___healthy/sample_01.jpg",
+      "original_relative_path": "data/raw/plant_village_subset/Potato___healthy/sample_01.jpg",
+      "archived_path": "data/archived_synthetic_samples/Potato___healthy/sample_01.jpg",
+      "archived_relative_path": "data/archived_synthetic_samples/Potato___healthy/sample_01.jpg",
+      "md5_hash": "cf3d9e93b904134c3634d993c3cf5e83",
+      "status": "quarantined"
+    },
+    {
+      "file_name": "sample_02.jpg",
+      "class_label": "Potato___healthy",
+      "original_path": "data/raw/plant_village_subset/Potato___healthy/sample_02.jpg",
+      "original_relative_path": "data/raw/plant_village_subset/Potato___healthy/sample_02.jpg",
+      "archived_path": "data/archived_synthetic_samples/Potato___healthy/sample_02.jpg",
+      "archived_relative_path": "data/archived_synthetic_samples/Potato___healthy/sample_02.jpg",
+      "md5_hash": "cf3d9e93b904134c3634d993c3cf5e83",
+      "status": "quarantined"
+    },
+    {
+      "file_name": "sample_03.jpg",
+      "class_label": "Potato___healthy",
+      "original_path": "data/raw/plant_village_subset/Potato___healthy/sample_03.jpg",
+      "original_relative_path": "data/raw/plant_village_subset/Potato___healthy/sample_03.jpg",
+      "archived_path": "data/archived_synthetic_samples/Potato___healthy/sample_03.jpg",
+      "archived_relative_path": "data/archived_synthetic_samples/Potato___healthy/sample_03.jpg",
+      "md5_hash": "cf3d9e93b904134c3634d993c3cf5e83",
+      "status": "quarantined"
+    },
+    {
+      "file_name": "sample_04.jpg",
+      "class_label": "Potato___healthy",
+      "original_path": "data/raw/plant_village_subset/Potato___healthy/sample_04.jpg",
+      "original_relative_path": "data/raw/plant_village_subset/Potato___healthy/sample_04.jpg",
+      "archived_path": "data/archived_synthetic_samples/Potato___healthy/sample_04.jpg",
+      "archived_relative_path": "data/archived_synthetic_samples/Potato___healthy/sample_04.jpg",
+      "md5_hash": "cf3d9e93b904134c3634d993c3cf5e83",
+      "status": "quarantined"
+    },
+    {
+      "file_name": "sample_05.jpg",
+      "class_label": "Potato___healthy",
+      "original_path": "data/raw/plant_village_subset/Potato___healthy/sample_05.jpg",
+      "original_relative_path": "data/raw/plant_village_subset/Potato___healthy/sample_05.jpg",
+      "archived_path": "data/archived_synthetic_samples/Potato___healthy/sample_05.jpg",
+      "archived_relative_path": "data/archived_synthetic_samples/Potato___healthy/sample_05.jpg",
+      "md5_hash": "cf3d9e93b904134c3634d993c3cf5e83",
+      "status": "quarantined"
+    }
+  ]
+}

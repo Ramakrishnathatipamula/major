@@ -14,7 +14,17 @@ python-dotenv>=1.0.0
 requests>=2.31.0
 kagglehub>=0.3.0
 
+# Application UI
+streamlit>=1.30.0
+streamlit-folium>=0.20.0
+folium>=0.15.0
+
+# Grounded LLM Answers
+google-genai>=1.0.0
+
 # RAG & Knowledge Base
 chromadb>=0.4.0
 sentence-transformers>=2.2.0
 
+# Presentation export
+python-pptx>=1.0.0

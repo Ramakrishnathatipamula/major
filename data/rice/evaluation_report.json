@@ -1,0 +1,191 @@
+{
+  "timestamp": "2026-11-03T06:11:28Z",
+  "model_path": "models/disease/rice_disease_model.pth",
+  "target_crop": "Rice",
+  "num_classes": 4,
+  "classes": [
+    "Rice___Bacterial_leaf_blotch",
+    "Rice___Brown_spot",
+    "Rice___Leaf_smut",
+    "Rice___healthy"
+  ],
+  "friendly_names": {
+    "Rice___Bacterial_leaf_blotch": "Bacterial Leaf Blight",
+    "Rice___Brown_spot": "Brown Spot",
+    "Rice___Leaf_smut": "Leaf Smut",
+    "Rice___healthy": "Healthy"
+  },
+  "dataset_source": "Kaggle olyadgetch/rice-leaf-dataset (field-acquired, Ethiopia)",
+  "dataset_license": "Data files \u00a9 Original Authors (review before redistribution)",
+  "dataset_summary": {
+    "identifier_leakage_hashes_excluded": 0,
+    "train_samples": 362,
+    "val_samples": 75,
+    "test_samples": 83,
+    "class_stats": {
+      "Rice___Bacterial_leaf_blotch": {
+        "total_files_on_disk": 205,
+        "duplicates_removed": 0,
+        "identifier_leakage_excluded": 0,
+        "retained": 205
+      },
+      "Rice___Brown_spot": {
+        "total_files_on_disk": 186,
+        "duplicates_removed": 0,
+        "identifier_leakage_excluded": 0,
+        "retained": 186
+      },
+      "Rice___Leaf_smut": {
+        "total_files_on_disk": 39,
+        "duplicates_removed": 0,
+        "identifier_leakage_excluded": 0,
+        "retained": 39
+      },
+      "Rice___healthy": {
+        "total_files_on_disk": 90,
+        "duplicates_removed": 0,
+        "identifier_leakage_excluded": 0,
+        "retained": 90
+      }
+    },
+    "class_weights": {
+      "Rice___Bacterial_leaf_blotch": 0.6329,
+      "Rice___Brown_spot": 0.6962,
+      "Rice___Leaf_smut": 3.3519,
+      "Rice___healthy": 1.4597
+    }
+  },
+  "training_history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.7005,
+      "train_acc": 75.41,
+      "val_loss": 0.3528,
+      "val_acc": 86.67,
+      "is_best": true
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.2208,
+      "train_acc": 92.82,
+      "val_loss": 0.1511,
+      "val_acc": 94.67,
+      "is_best": true
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.108,
+      "train_acc": 96.69,
+      "val_loss": 0.1308,
+      "val_acc": 97.33,
+      "is_best": true
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.0842,
+      "train_acc": 98.07,
+      "val_loss": 0.1323,
+      "val_acc": 97.33,
+      "is_best": false
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.0467,
+      "train_acc": 99.17,
+      "val_loss": 0.1068,
+      "val_acc": 97.33,
+      "is_best": true
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.0362,
+      "train_acc": 99.45,
+      "val_loss": 0.0902,
+      "val_acc": 96.0,
+      "is_best": true
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.0372,
+      "train_acc": 99.72,
+      "val_loss": 0.0989,
+      "val_acc": 96.0,
+      "is_best": false
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.0236,
+      "train_acc": 99.72,
+      "val_loss": 0.1042,
+      "val_acc": 96.0,
+      "is_best": false
+    }
+  ],
+  "training_time_seconds": 54.53,
+  "best_epoch_metrics": {
+    "best_val_loss": 0.0902,
+    "best_val_acc": 96.0
+  },
+  "test_metrics": {
+    "test_accuracy": 97.59,
+    "macro_precision": 95.57,
+    "macro_recall": 95.57,
+    "macro_f1": 95.57,
+    "weighted_precision": 97.59,
+    "weighted_recall": 97.59,
+    "weighted_f1": 97.59,
+    "per_class": {
+      "Bacterial Leaf Blight": {
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1_score": 100.0,
+        "support": 32.0
+      },
+      "Brown Spot": {
+        "precision": 96.55,
+        "recall": 96.55,
+        "f1_score": 96.55,
+        "support": 29.0
+      },
+      "Leaf Smut": {
+        "precision": 85.71,
+        "recall": 85.71,
+        "f1_score": 85.71,
+        "support": 7.0
+      },
+      "Healthy": {
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1_score": 100.0,
+        "support": 15.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        32,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        28,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        6,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        15
+      ]
+    ]
+  },
+  "scientific_limitation_statement": "Metrics come from a single field-acquired Rice dataset from one geographic region. They are not evidence of global field accuracy and may reflect shared acquisition conditions."
+}

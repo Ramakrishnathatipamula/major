@@ -1,0 +1,64 @@
+# VERIFIED TOMATO BLIGHT MANAGEMENT GUIDELINES
+# Sources: Central Insecticides Board & Registration Committee (CIBRC), ICAR - Indian Institute of Vegetable Research (IIVR), Varanasi, and TNAU Agritech Portal
+
+CROP: Tomato (Solanum lycopersicum)
+TARGET DISEASES: Early Blight (Alternaria solani), Late Blight (Phytophthora infestans)
+
+================================================================================
+1. TOMATO EARLY BLIGHT (Alternaria solani)
+================================================================================
+Pathogen Biology:
+Alternaria solani is a fungal pathogen causing foliar blighting, collar rot, and fruit rot in tomato. Symptoms begin on older lower canopy leaves as dark brown to black circular lesions with distinct concentric rings (target board pattern), surrounded by a chlorotic yellow halo. As disease progresses, severe blighting causes premature defoliation and sunscald on developing fruit.
+
+Epidemiological Conducive Conditions:
+- Temperatures between 20°C and 30°C with alternating wet and dry weather cycles.
+- Heavy dew formation or frequent overhead irrigation prolonged leaf wetness.
+- Plant stress from heavy fruit load or nitrogen/potassium deficiency.
+
+Verified Chemical Management (CIBRC Registered):
+1. Prophylactic / Contact Fungicides:
+   - Mancozeb 75% WP: Apply at 0.2% concentration (2.0 g per litre of water, or 2.0 kg/ha in 1,000 L water). Apply at initial symptom observation; repeat at 10 to 14 day intervals under humid conditions.
+   - Chlorothalonil 75% WP: Apply at 0.2% concentration (2.0 g/L). Multi-site protective fungicide providing broad foliar barrier.
+   - Copper Oxychloride 50% WP: Apply at 0.25% to 0.3% concentration (2.5 to 3.0 g/L). Useful in early vegetative growth.
+2. Curative / Translaminar Systemic Fungicides:
+   - Difenoconazole 25% EC: Apply at 0.05% concentration (0.5 ml per litre of water). Triazole fungicide that halts fungal mycelium expansion within leaf tissue.
+   - Azoxystrobin 23% SC: Apply at 1.0 ml per litre of water where registered. Must be rotated with contact fungicides to prevent resistance.
+
+Non-Chemical Cultural & Preventive Measures:
+- Crop Rotation: Rotate with non-solanaceous crops (maize, pulses, sorghum) for 2 to 3 years.
+- Sanitation: Prune and remove lower diseased leaves touching the soil surface; destroy plant residues post-harvest.
+- Spacing & Aeration: Stake tomato plants to keep foliage elevated off soil and maximize sunlight penetration.
+- Drip Irrigation: Avoid overhead sprinkler irrigation to minimize canopy moisture hours.
+
+Safety and Label Precautions:
+- Pre-Harvest Interval (PHI): Refer to container label (typically 3 to 7 days for protectants).
+- Re-Entry Interval (REI): 24 hours.
+- PPE: Wear chemical-resistant gloves, eye goggles, and protective face mask during preparation and application.
+
+================================================================================
+2. TOMATO LATE BLIGHT (Phytophthora infestans)
+================================================================================
+Pathogen Biology:
+Phytophthora infestans is an aggressive oomycete pathogen causing rapid water-soaked, dark olive-green to black lesions on tomato leaves, stems, and fruit. Under high humidity (>90% RH) and cool to moderate temperatures, white fluffy fungal sporulation appears on the undersides of leaves. Stems exhibit dark brown lesions, leading to whole vine collapse within days.
+
+Epidemiological Conducive Conditions:
+- Temperatures between 12°C and 22°C combined with relative humidity exceeding 90% for 8+ consecutive hours.
+- Dense fog, persistent drizzle, or extended nocturnal leaf wetness (Wallin DSV accumulation).
+
+Verified Chemical Management (CIBRC Registered):
+1. Protective Contact Barriers:
+   - Mancozeb 75% WP: Apply prophylactically at 0.2% to 0.25% (2.0 to 2.5 g/L) before weather-induced infection periods.
+   - Chlorothalonil 75% WP: Apply at 0.2% (2.0 g/L) as a multi-site preventative spray.
+   - Copper Oxychloride 50% WP: Apply at 0.25% to 0.3% (2.5 to 3.0 g/L).
+2. Curative / Systemic Interventions:
+   - Cymoxanil 8% + Mancozeb 64% WP: Apply at 0.3% concentration (3.0 g/L). Offers translaminar kickback action within 24 to 48 hours of infection.
+   - Metalaxyl 8% + Mancozeb 64% WP: Apply at 0.2% to 0.25% concentration (2.0 to 2.5 g/L). Systemic phenylamide; maximum 1 to 2 applications per season to prevent pathogen resistance.
+
+Non-Chemical Cultural Controls:
+- Immediate Vine Removal: Rogue out and destroy initial late blight focal plants to prevent aerially dispersed sporangia from infecting the entire field.
+- Solanaceous Weed Eradication: Eliminate Solanum nigrum (black nightshade) and volunteer potato/tomato plants from field margins.
+- Canopy Aeration: Stake and tie vines; prune excess suckers to facilitate air flow and accelerate foliage drying.
+
+Safety and Label Precautions:
+- Resistance Management: Alternate systemic fungicides with multi-site contact protectants.
+- Do not spray near open water channels or fish ponds.

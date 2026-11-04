@@ -1,0 +1,992 @@
+[
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(32).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "fc2fba564b992f95015ee68550425215"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(49).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "ac50ac0ab3dc9aaf43c73107a0407692"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(29).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "f6181d026022a864d44219663b65820d"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(53).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "5996cc5004be9b542a1a5bbd053e328b"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(11).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "f72bcbcdc666458ce0eca3c18a62e691"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(49).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "3ca879836a8b1d54f6d41e9cd1120a46"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(179).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "2980755235d392d5e4398e1a108c44fa"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(95).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "061789f18e026cbebbe51312be1fb692"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(67).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "36f2bbe8c5a6cc58cfc06e6556426a09"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(114).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "37b10429d58f00e437dcd1a799c0b500"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(80).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "254362421f9966b43a7a5406ebe3188c"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(18).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "c0933de5162fb094043f6f47df9f8680"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(84).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "ee25d2882743fece424e7b4239b47c7a"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(11).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "0c879cdd5769b6dc0d512738a247cb0b"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(62).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "959cba078168d4c8a2f17508d5fd8893"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(12).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "b77abbb54c143870445a6157a0e63bb4"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(60).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "3d7ca2f7ddff180f8b502a99b32ec7c8"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(81).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "678bf30c0c76b03ee4fc53d04b8a7b15"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(50).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "35b5b7b1ed231a3c3b007061cdb026be"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(207).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "6e24190c6bb92ecde3d8488df1665687"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(51).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "a4a165b32542427679c886f595fe18f8"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(190).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "a975bd172ce5bfda6c61937ea92e54b9"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(178).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "9ba5a62fbf977bd1fe1b23aaf33e3c35"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(102).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "e3c61d6ea8e8b976a610927105f495ff"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(181).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "a175f52892c9aee6f282beb33b1c984d"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(82).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "47008797858115694c30c2d5cd2333d6"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(28).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "1ff489c91ea77e90b1da80dbfa029f40"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(200).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "5ce06f32c67638bf9768acc12fb2c066"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(194).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "d294b366c294e6fed8c15644d30f6aa4"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(80).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "9343fd7841f7c8af73ea80289ab9f490"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(102).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "acb62e99824e727bdefa8c0f007f9c05"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(167).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "aac7542dc01e7cadf6e7bc8e7ea30c2f"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(97).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "e02da3670952e78f940367f092203446"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(38).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "f5e3f46db342f87366dadef53153d060"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(78).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "c4597ba35b51409e73b5c70dee64caad"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(16).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "cb149eb8579b2b72bb79a18a67fa51d7"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(22).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "925013df4600825632f17a57516c1d07"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(13).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "7b08f6b36df3d61b1217d70c2b3fc7ed"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(34).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "56cd8bf96aba2f4f3264896f9c7c3527"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(104).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "d06d4338148831a7790dd878f9859905"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(29).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "e3e08d56f7f4d1d0a122ada6728a9c30"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(146).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "d50cffdf6436ef75c9c8e0f7add8a4e8"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(196).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "046931e9448050c5a18a00176d69dfb1"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(71).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "b12afaefc115e80955b108f51a222587"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(71).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "cf087b87f4c1ee0cc909827d68ad7195"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(69).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "da20e0137bd5d2fc4ba592bef66c1169"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(19).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "d12afcfd294211abddfc5456d18af9c4"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(74).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "1eb620d4f91d743088c3d75ce3b576c2"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(47).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "de5c0d5a38bee1d8da10191a6bbdd6e7"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(20).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "b952c23814b9745fa1d0dfb63ea66192"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(59).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "a258936996d7ef9bd495eeafb4bcc361"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(56).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "de4df8e1b2456f6e7a615d2dd8ab4086"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(25).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "848b2f2f5a78dc734efafea325b3995e"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(206).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "a66916f2c0cdd498dca903b0cbb308b4"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(39).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "b3833fc7caf5487e8a27215a4a08b32d"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(108).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "d6176bfd9bdbd55e10714d376b17c6a9"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(49).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "e7bbc02fcb45db3309e31f0eae86a346"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(87).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "480eeb177a436aa9b46978b2a190502e"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(13).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "88584ce673e4cdbc4de822b89c30dc2b"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(62).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "ae38f11109efa3b234082977ff3a5bb5"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(55).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "4d02536f0a6863f2a99bcbf34359c1d9"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(9).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "a4033b881d77387378c9a231b7706a7a"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(25).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "86798cd21e0ba30924efd86e7f05f7f1"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(116).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "50f258dbcb868fcb184fa615ec0709f9"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(3).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "a28ab3ddee73c63873d917d00852ee96"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(32).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "f1624fa57239bed2fe22d0a1f4278b76"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(27).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "61160f0f7eb2b21b31383665a08b40c9"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(101).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "4ef8bd9c774286f61bf06c7ab9c4efc5"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(94).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "cedf0981d5587b217ae0eea9cd76df6a"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(197).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "0d1d1a6a6a86ba79e44a55215ba31bfc"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(76).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "c997987d9e85cdf0aa780c772251f34f"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(35).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "9005aa691cc3f632c6ac290880322006"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(10).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "bb67bdd27c4f8df63f367d3fa6f45b02"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(109).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "1b46c9ffdaf8ac27470ae92317855b05"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(34).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "e7311a66d381491bd1526c2f01c3bf2c"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(78).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "6e70635a65551eaace774116e375518b"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(127).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "20079ad7f5693c7d55783d5532f74e91"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(123).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "a7126afd4315139d31ea5db5336e90f7"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(201).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "0ef627b16437fa86bf5db4b4333d6887"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(57).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "876549429973833096a4eeecb8416018"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(130).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "b656eb4410a95e708c505ba0facc23f0"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(46).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "ab986432987a4b9bcfa8495eebf0627c"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(1).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "dfddc02ae6bc57b9e89cd705acbac47b"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(90).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "5b5cb212b753300ce6410abce022d915"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(149).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "c8e03684a0919018babeaf0e6df4da43"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(180).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "9cf6f5090f311a99e12d2a5e3b03179d"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(39).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "989b4e6d2b329b71a51dddbf84eb4f63"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(89).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "5a0230fe4aee27e47bceac6e079f2c29"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(4).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "fd575319fdeb5a77c346d788340b2d85"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(42).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "57e61edd548f083a65422f95d5b4d31a"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(152).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "4058d3bdef9acaef4c4ffc0d0298ba86"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(135).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "657d3a1c7da621c9ca177ce23957c9ca"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(48).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "6b6b5ee812a8d7cf0a4ef698c8a3f4d1"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(46).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "d41492b6ff2bab2c7a1ff96310eaf69f"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(65).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "c281715f4c4f72a05aacf3d21e0e065c"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(77).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "a649a096338403fc87cfac284dc2a14a"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(64).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "97816aaffbf7e128cb8a33f6a0b5c838"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(4).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "1b4028608af02353f6b04c0db23a9a89"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(13).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "d9c7181d6dda32e49c6436bf4e58ef7f"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(21).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "56f302524522a30dbe2a56fadd22fd1c"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(7).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "b2ee30c8078176ce4761cd0492d5cbcf"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(177).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "173a1ec469d9579a5ac5cafdee9c1495"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(166).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "d1f9f68835a96a0a214b4251a9025102"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(19).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "5a70119538e79c28dee830db252d2b49"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(143).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "24f5c0e5d43f9d65bc6d51c7e65fe117"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(24).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "2d7bcbc2914635e1a8de63938ed480e0"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(37).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "28c3f90b1150f65abcbb8ebe43ec0e93"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(53).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "eeacd1b849009761a351091b1db10935"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(148).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "206de844a356f52d743417a99a2e4c5f"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(187).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "f3210303ddc4fddada311cb2e98ed8e0"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(98).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "40c892ffe8395b10f96c243a0b0d6c79"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(168).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "17390e2693aedc5e156e070752cd41e8"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(142).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "a2c15836d05917890b83748100284c4e"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(65).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "4b2e4139efafc0cfade2b44f95277817"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(174).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "2c73966e3a6cc6b325839f7c47784e54"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(26).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "fff27515d16c050679122f6898ff7a76"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(22).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "956936a08e3d5a6800828a41cb9cb14d"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(83).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "8284c18916506aa79387b71f170e8f85"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(79).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "9a73dc3f8d7c54eba941d7ab0b049451"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(14).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "3125c67fc0109c99e171aaaa7ae82829"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(128).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "a483f99840b1737d846b3873f24c55ad"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(28).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "381e13ca7adebd7444dcfe6cdbb4f620"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(45).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "533ef3ddfec2c77b7eb02d97c0adb6c0"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(24).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "25e4127b0115ffbbf5b7b45f5caf5b58"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(58).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "b82a9e27aad5bdd2ab1252bdf1de743b"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(44).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "991697e21371ac93c189965b458c8c76"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(33).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "cdf1e36771f9939d976bc1b24c0d8763"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(155).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "d746519ccc8a4f3a5477c4187b139019"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(2).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "8c7527d1f30947cfd533d2d1a4874b24"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(88).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "78b52f64930afdedb15a53f6f65e6027"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(158).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "48087231ad67a48ef73aed96f93c0c37"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(30).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "82c335138fe696b8620aff9a2ac1b41b"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(43).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "38e2d9965a9e875432c1a5cc676fb9aa"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(43).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "59b19a9654b554af184d98ed8fe9734c"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(72).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "5c40113a2579c76172806013bb359c0e"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(23).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "47e2e84f98a476e9d34e0cd16fc658ef"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(106).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "465499f21d9915b99552ba4c31f272cc"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(84).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "83d017e5fe0d3cdbf6e4d7439070392c"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(17).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "58bdf7fd60d7400d27fac007df91e97d"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(59).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "78c8061dcbc859847bd1ea3116cc330f"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(24).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "824c0cb942cc21a0362f7872c6a63f80"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(172).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "d8cd8a88ec03000d4e58fafaee3d8075"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(76).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "cc6da01cb9da2f92b47028daedb012fe"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(161).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "21d888a88b3de36ce31f231d77573041"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(144).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "3489a2ca7fb8a62d6b14913ec898c311"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(86).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "c4aaf229462030d6bfcbee1348dc4034"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(95).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "390c3da359d05df707028b217e020539"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(44).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "c6231f97471272f8e6fcc88f325f3898"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(156).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "09c8103db269b7b3cca782a6c6dea49c"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(81).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "10bdd91561d46e0b6a867128270bfaf2"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(61).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "3f27bfde040bce8f66fc65ac0d882dec"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(15).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "9e9a4b6343ba1f0ee038edfc6415da7a"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(18).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "f16bfc334bb8dcde190e61f2f6150a16"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(117).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "3bef1ac7e79d357aafe0111da27cad5c"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(8).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "cbd0aa7d3f3a43aa595ffd54bb0e6920"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(51).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "8a8812c608ce9352e37659cf8d8f11b5"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(81).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "951610d1bde2bc0001dbec298734ebd2"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(63).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "6cadaadce2add085aa0ca911b50841bc"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(22).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "7605d7e62651b59aa6378a23309cff85"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(69).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "52d56970d05185964c11b7ca804ad47d"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(138).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "09bbb595e759960a31d95476161823ad"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(21).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "42433fdbd5f1cb3f5ac09fc095316386"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(119).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "6245fed34af1865707f234ea524f5274"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(41).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "27b9f8f9c0f2516ede18aa6daeb12af9"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(192).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "0e79ad06c0799eac9badf5f914bc4546"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(38).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "2305bb7a39cb832943c0ebc2e5155b5d"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(59).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "e7f12eb713bc3ab7d48daac3763b9d0a"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(3).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "5df282d28f06a73fb82628daa512e5e5"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(73).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "2ac3a13561f32d6461da1922ea2337dd"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(124).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "21656820e37c93003f2cb9e7eb0c0a2e"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(205).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "209400e4ecbfa0b8ce93ab2b2ca3c989"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(85).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "9f3c78a2e71cbabe6df933d5219fde74"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(3).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "150b1dfd8a20fa6d8f3e866be5ae7e58"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(113).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "577e723a80ad3cb44abccada0ec23088"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(134).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "68dcfad8c8890f1239ff7f0f09328d1d"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(97).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "ccc095f35fd5aafd56a0739a79dbc091"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(54).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "2543a53dd35eec94d4132177cc4a59fc"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(90).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "dd78a33654da31cfae9d1e8282cb9933"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(6).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "16a7832982d41fd23f63b74d5dc9de49"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(56).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "5db073c5749b8860c96f69b6432c9483"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(7).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "e75be882fedd758af69ecf4e256b6c6b"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(2).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "c54509f92efdc6ab383056eafe9e1be4"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(45).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "1f26cb4f304d98b06a2408db91777ab0"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(147).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "29f98ebd5d54eed59b566f859bed4955"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(186).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "f089422848a9a80d5cd508a24a64c1f0"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(27).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "197fd1e4cbd6c0fe0784d989bfbcda45"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(133).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "36f3df977c59587891bd7ffbd68f5075"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(2).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "a369fe8e498798d447b21285c4925dad"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(65).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "ee30f72d46bb649a5cd3a8596c8de962"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(68).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "7aada368765e272e09358f80f833c723"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(73).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "e96fdd35a2988168de75c9db9736ba27"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(29).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "c3eff7aabe9143c3bbc4de865f09bd3d"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(120).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "ec58351d7d0e4551f59568784b065179"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/stripe_rust/lolr(96).JPG",
+    "class_name": "Wheat___Stripe_rust",
+    "md5": "ae097dc8bb91a8b1883f995f9a9d0785"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(1).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "5b36cf3c166b2b8e8ea2119da6fea002"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(31).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "fd7be929189509c98abf2326a97f42d9"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/septoria/los(41).JPG",
+    "class_name": "Wheat___Septoria_leaf_blotch",
+    "md5": "c463ed642db2187ea0ca8db4b01c73f1"
+  },
+  {
+    "path": "data/wheat/raw/wheat_leaf/Healthy/loh(17).JPG",
+    "class_name": "Wheat___healthy",
+    "md5": "db69662c3004ceb8c314489ab17cd348"
+  }
+]

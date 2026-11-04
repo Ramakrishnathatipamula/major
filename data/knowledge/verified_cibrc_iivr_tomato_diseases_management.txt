@@ -1,0 +1,124 @@
+# VERIFIED TOMATO DISEASE & PEST MANAGEMENT GUIDELINES
+# Sources: Central Insecticides Board & Registration Committee (CIBRC), ICAR-IIVR Varanasi, and TNAU Agritech Portal
+
+CROP: Tomato (Solanum lycopersicum)
+COVERAGE: Bacterial Spot, Leaf Mold, Septoria Leaf Spot, Target Spot, Spider Mites, Yellow Leaf Curl Virus, Mosaic Virus, Healthy Foliage
+
+================================================================================
+1. BACTERIAL SPOT (Xanthomonas campestris pv. vesicatoria / Xanthomonas vesicatoria)
+================================================================================
+Symptoms & Biology:
+Small, dark, circular to irregular water-soaked spots on foliage, turning brown or purplish-black with greasy margins. Foliage yellows and drops prematurely. Fruit develops raised, rough, scabby lesions.
+
+Verified Chemical Guidance:
+- Copper Oxychloride 50% WP (0.25% to 0.3%, 2.5 to 3.0 g/L) tank-mixed with Streptocycline (Streptomycin sulphate 90% + Tetracycline hydrochloride 10% SP) at 100 to 200 ppm (1 g in 10 L water).
+- Copper Hydroxide 77% WP (2.0 g/L).
+
+Cultural & Preventive Control:
+- Seed treatment: Hot water treatment at 50°C for 25 minutes or seed soaking in Streptocycline solution (100 ppm) for 30 minutes before sowing.
+- Use certified pathogen-free seeds and disease-free nursery transplants.
+- Avoid sprinkler irrigation and handling wet plants.
+
+================================================================================
+2. LEAF MOLD (Passalora fulva / Cladosporium fulvum)
+================================================================================
+Symptoms & Biology:
+Pale yellow or light-green spots on upper leaf surfaces; olive-green to brownish velvety fungal mold on leaf undersides. Severe in greenhouse and polyhouse environments with high humidity (>85% RH).
+
+Verified Chemical Guidance:
+- Copper Oxychloride 50% WP at 0.25% (2.5 g/L).
+- Mancozeb 75% WP at 0.2% (2.0 g/L).
+
+Cultural & Preventive Control:
+- Maximize polyhouse and canopy ventilation to keep humidity below 85% RH.
+- Water early morning via drip irrigation; avoid canopy wetting.
+
+================================================================================
+3. SEPTORIA LEAF SPOT (Septoria lycopersici)
+================================================================================
+Symptoms & Biology:
+Numerous small circular spots with dark brown margins and sunken grayish-white centers containing tiny black pycnidia. Symptoms start on lowest leaves and advance upward.
+
+Verified Chemical Guidance:
+- Mancozeb 75% WP at 0.2% (2.0 g/L).
+- Chlorothalonil 75% WP at 0.2% (2.0 g/L).
+- Copper Oxychloride 50% WP at 0.25% (2.5 g/L).
+
+Cultural Control:
+- 2-year crop rotation away from solanaceous crops.
+- Remove lower leaves at first sight of spots; destroy crop residue post-harvest.
+
+================================================================================
+4. TARGET SPOT (Corynespora cassiicola)
+================================================================================
+Symptoms & Biology:
+Brown pinpoint lesions expanding to circular zonate spots up to 10 mm. Lesions on fruit develop sunken brown centers. Favored by warm temperatures (20-28°C) and extended wetness.
+
+Verified Chemical Guidance:
+- Mancozeb 75% WP (0.2%) or Chlorothalonil 75% WP (0.2%).
+- Azoxystrobin 23% SC (1 ml/L).
+
+Cultural Control:
+- Improve canopy aeration via trellising and suckering; drip irrigate.
+
+================================================================================
+5. TWO-SPOTTED SPIDER MITE (Tetranychus urticae) — ARTHROPOD PEST
+================================================================================
+Symptoms & Biology:
+Fine yellow or white stippling on upper leaf surfaces caused by microscopic arachnid mites feeding on leaf undersides. Heavy infestations produce fine webbing, foliage bronzing, desiccation, and premature leaf drop. Proliferates in hot, dry, dusty conditions (>30°C, <50% RH).
+
+IMPORTANT DISTINCTION:
+Spider mites are arachnid pests, NOT fungal or bacterial pathogens. Chemical fungicides have NO activity against spider mites.
+
+Verified Acaricide / Miticide Guidance (CIBRC Registered):
+- Spiromesifen 22.9% SC: Apply at 1.0 ml per litre of water. Excellent juvenile and ovicidal miticide.
+- Propargite 57% EC: Apply at 2.0 ml per litre of water. Contact miticide.
+- Fenpyroximate 5% EC: Apply at 1.0 ml per litre of water.
+- Wettable Sulphur 80% WP: Apply at 2.5 to 3.0 g per litre of water (do not apply during extreme heat >35°C).
+- Neem Formulation (Azadirachtin 0.03% or 1500 ppm): Apply at 3 to 5 ml/L as botanical repellent and growth regulator.
+
+Cultural & Non-Chemical Control:
+- Spray pressurized water jet directed at leaf undersides to dislodge mites and disrupt webs.
+- Overhead misting to increase canopy humidity and suppress mite reproduction.
+- Maintain adequate soil moisture; stressed crops suffer aggravated mite injury.
+
+================================================================================
+6. TOMATO YELLOW LEAF CURL VIRUS (TYLCV) — BEGOMOVIRUS
+================================================================================
+Symptoms & Biology:
+Stunted, bushy erect plants with severely curled, cupped, crumpled leaves showing prominent marginal yellowing (chlorosis) and reduced leaf lamina size. Flowers drop prematurely; fruit set is drastically arrested. Transmitted by the sweetpotato whitefly (Bemisia tabaci).
+
+CRITICAL SCIENTIFIC SAFETY RULE:
+Viral diseases cannot be cured by chemical fungicides, antibiotics, or bactericides. No chemical cures an established viral infection.
+
+Verified Management Guidance (Vector Suppression & Cultural Hygiene):
+- Vector Management (Whitefly Bemisia tabaci) under CIBRC label:
+  * Imidacloprid 17.8% SL at 0.3 ml/L or Thiamethoxam 25% WG at 0.3 g/L or Acetamiprid 20% SP at 0.2 g/L.
+  * Neem oil (Azadirachtin 1500 ppm) at 3 to 5 ml/L as whitefly deterrent.
+- Yellow Sticky Traps: Install 15 to 20 yellow sticky traps per acre at canopy level to monitor and trap adult whiteflies.
+- Rogueing: Uproot and incinerate infected plants immediately to eliminate viral inoculum reservoirs.
+- Insect-Proof Nets: Raise nursery seedlings inside 40 to 50 mesh nylon net enclosures.
+- Silver Reflective Mulch: Repels incoming whitefly vectors during early vegetative growth.
+
+================================================================================
+7. TOMATO MOSAIC VIRUS (ToMV) — TOBAMOVIRUS
+================================================================================
+Symptoms & Biology:
+Alternating light and dark green mosaic or mottling on foliage, leaf distortion, blistering, shoestringing, and plant stunting. Transmitted mechanically via hands, clothing, pruners, contaminated tools, and infected seed. Highly persistent in plant sap and dry plant debris.
+
+CRITICAL SCIENTIFIC SAFETY RULE:
+No chemical pesticide, fungicide, or antibiotic cures plant viral infections. Never prescribe chemical pesticides to cure virus-infected foliage.
+
+Verified Preventive & Cultural Management:
+- Sanitation: Wash hands and cutting tools in 10% trisodium phosphate (TSP) solution or 20% non-fat dry milk solution before handling or pruning plants.
+- Skimmed Milk Spray: Spraying 10% to 20% skimmed milk solution on foliage before pruning inhibits mechanical transmission between adjacent vines.
+- Rogueing: Remove and bury or burn virus-infected plants as soon as symptoms appear.
+- Certified Disease-Free Seed: Use certified virus-tested seeds.
+- Tobacco Handling Ban: Prohibit smoking or handling tobacco products prior to handling tomato plants.
+
+================================================================================
+8. HEALTHY TOMATO FOLIAGE
+================================================================================
+Safety Guidance:
+- NO chemical fungicide, bactericide, or pesticide applications are required or recommended for healthy foliage.
+- Maintain good agricultural practices (GAP): drip irrigation, balanced N-P-K nutrition, proper plant spacing, staking, and weekly foliar scouting.

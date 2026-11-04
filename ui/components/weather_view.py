@@ -11,9 +11,18 @@ def render_weather_view(payload: Dict[str, Any]):
     weather_avail = env.get("weather_available", True)
     warning_msg = env.get("warning")
 
+    weather_sum = env.get("weather_summary", {})
+    lat = weather_sum.get("latitude")
+    lon = weather_sum.get("longitude")
+    provider = weather_sum.get("provider", "open-meteo")
+
+    if lat is not None and lon is not None:
+        st.caption(f"📍 **Target Coordinates**: Latitude `{lat:.4f}`, Longitude `{lon:.4f}` | **Provider**: `{provider}`")
+
     if not weather_avail or warning_msg:
         st.warning("⚠️ **Live Weather Service Unavailable**: Weather metrics could not be retrieved from the microclimate API.")
         return
+
 
     weather_sum = env.get("weather_summary", {})
     current = weather_sum.get("current", {})

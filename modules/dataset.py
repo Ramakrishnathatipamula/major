@@ -4,25 +4,32 @@ import torch
 from torch.utils.data import DataLoader
 from torchvision import transforms, datasets
 
+from modules.image_utils import get_preprocessing_transform, DEFAULT_LETTERBOX_FILL
+
 # Standard ImageNet RGB Mean and Standard Deviation
 IMAGENET_MEAN = [0.485, 0.456, 0.406]
 IMAGENET_STD = [0.229, 0.224, 0.225]
 
-def get_transforms(image_size: Tuple[int, int] = (224, 224)) -> Dict[str, transforms.Compose]:
+def get_transforms(
+    image_size: Tuple[int, int] = (224, 224),
+    preprocessing_mode: str = "baseline"
+) -> Dict[str, transforms.Compose]:
     """
     Define image preprocessing and normalization transforms.
     
     Args:
         image_size: Tuple of (height, width) for resizing input images.
+        preprocessing_mode: 'baseline' (direct resize) or 'letterbox' (aspect-preserving padding).
         
     Returns:
-        Dictionary containing 'train' and 'val' transform pipelines.
+        Dictionary containing 'train', 'val', and 'test' transform pipelines.
     """
-    transform_pipeline = transforms.Compose([
-        transforms.Resize(image_size),
-        transforms.ToTensor(),
-        transforms.Normalize(mean=IMAGENET_MEAN, std=IMAGENET_STD)
-    ])
+    transform_pipeline = get_preprocessing_transform(
+        mode=preprocessing_mode,
+        target_size=image_size,
+        mean=IMAGENET_MEAN,
+        std=IMAGENET_STD
+    )
     
     return {
         "train": transform_pipeline,

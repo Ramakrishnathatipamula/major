@@ -1,0 +1,56 @@
+Title: Official CIBRC Registered Fungicides & ICAR-CPRI / TNAU Management Guidelines for Potato Late Blight
+Organization: Central Insecticides Board & Registration Committee (CIBRC), ICAR-CPRI & TNAU
+Crop: Potato
+Disease: Late Blight
+Target Pathogen: Phytophthora infestans
+Document Type: treatment_guide
+Publication Date: 2024
+URL Reference: https://ppqs.gov.in
+Geographic Relevance: India / National & State Level (ICAR-CPRI / TNAU)
+is_verified: true
+
+DISEASE NATURE & MANAGEMENT STRATEGY:
+Late blight of potato, caused by the oomycete Phytophthora infestans, is an aggressive foliar and tuber disease. It spreads rapidly under cool, wet weather (10°C to 22°C) with relative humidity >= 80-90% and prolonged dew or fog.
+ICAR-CPRI and TNAU emphasize that disease management must be preventive: prophylactic applications before disease onset or canopy closure are far more effective than curative sprays once systemic epidemics take hold.
+
+PROPHYLACTIC / PROTECTANT FUNGICIDE OPTIONS (CIBRC REGISTERED):
+1. Mancozeb 75% WP:
+   - Category: Contact protectant fungicide (FRAC Group M03).
+   - Target: Prophylactic cover spray prior to symptom appearance or upon Indo-Blightcast disease warning.
+   - Verified Application Rate: 0.2% concentration (2.0 to 2.5 kg/ha in 1,000 litres of water, or 2 to 2.5 g per litre of water).
+   - Timing & Schedule: Apply before canopy closure or immediately when weather becomes favorable (cool, cloudy, humid). Repeat at 7 to 10 day intervals if weather remains conductive.
+2. Chlorothalonil 75% WP:
+   - Category: Broad-spectrum contact protectant (FRAC Group M05).
+   - Target: Preventive protection on healthy foliage.
+   - Verified Application Rate: 0.2% concentration (approx. 2 kg/ha in 1,000 litres of water).
+   - Timing: Alternate with Mancozeb to maintain multi-site contact protection.
+3. Copper Oxychloride 50% WP / Copper Hydroxide:
+   - Category: Inorganic copper contact protectant (FRAC Group M01).
+   - Verified Application Rate: 0.25% to 0.3% (2.5 g to 3.0 g per litre of water).
+
+SYSTEMIC / TRANSLAMINAR CURATIVE COMBINATIONS (CIBRC REGISTERED):
+Apply immediately upon noticing initial water-soaked foliar lesions or under high local disease pressure:
+1. Cymoxanil 8% + Mancozeb 64% WP:
+   - Category: Translaminar systemic + contact combination.
+   - Verified Application Rate: 0.3% concentration (approx. 3.0 kg/ha in 1,000 litres of water).
+   - Timing: Apply at onset of first symptoms.
+2. Metalaxyl 8% + Mancozeb 64% WP (or Metalaxyl-M / Ridomil MZ):
+   - Category: Phenylamide systemic + contact combination (FRAC Group 4 + M03).
+   - Verified Application Rate: 0.2% to 0.25% (2.0 to 2.5 g per litre of water).
+   - Resistance Rule: Do not apply Metalaxyl consecutively more than 1 to 2 times per season to prevent resistant pathogen strains from dominating.
+3. Dimethomorph 50% WP (combined with Mancozeb):
+   - Category: Carboxylic acid amide systemic fungicide (FRAC Group 40).
+   - Verified Application Rate: 1.0 kg Dimethomorph + 2.0 kg Mancozeb per hectare.
+
+NON-CHEMICAL CONTROL & CULTURAL PRACTICES:
+1. Certified Seed: Use disease-free certified potato seed tubers.
+2. Sanitation: Eliminate and destroy cull piles, volunteer potato plants, and solanaceous weeds near fields.
+3. Dehaulming (Vine Killing): Cut or desiccate potato haulms/vines 10 to 14 days prior to harvest to prevent sporangia from washing into soil and infecting tubers.
+4. Water Management: Avoid overhead sprinkler irrigation late in the evening.
+
+SAFETY, PPE & ENVIRONMENTAL PRECAUTIONS:
+1. Wear protective personal equipment (PPE) including gloves, face mask, eye goggles, and protective clothing during chemical handling and spraying.
+2. Do not spray against the wind direction.
+3. Strictly observe product label pre-harvest interval (PHI) and restricted entry interval (REI) as specified on registered manufacturer product packaging.
+4. Avoid spraying near water bodies, honeybee foraging areas, or livestock grazing pastures.
+5. Statutory Notice: Farmers must consult local Agricultural Extension Officers, Krishi Vigyan Kendra (KVK), or State Agricultural University advisories before purchasing and applying any chemical formulations.

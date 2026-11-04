@@ -1,0 +1,167 @@
+{
+  "timestamp": "2026-11-02T13:06:00Z",
+  "model_path": "models/disease/wheat_disease_model.pth",
+  "target_crop": "Wheat",
+  "num_classes": 3,
+  "classes": [
+    "Wheat___Septoria_leaf_blotch",
+    "Wheat___Stripe_rust",
+    "Wheat___healthy"
+  ],
+  "friendly_names": {
+    "Wheat___Septoria_leaf_blotch": "Septoria Leaf Blotch",
+    "Wheat___Stripe_rust": "Stripe Rust (Yellow Rust)",
+    "Wheat___healthy": "Healthy"
+  },
+  "dataset_source": "Kaggle olyadgetch/wheat-leaf-dataset (field-acquired, Ethiopia)",
+  "dataset_license": "Data files \u00a9 Original Authors (review before redistribution)",
+  "dataset_summary": {
+    "identifier_leakage_hashes_excluded": 120,
+    "train_samples": 198,
+    "val_samples": 42,
+    "test_samples": 46,
+    "class_stats": {
+      "Wheat___Septoria_leaf_blotch": {
+        "total_files_on_disk": 97,
+        "duplicates_removed": 0,
+        "identifier_leakage_excluded": 40,
+        "retained": 57
+      },
+      "Wheat___Stripe_rust": {
+        "total_files_on_disk": 208,
+        "duplicates_removed": 0,
+        "identifier_leakage_excluded": 40,
+        "retained": 168
+      },
+      "Wheat___healthy": {
+        "total_files_on_disk": 102,
+        "duplicates_removed": 0,
+        "identifier_leakage_excluded": 41,
+        "retained": 61
+      }
+    },
+    "class_weights": {
+      "Wheat___Septoria_leaf_blotch": 1.6923,
+      "Wheat___Stripe_rust": 0.5641,
+      "Wheat___healthy": 1.5714
+    }
+  },
+  "training_history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.8896,
+      "train_acc": 61.11,
+      "val_loss": 0.9776,
+      "val_acc": 64.29,
+      "is_best": true
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.4937,
+      "train_acc": 73.74,
+      "val_loss": 0.6519,
+      "val_acc": 69.05,
+      "is_best": true
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.2841,
+      "train_acc": 86.87,
+      "val_loss": 0.3211,
+      "val_acc": 83.33,
+      "is_best": true
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.2182,
+      "train_acc": 89.39,
+      "val_loss": 0.2856,
+      "val_acc": 85.71,
+      "is_best": true
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.173,
+      "train_acc": 92.93,
+      "val_loss": 0.2545,
+      "val_acc": 83.33,
+      "is_best": true
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.1483,
+      "train_acc": 94.44,
+      "val_loss": 0.2265,
+      "val_acc": 88.1,
+      "is_best": true
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.1122,
+      "train_acc": 96.46,
+      "val_loss": 0.1958,
+      "val_acc": 88.1,
+      "is_best": true
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.1458,
+      "train_acc": 95.45,
+      "val_loss": 0.1964,
+      "val_acc": 88.1,
+      "is_best": false
+    }
+  ],
+  "training_time_seconds": 216.47,
+  "best_epoch_metrics": {
+    "best_val_loss": 0.1958,
+    "best_val_acc": 88.1
+  },
+  "test_metrics": {
+    "test_accuracy": 89.13,
+    "macro_precision": 87.19,
+    "macro_recall": 91.54,
+    "macro_f1": 88.95,
+    "weighted_precision": 90.13,
+    "weighted_recall": 89.13,
+    "weighted_f1": 89.24,
+    "per_class": {
+      "Septoria Leaf Blotch": {
+        "precision": 90.91,
+        "recall": 100.0,
+        "f1_score": 95.24,
+        "support": 10.0
+      },
+      "Stripe Rust (Yellow Rust)": {
+        "precision": 95.65,
+        "recall": 84.62,
+        "f1_score": 89.8,
+        "support": 26.0
+      },
+      "Healthy": {
+        "precision": 75.0,
+        "recall": 90.0,
+        "f1_score": 81.82,
+        "support": 10.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        0
+      ],
+      [
+        1,
+        22,
+        3
+      ],
+      [
+        0,
+        1,
+        9
+      ]
+    ]
+  },
+  "scientific_limitation_statement": "Metrics come from a single field-acquired Wheat dataset from one geographic region. They are not evidence of global field accuracy and may reflect shared acquisition conditions."
+}

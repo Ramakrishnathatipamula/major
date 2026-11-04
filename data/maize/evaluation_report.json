@@ -1,0 +1,179 @@
+{
+  "timestamp": "2026-11-02T13:02:08Z",
+  "model_path": "models/disease/maize_disease_model.pth",
+  "target_crop": "Maize",
+  "num_classes": 4,
+  "classes": [
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "Corn_(maize)___Common_rust_",
+    "Corn_(maize)___Northern_Leaf_Blight",
+    "Corn_(maize)___healthy"
+  ],
+  "friendly_names": {
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": "Gray Leaf Spot",
+    "Corn_(maize)___Common_rust_": "Common Rust",
+    "Corn_(maize)___Northern_Leaf_Blight": "Northern Leaf Blight",
+    "Corn_(maize)___healthy": "Healthy"
+  },
+  "dataset_source": "PlantVillage cached Corn_(maize) classes",
+  "dataset_summary": {
+    "max_samples_per_class": 500,
+    "identifier_leakage_hashes_excluded": 120,
+    "train_samples": 1388,
+    "val_samples": 297,
+    "test_samples": 298,
+    "class_stats": {
+      "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+        "total_files_on_disk": 513,
+        "duplicates_removed": 0,
+        "identifier_leakage_excluded": 30,
+        "retained": 483,
+        "unique_clean_count": 483
+      },
+      "Corn_(maize)___Common_rust_": {
+        "total_files_on_disk": 1192,
+        "duplicates_removed": 0,
+        "identifier_leakage_excluded": 30,
+        "retained": 500,
+        "unique_clean_count": 500
+      },
+      "Corn_(maize)___Northern_Leaf_Blight": {
+        "total_files_on_disk": 985,
+        "duplicates_removed": 0,
+        "identifier_leakage_excluded": 30,
+        "retained": 500,
+        "unique_clean_count": 500
+      },
+      "Corn_(maize)___healthy": {
+        "total_files_on_disk": 1162,
+        "duplicates_removed": 0,
+        "identifier_leakage_excluded": 30,
+        "retained": 500,
+        "unique_clean_count": 500
+      }
+    },
+    "class_weights": {
+      "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": 1.0266,
+      "Corn_(maize)___Common_rust_": 0.9914,
+      "Corn_(maize)___Northern_Leaf_Blight": 0.9914,
+      "Corn_(maize)___healthy": 0.9914
+    }
+  },
+  "training_history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.3155,
+      "train_acc": 88.26,
+      "val_loss": 0.1913,
+      "val_acc": 91.92,
+      "is_best": true
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.0998,
+      "train_acc": 96.54,
+      "val_loss": 0.1467,
+      "val_acc": 93.6,
+      "is_best": true
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.0809,
+      "train_acc": 97.12,
+      "val_loss": 0.1034,
+      "val_acc": 95.29,
+      "is_best": true
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.0491,
+      "train_acc": 98.49,
+      "val_loss": 0.1028,
+      "val_acc": 95.29,
+      "is_best": true
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.0387,
+      "train_acc": 98.78,
+      "val_loss": 0.097,
+      "val_acc": 94.61,
+      "is_best": true
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.0323,
+      "train_acc": 99.21,
+      "val_loss": 0.0974,
+      "val_acc": 94.95,
+      "is_best": false
+    }
+  ],
+  "training_time_seconds": 114.93,
+  "best_epoch_metrics": {
+    "best_val_loss": 0.097,
+    "best_val_acc": 94.61
+  },
+  "test_metrics": {
+    "test_accuracy": 97.32,
+    "macro_precision": 97.31,
+    "macro_recall": 97.31,
+    "macro_f1": 97.3,
+    "weighted_precision": 97.33,
+    "weighted_recall": 97.32,
+    "weighted_f1": 97.32,
+    "per_class": {
+      "Gray Leaf Spot": {
+        "precision": 93.33,
+        "recall": 95.89,
+        "f1_score": 94.59,
+        "support": 73.0
+      },
+      "Common Rust": {
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1_score": 100.0,
+        "support": 75.0
+      },
+      "Northern Leaf Blight": {
+        "precision": 95.89,
+        "recall": 93.33,
+        "f1_score": 94.59,
+        "support": 75.0
+      },
+      "Healthy": {
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1_score": 100.0,
+        "support": 75.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        70,
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        75,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        70,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        75
+      ]
+    ]
+  },
+  "scientific_limitation_statement": "These are isolated held-out PlantVillage laboratory metrics, not field accuracy. Natural lighting, complex backgrounds, co-infections, and insect damage can change performance."
+}

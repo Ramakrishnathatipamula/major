@@ -9,10 +9,19 @@ from .weather_client import (
     CurrentWeather,
     HourlyForecast,
 )
+from .location_resolver import (
+    LocationResolver,
+    ResolvedLocation,
+)
 
 __all__ = [
     "WeatherClient",
     "WeatherData",
     "CurrentWeather",
     "HourlyForecast",
+    "LocationResolver",
+    "ResolvedLocation",
 ]
+
+
+

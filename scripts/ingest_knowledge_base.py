@@ -91,6 +91,66 @@ def main():
                 "geographic_relevance": "Northern Great Plains / North America",
                 "is_verified": "true"
             }
+        },
+        {
+            "file": knowledge_dir / "verified_cibrc_icar_potato_late_blight_treatments.txt",
+            "metadata": {
+                "source_organization": "CIBRC / ICAR-CPRI / TNAU",
+                "document_title": "Official CIBRC Registered Fungicides & ICAR-CPRI / TNAU Management Guidelines for Potato Late Blight",
+                "crop": "Potato",
+                "disease": "Late Blight",
+                "publication_date": "2024",
+                "url_reference": "https://ppqs.gov.in",
+                "document_type": "treatment_guide",
+                "target_pathogen": "Phytophthora infestans",
+                "geographic_relevance": "India / National & State Level (ICAR-CPRI / TNAU)",
+                "is_verified": "true"
+            }
+        },
+        {
+            "file": knowledge_dir / "verified_cibrc_icar_potato_early_blight_treatments.txt",
+            "metadata": {
+                "source_organization": "CIBRC / TNAU / NDSU Extension",
+                "document_title": "Official CIBRC Registered Fungicides & TNAU / NDSU Management Guidelines for Potato Early Blight",
+                "crop": "Potato",
+                "disease": "Early Blight",
+                "publication_date": "2024",
+                "url_reference": "https://ppqs.gov.in",
+                "document_type": "treatment_guide",
+                "target_pathogen": "Alternaria solani",
+                "geographic_relevance": "India & North America (CIBRC / TNAU / NDSU)",
+                "is_verified": "true"
+            }
+        },
+        {
+            "file": knowledge_dir / "verified_cibrc_iivr_tomato_blight_treatments.txt",
+            "metadata": {
+                "source_organization": "CIBRC / ICAR-IIVR / TNAU",
+                "document_title": "Official CIBRC Registered Fungicides & ICAR-IIVR / TNAU Guidelines for Tomato Blights",
+                "crop": "Tomato",
+                "disease": "Late Blight / Early Blight",
+                "publication_date": "2024",
+                "url_reference": "https://ppqs.gov.in",
+                "document_type": "treatment_guide",
+                "target_pathogen": "Phytophthora infestans & Alternaria solani",
+                "geographic_relevance": "India / National & State Level (CIBRC / ICAR-IIVR / TNAU)",
+                "is_verified": "true"
+            }
+        },
+        {
+            "file": knowledge_dir / "verified_cibrc_iivr_tomato_diseases_management.txt",
+            "metadata": {
+                "source_organization": "CIBRC / ICAR-IIVR / TNAU",
+                "document_title": "CIBRC / ICAR-IIVR Tomato Disease & Pest Integrated Management Guidelines",
+                "crop": "Tomato",
+                "disease": "Multiple (Bacterial Spot, Leaf Mold, Septoria, Spider Mites, Viruses)",
+                "publication_date": "2024",
+                "url_reference": "https://iivr.icar.gov.in",
+                "document_type": "extension_guide",
+                "target_pathogen": "Various Solanaceae pathogens & pests",
+                "geographic_relevance": "India / National & State Level (CIBRC / ICAR-IIVR / TNAU)",
+                "is_verified": "true"
+            }
         }
     ]
 

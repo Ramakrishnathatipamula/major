@@ -1,0 +1,51 @@
+{
+  "sources": [
+    {
+      "name": "notnova/Rice_Leaf_Dataset",
+      "url": "https://huggingface.co/datasets/notnova/Rice_Leaf_Dataset",
+      "license": "MIT",
+      "classes": [
+        "bacterial_blight",
+        "brown_spot",
+        "healthy"
+      ],
+      "notes": "Downloaded via HF Hub resolve; MD5-deduped by trainer."
+    },
+    {
+      "name": "Hetk8406/RiceLeaf-Disease-Detection (Kaggle mirror)",
+      "url": "https://github.com/Hetk8406/RiceLeaf-Disease-Detection",
+      "license": "none stated (educational mirror of Kaggle rice_diagnosis set)",
+      "classes": [
+        "Leaf smut"
+      ],
+      "notes": "Smut class only; notnova has no smut images."
+    }
+  ],
+  "classes": {
+    "Rice___Bacterial_leaf_blight_src": {
+      "source": "Bacterial_leaf_blotch",
+      "token": "blight",
+      "files_on_disk": 205,
+      "copied": 205
+    },
+    "Rice___Brown_spot_src": {
+      "source": "Brown_spot",
+      "token": "brown",
+      "files_on_disk": 186,
+      "copied": 186
+    },
+    "Rice___Leaf_smut_src": {
+      "source": "Leaf_smut",
+      "token": "smut",
+      "files_on_disk": 39,
+      "copied": 39
+    },
+    "Rice___healthy_src": {
+      "source": "Healthy",
+      "token": "healthy",
+      "files_on_disk": 90,
+      "copied": 90
+    }
+  },
+  "total_staged": 520
+}

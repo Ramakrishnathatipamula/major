@@ -8,7 +8,28 @@ ROOT_DIR = Path(__file__).resolve().parent.parent.parent
 if str(ROOT_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_DIR))
 
-LOW_CONFIDENCE_THRESHOLD = 0.60  # 60% confidence threshold
+# Configurable confidence thresholds in standardized percentage units [0.0, 100.0]
+# NOTE: Softmax confidence indicates relative probability distribution over trained classes;
+# it is NOT an absolute guarantee of biological or agronomic accuracy.
+CONFIDENCE_WARNING_THRESHOLD: float = 60.0    # Marginal certainty boundary (60.0%)
+CONFIDENCE_REJECTION_THRESHOLD: float = 40.0  # Near random-guess boundary for 3 classes (40.0%)
+LOW_CONFIDENCE_THRESHOLD: float = CONFIDENCE_WARNING_THRESHOLD  # Backward compatibility alias
+
+
+def normalize_confidence_pct(val: Any) -> float:
+    """
+    Normalize confidence input to consistent percentage units [0.0, 100.0].
+    Converts fractional inputs (0.0 < val <= 1.0] from legacy mocks or callers to percentage.
+    """
+    try:
+        c = float(val)
+    except (TypeError, ValueError):
+        return 0.0
+
+    if 0.0 < c <= 1.0:
+        return round(c * 100.0, 2)
+    return round(max(0.0, min(100.0, c)), 2)
+
 
 @dataclass
 class DiagnosticContext:
@@ -28,6 +49,10 @@ class DiagnosticContext:
     risk_factors: List[str]
     gradcam_path: Optional[str] = None
     what_if_scenario: Optional[Dict[str, Any]] = None
+    is_rejected: bool = False
+    prediction_status: str = "SUPPORTED_CONFIDENT"
+    warning: Optional[str] = None
+    requested_crop: Optional[str] = None
 
     def to_dict(self) -> Dict[str, Any]:
         return asdict(self)
@@ -42,17 +67,53 @@ class ContextBuilder:
     def build_context(
         diagnostic_result: Dict[str, Any],
         scenario_comparison: Optional[Dict[str, Any]] = None,
-        crop: str = "Potato"
+        crop: str = "Potato",
+        requested_crop: Optional[str] = None
     ) -> DiagnosticContext:
         """
         Build a clean DiagnosticContext from CropDoctor output and optional ScenarioSimulator output.
+
+        Args:
+            diagnostic_result: Pipeline result payload.
+            scenario_comparison: Optional What-If simulation comparison.
+            crop: Canonical crop actually diagnosed.
+            requested_crop: Original user-selected crop, retained for audit.
         """
         disease = diagnostic_result.get("disease", "Unknown")
-        confidence = float(diagnostic_result.get("confidence", 0.0))
+        raw_conf = diagnostic_result.get("confidence", 0.0)
+        confidence = normalize_confidence_pct(raw_conf)
         class_probs = diagnostic_result.get("class_probabilities", {})
 
-        # Low confidence check (< 60%)
-        is_low_conf = confidence < LOW_CONFIDENCE_THRESHOLD
+        # Confidence policy evaluation
+        is_rejected = (
+            diagnostic_result.get("is_rejected")
+            if "is_rejected" in diagnostic_result
+            else (confidence < CONFIDENCE_REJECTION_THRESHOLD)
+        )
+        is_low_conf = (
+            diagnostic_result.get("is_low_confidence")
+            if "is_low_confidence" in diagnostic_result
+            else (confidence < CONFIDENCE_WARNING_THRESHOLD)
+        )
+
+        pred_status = diagnostic_result.get("prediction_status")
+        if not pred_status:
+            if is_rejected:
+                pred_status = "REJECTED_LOW_CONFIDENCE"
+            elif is_low_conf:
+                pred_status = "SUPPORTED_UNCERTAIN"
+            else:
+                pred_status = "SUPPORTED_CONFIDENT"
+
+        warning = diagnostic_result.get("warning")
+        if not warning:
+            if is_rejected:
+                warning = (
+                    f"Prediction rejected: Diagnostic confidence ({confidence:.1f}%) is below minimum threshold ({CONFIDENCE_REJECTION_THRESHOLD}%). "
+                    "Prediction is near random guess."
+                )
+            elif is_low_conf:
+                warning = f"Low Diagnostic Certainty ({confidence:.1f}% < {CONFIDENCE_WARNING_THRESHOLD}%). Inspect secondary leaves."
 
         # Weather availability check
         weather_summary = diagnostic_result.get("weather_summary", {})
@@ -93,5 +154,9 @@ class ContextBuilder:
             risk_index=risk_index,
             risk_factors=risk_factors,
             gradcam_path=gradcam_path,
-            what_if_scenario=processed_scenario
+            what_if_scenario=processed_scenario,
+            is_rejected=is_rejected,
+            prediction_status=pred_status,
+            warning=warning,
+            requested_crop=requested_crop
         )

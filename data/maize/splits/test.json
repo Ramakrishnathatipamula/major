@@ -1,0 +1,1492 @@
+[
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Common_rust_/RS_Rust 2244.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "3e12994d6bbf6b87f1dc512979bfd9e3"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/da7362e5-f442-44f3-aeb8-6523e0a2d9c1___R.S_HL 7957 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "343b813b11ce0541423c7ba959cf7dd1"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/7a846f18-cdd6-42b2-ae54-91e874fec475___RS_NLB 3835 copy.jpg",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "1773c46dc5ef14607750dd74c1edac48"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/f7e05e2b-6cc5-4b61-93e5-00172e3fa47c___RS_GLSp 9328.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "c55ed81663892eed31d105910936caba"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/69a9dfab-d6fd-42da-a0fe-6f46b4bb0a1e___R.S_HL 8272 copy 3.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "45cfa1a5e54824fe5796bcc14624f934"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/7aaf97df-dc18-4858-887d-e27dfe6c020e___RS_GLSp 7330.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "efc05c88ef3eb771b99af4ed31c2b935"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2417.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "8782c1aadfbb0041095a3d68bf7153b4"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/f291f62a-d6f6-4f1e-92af-d6177b154263___RS_NLB 3662.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "7a4715a36b53aa2d6564ecdbc823f8cf"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2650.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "d538995b2b3442978a1f628b0b413827"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/b8bffa6b-fda9-491f-a757-56b51caf5157___R.S_HL 8135 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "5814b8a637a8507ae63fc64855833ffc"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___healthy/3deca79b-004d-4d83-9e97-25523e492f68___R.S_HL 8265 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "b6ab86d9b5b4160fafb48059943cb7bd"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/82627249-dfdd-4afc-aa5a-6653a6d68824___RS_NLB 3954 copy 2.jpg",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "77c06c15e3d0737a3d5ddef49d59304e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/f066fbc0-7910-46af-bcff-cb06cef2177d___R.S_HL 7951 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "291b8903ea685506ac0643dfd5e00556"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2617.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "f69ab1cf2a6d55402021486fb9ef0391"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1947.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "686ee9b5b4c1e3b71faa9f761b780b4d"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/608bf7ea-b20e-446d-8bbd-862d91ee8e16___RS_NLB 3675.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "a3e01e95946db2487c22d3a86489a226"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/7c09e620-aa1a-4516-b97c-fafecba84622___R.S_HL 0637 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "02d7c85a60a8f85e7f3a994fdc4c1dfd"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/34044e49-72de-456b-8a9f-668a89f9d3cf___RS_NLB 3905.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "14899ee9dfc67e9d055009e0f4a76202"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/5cbbb4b8-88cc-4d5f-907a-505a2a831b8a___RS_GLSp 4599.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "d58fff288ae591ebfb225a1a4bdb27f9"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/623dcf1e-68f1-4de1-a69c-c94b23ec11cb___RS_NLB 0776.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "6e46aed75052bbd2038a37fc4191fc3e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2060.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "5ccb929e2e459e3da0b795dc0a2011ad"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/b77d2f7f-6323-44d3-9316-f83fc75ff208___R.S_HL 7935 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "369048be36af8c374dfa6e69b6da1108"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Common_rust_/RS_Rust 2036.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "868c9731fb9d77127927269d42be1c31"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/fa551b43-43d6-4788-8450-6a78a366b5dc___RS_GLSp 4565.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "29467b6994c86b7639810aec0101e54a"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1818.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "f3436f3828a7793c0a8b699fec0abfe2"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/8827a986-23d2-4990-8100-eb9fd875fa3e___R.S_HL 8335 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "a68eb884442d836ac04215e0da8799fe"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2389.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "0a7f78acd8be6a5d3cbabac5225bbf6c"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/ea5341a5-d8b9-4e96-a3c8-7785e02d0341___RS_NLB 3816.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "9c678f27a674f93db9aa6fd284db3cec"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/a72de5a7-34e6-484d-b4a9-b047ae3a77b2___R.S_HL 7881 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "3f35e120cfba35666d06ec12341d4f6b"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/4976825c-af34-4ba8-9e2d-2a6c25eae077___R.S_HL 8269 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "a11647c583ae2e79945c5dd42fe503be"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/4375eeae-d9d5-49de-be1e-d58d0909013d___R.S_HL 8078 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "785642c48013c2af0534b232e31fcf4e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1951.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "8c1c2bc3a1355dfb254b1a5107ca0c48"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2684.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "fc10afd8a0998f12786bed9843bdc02b"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/d4859241-3885-48bd-ace7-b888773dc5db___R.S_HL 0637 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "a4c626e0fe6294860c28c18c011b870d"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/e6efd4ab-64e8-4001-9665-e177c273ea3f___RS_NLB 3804.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "81615d12936e3f9bffa4e1b8f910c903"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/86d512cb-65b5-401d-8b98-43cd03dbe815___RS_GLSp 9332.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "23338a348d3faaa6a62a105caf00252c"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/cbf52e27-af4f-485c-9bd3-5c33655a3873___R.S_HL 8322 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "ac276592f34f8ce5506fe9d186c64d87"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/671065f1-731f-45fa-9c11-3e0080f79ff3___RS_GLSp 4344.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "920aa43271a8ae2280ff4890eca9e4cd"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/6db850c6-2b56-4acf-a283-2cd246c02bfa___RS_GLSp 4474 copy 2.jpg",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "b1a0e0fcd3bab52cd03e40574100697a"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2592.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "686d5c702c50dfd4dfe7b435427ccf28"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/29d60537-2717-45e1-b608-c19270302f67___RS_GLSp 4558.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "4398ec1b3fa661274e0b51ef8a801b4a"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1944.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "ef770bafaf95ec5bb4a2028bdfd148d0"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1920.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "46cb81773c098f3ea141a9c726eb6bd1"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1808.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "31db7cea81059a1d549638453cd90dc3"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/8b83a278-e88c-4efa-a203-2c43a7085aec___RS_NLB 4094 copy 2.jpg",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "b5d038e34d18842c6ef7be9ad763d2e6"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/fc84ca09-d6c7-493e-957b-c46b2055b702___RS_NLB 3836 copy 2.jpg",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "91b42167bf3903b76884e0a67da7c9b9"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/d80bf184-8e5b-41db-a7a0-0784964e0fd2___RS_GLSp 4630.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "fe1c7c47b6563de7c6ecdd87b8fba416"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___healthy/466155e6-ef86-4024-9c0a-de7ca09a1d07___R.S_HL 7986 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "78db09c01afd4ddc113635726eb9b6ca"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/66151c80-6947-4062-bbb0-3771e6feefc3___RS_GLSp 7304.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "ca1964a70f510a1538aef009daf7dfda"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/06c4ba4a-6a5a-460f-910e-2d42562a1a93___RS_NLB 3891.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "a909432353e5a96d9959d5dd49a2ed30"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Common_rust_/RS_Rust 2576.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "a558a77b8fedf23cfd1d7f293785169d"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/7a93142b-986d-46d4-ad77-646d64f418dc___RS_GLSp 9341.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "5cf49e4d86d45329a0b7dd7f139008e0"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/9e99be96-fd57-4fee-930c-340ccdad9a20___RS_NLB 4178.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "266691ab658837ad8470c0f18fc7a930"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2467.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "62a0b0daa52f23e3e2511fd594de5451"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/235b7976-4626-4244-9ed9-add8dc171ee9___R.S_HL 8196 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "b30a4bc5fa782b4483902fe5cab58401"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2249.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "49a40909645284d22102d869ec1f72c3"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/e669b168-a25c-4770-9d2b-a89e3e6c421a___RS_GLSp 4463.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "35e412e8f814e8e5636240cd35c88048"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/47eca8a9-befb-4c5e-b2da-991655be867b___RS_NLB 3838.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "9ee046040b3cae5dcec17b58e0a0f1e1"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/4a771d9d-4dc5-48dd-9b05-239246a8dc66___R.S_HL 5494 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "d53a90e74fbd7d87d7f6000abe6454ad"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/c3b2b118-3ee2-46cf-8c21-4d93523f4ccb___RS_NLB 3671.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "bebf877569b491c0b05ffc4dcbb45619"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/6b1af2e2-fa9a-49db-8986-22f9a4472d01___RS_NLB 3744.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "6857107bb596276dd266a42d817698b2"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/aeb277f0-d22a-4c97-b9ba-4cd7f8c9f716___R.S_HL 8271 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "76684f9b2c3fa1b15585857fe4f66518"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/e42bbd37-0236-423a-9d85-6f01e27e7d79___RS_GLSp 9324.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "469a8de4e6cee96bdc50af13ccaec29d"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/42423e5e-790d-4839-a683-abb2d9dce89a___RS_GLSp 7296.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "f622e5d5612b6e2e17abb01021597acf"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Common_rust_/RS_Rust 2135.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "fd7ea19ea969b814b7c05284e3a1270b"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1726.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "9d743cede2b09ce3c65826196179d1f4"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/cd2c4993-7fe9-42dc-a96e-7a8892f4b2d8___RS_NLB 3834 copy 2.jpg",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "756f1be83d3c312f5ecd4d69c66296a7"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1604.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "fa02d72292d834c7d240b73a7d31319c"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Northern_Leaf_Blight/92e0ba47-165f-457c-9be0-baa37eb16d40___RS_NLB 3624.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "8a225e4460c53f668dd97658fe59ab83"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/ceac7e26-3dbe-48a1-b111-3b4149cda69d___RS_GLSp 9316.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "e03a46662da7880990a89ede6791dedb"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Northern_Leaf_Blight/9ed2cd87-1fa0-4425-bd07-d09cae22a936___RS_NLB 3525.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "0ba33d16316c8dce6e36921c111fc093"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/97b35ced-b7ca-4f6d-8c22-5390c3d192c8___RS_GLSp 7307.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "4fcd7ca73ac70531ba73d439b316e3fc"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1653.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "65d6be1e6c877f5f6b1d7c95f4dea227"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/5d3b81a4-890c-4792-a96a-66f19cf44750___RS_NLB 3883.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "80532036732ace4834b22b348489028c"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/6df99d74-ad7b-4ca2-84db-904099c7293c___RS_GLSp 4321.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "70aceadea86baa2389fcbdf91838a1cf"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Northern_Leaf_Blight/5b4f7b36-0ce5-491c-93bb-ac81b21b13c6___RS_NLB 3824.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "9bfd9c1104c6a111f9a7ba716a40023d"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/abf68bb5-f883-4423-8e98-953f5f45a1ed___RS_GLSp 4463 copy.jpg",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "bfea8726fb879f56e13594786e712c18"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Common_rust_/RS_Rust 2255.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "b10565f4a6d5ee648fde0589740b2727"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/da87ef8d-d7ac-409e-9482-a85173ed8922___RS_GLSp 4454.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "022d0033ebe0055c936ec354c31f7834"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Common_rust_/RS_Rust 2175.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "492a875ff0ced1eb55a38dfdb575f358"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___healthy/32a1562a-00ca-4e01-b8fa-9bb9a964f2fe___R.S_HL 7984 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "5cd2944f4b2d4cf7d1e76b34f9098766"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/e5e4cd23-60b4-4b94-bd47-31495d8e7263___RS_NLB 3514 copy.jpg",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "380c6305b38eee64a7dccf11ef735658"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___healthy/dbbbc6e0-d26e-443d-a962-5ee4dc35ba79___R.S_HL 0636 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "f4a8bea99d0b6792f90fa9102a2e1276"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/7a1e1c85-a9e3-4520-9349-8e374740c40a___RS_NLB 3753.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "3a30026a967aa3da2069cf15d88f7974"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2596.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "1ca1174798671364b806b22115d3d771"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/7dcf62d0-3500-4902-bfe8-e5eab0dcdcaa___RS_NLB 4119.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "eec06814da3fccfe9ffb279ca1ddc0a9"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/36001a30-9fc6-4955-9a14-49944cc8078a___RS_GLSp 4393.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "937e197a418e1ef84291cabd91c921af"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2078.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "c97168fcfb7aa30a31941648a39b545e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/ac3f03da-04fa-4c1d-a025-a547ed3a2368___R.S_HL 8243 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "e820790fcf80e36709924b72355044f0"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Common_rust_/RS_Rust 1932.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "4948d9f23041c604d7e6533531f9200e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/e415586a-efd4-402a-90dc-5a417ba95313___RS_GLSp 4448.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "0875f5a38512edfe3c5a1e37fa3a78d8"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/8f37159d-ef5f-45c7-8d10-42534761761a___R.S_HL 8261 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "6a92cb5f9ae6ddab1ea51733d97ce44e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2507.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "0a5ac14743ce6c28700cc89d605c1750"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/79d78748-a6b6-489f-813d-5bceb0e9988b___RS_NLB 3666.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "380f3760ffb074aab75ecc0cbfd1d72b"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/d39e45b5-4091-4e0b-b218-3c36a6360179___RS_NLB 3779.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "8586a785fb2b89109fcc113ae000cf80"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1869.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "6490323f227baf011009722fd28b16a6"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/9e5d6522-3dc0-4851-84d7-5ee6a6981fb0___R.S_HL 8171 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "452df0db55848e2fc8b7aa3e0e74e1ee"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/d703fb4d-1b5e-4fde-8cb9-d639a884e3ee___RS_GLSp 4401.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "537f44e3143dc245d6efce51193564f6"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/5f34d592-9ebd-4498-955e-bf28944ef9d0___RS_GLSp 9367.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "3e6d6ed168b69d5d0a65623095943d1f"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/0ad77173-546c-4957-be8e-344a8cd492c3___RS_NLB 4118.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "a8044347701eadb37628117751170d62"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/a593a2fb-75d0-434e-ad4e-b9272d7b4652___RS_GLSp 4585.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "68c2ac7886db94d1a5fd7016b6f24a90"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/b9a39437-94b7-41e3-b309-080e9a93d5ca___RS_GLSp 4440.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "3c4743c5dbe9673d83119625a9b86e6c"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/43a7a5a1-655e-4534-aa3d-ce53628c34b1___RS_GLSp 7302.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "1e6d282172e4e26da33a6292e9f72c2e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/9ac3c670-7ccf-46a8-870c-c075a26374b0___RS_GLSp 9344.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "c158979266e4f28a31a918fdd0f56d28"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/d2d6eb51-8cff-426e-9ca1-6802f880b120___R.S_HL 8287 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "30b44aa8c6a7ba5d3fc18962c101b7f5"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/952a1717-81d6-482d-b13b-3897a420fd47___RS_NLB 3994.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "4603dc162b94606bc55ce8b4462ae056"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/0dbd11d8-bf4d-48e1-a154-bf99de9caf64___R.S_HL 8227 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "e953341c7ca6bdece9a1edab77d27035"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/6cace6d8-9be3-43f8-9e54-3b66d1491af0___R.S_HL 8109 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "1b24470a31de23e20442748a57aba189"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/6b885bcd-1cf3-410a-81e7-49b2d63201e2___RS_NLB 4044 copy.jpg",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "9adf8e0d2e403d885b4919453b7f404a"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/f7044e72-6f61-45ce-9636-43f653381797___RS_GLSp 4637 copy.jpg",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "588f59f17b3a2bf61373cbba9e4b9e12"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2733.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "b053de6959b7e0186b01b1cc118cea15"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/b53702bb-dfd5-4791-a550-d691cdb8a822___RS_GLSp 4379.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "2bef9f48c99b49f0cdbb2265ff411714"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/88423d75-8546-414c-a037-3292a5194695___RS_GLSp 9298.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "ed2a72b8b0fcf36b7b06c09009d14e43"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/7a044a04-7cfa-4677-aaa1-52f3686a5a2c___RS_NLB 3594.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "0d48467fc85e04d5a767cbc718c828a4"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___healthy/e7390b09-74e0-4ce3-af38-95aa97c78e34___R.S_HL 8263 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "2ee3b032a689e505bb984e346dc0ee9e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/5b08c1fc-7f88-4537-acbc-d5924f74f865___RS_NLB 3636.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "6403327ea06cb40304e19cdae812b343"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1909.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "507f07145a06d6023ea70554d7498534"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/1035c09e-6caa-4bab-8faa-d64d539fa9a1___R.S_HL 0626copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "e1e6ed4a95540780ef78188bf5039e9c"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/d3d7a5a3-ee3f-4654-8e90-8e722d433972___RS_NLB 3553.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "a06ff3563ba11fd37a47b3ccb356974d"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/b60e5a26-af11-4e63-aecf-e526cb61ec5a___RS_GLSp 4341.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "1d3f09eeaef9549673944b3bff3fb990"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1616.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "7cb687dab041a1a244701d37bf13218e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/d890fad9-fcde-4ed6-be88-10e61735cd9c___RS_GLSp 4368.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "769bd24dab7d01e9a77f2731cd86d0e0"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/c00aaa9f-85ca-4cb0-9734-b55296153840___RS_NLB 4081.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "4414c2da249abc407f951b466feb68fd"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2198.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "acc999f31f63eb506b8e183c2791a15e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/92cfbad9-bad0-428a-b9e1-d3aa67d0c063___RS_NLB 4217.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "fcc69a12864e10c38a98353589cd14ac"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Common_rust_/RS_Rust 2540.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "633702fbb3d97d7ae591c04eaa27d3d0"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/cc60499e-6802-47fd-b4cb-8ec70207e464___RS_GLSp 9305.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "bfc8a62a188746711662124c7c939c26"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/5558853b-3853-4ef2-9824-a73060db0b30___R.S_HL 0631 copy 3.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "e5c041dbe2c9b14c726cf5b23eea3123"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2419.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "d022083304ccb1827498067d1ac76d3c"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/85581bfb-0508-4cea-a76c-b929fea867a1___R.S_HL 0605 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "4f81701ef37ec34be40523201c7745c9"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/15484387-5b5e-4248-928b-f5d4c98e8133___RS_NLB 3479.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "3252e1b648d866c91fa0f4c0228f97cb"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/67c6930f-deba-4f88-81ac-969155f5765b___R.S_HL 8079 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "29ec88092565305bf74ac6bedf00e654"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/bc690bb9-1611-4744-844d-0ab174467f54___RS_GLSp 4582.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "5e103acce654455ec54ac7b3e740d5ea"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/b927fa6f-d9c6-4fa0-b93f-ca77f7cec655___RS_NLB 3827.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "79a5d5e165b576b69952707b8a60d377"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Common_rust_/RS_Rust 2406.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "d909dbe68452e61b2f172a14653ba278"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1596.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "d39d6f89e9b1b55a1b3ba9a2767cb259"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2055.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "2208a3235f03a55023138e41b81e9a22"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Common_rust_/RS_Rust 1962.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "8dc79c8838af016b389360a9f0b945ef"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/2a877980-8d25-4dbf-8b84-458094529054___RS_NLB 3970 copy 2.jpg",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "6cc7a9779a21324e436d8dd14c624489"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2296.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "716073316ec450a53134e7845b53d2d5"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___healthy/e30f6f58-1ca0-44a0-bfd6-e3472122a5c7___R.S_HL 8305 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "8e32f250cae778c8d880fbdd858b3fcd"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2314.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "7d0a8930df37b3cb1fbe0cef0fa84ced"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/92274867-1466-479b-81df-23eac6437781___RS_NLB 4047.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "b991a4025e1256b11da638e81eb808db"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1876.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "72c12f61add7f0bac8ff0b90f0811b71"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/650d4770-c4b9-4854-8476-681d9d93034c___R.S_HL 5557 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "9a08047356b4da08af78fc4dc5b72d7d"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/f4d1410d-4fb6-4d90-ac8c-c96e64374cfa___RS_GLSp 7341.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "068f0a42d446ecedeed32a637059abfa"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2575.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "9930edb7efaf13f39dd5a1fe78006078"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/ab76d00b-1082-49bf-9499-ca0640946ad9___RS_GLSp 9369.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "1b0fb96f3926ecfec6120ac12d048ff7"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Common_rust_/RS_Rust 1774.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "1cf046a9916629eaeac857f45e6ab637"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/3428ab03-a782-43d1-8d21-8f3405666867___RS_NLB 3916.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "cb037562679e7388d6d4bca582773d75"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2746.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "aca3cd4fae043a2247a36b6b3bc792f2"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/4f3406d0-c000-40ea-91e2-0e41d69f668b___RS_GLSp 4458.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "cb6feb201f759b0dd7c0e26da160ddb0"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/f85a5f36-d0f7-4aaa-9d28-9ff33d092385___R.S_HL 8207 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "81d9fd559442af19b2c61f8c4f044015"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Common_rust_/RS_Rust 2165.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "4799de7cc783b60a01ddefaba1d795b1"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/5e673820-c759-49c5-82bb-5c1079c8324c___RS_GLSp 7317.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "c954806f15f21c3393124fa4f665b3b5"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/994066d4-bb51-4aaf-8b52-03459d375a03___R.S_HL 8129 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "3e4dedc655e1c82bc32cdbd976d3f2c4"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/bc1f8969-f563-4300-b792-93f75d23a483___RS_GLSp 9306.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "467435eadd645ba0c0dfa0c8761fbd70"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/751475e8-516b-4708-8509-7137931ad7ae___RS_NLB 3597.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "31bceaefb5ddd3a5273566b0ac3e0202"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/d4c4842e-417a-4cc9-8fd5-40c618ddf483___RS_GLSp 4290.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "d3ed293cc082087d54433a4b57b9173e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/8808dc45-6683-4e50-a324-938dbb78afc9___RS_NLB 3754.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "73d592509389e25eccb83153edc4fc13"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Northern_Leaf_Blight/77179782-2d6e-4056-ad95-f8263be229ab___RS_NLB 3674.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "6a4bd85aad243cf3441b8b13d39e097e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/e29df32e-9fec-4ef4-b0fd-e71cf4f567ce___R.S_HL 5527 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "9a2e600f33f557575b628963aa4bdfff"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/10b05173-08e7-4470-a581-a64898a6af88___RS_NLB 3799.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "abd81cf6d3965a0c21efee1604360e28"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/93cdde3d-f06f-4fdd-8dfa-1b889cab8044___R.S_HL 0619 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "1c4521bd620564cd0b48866c2671897e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/68d6e3a4-795c-4c01-8020-8d927ff82c49___R.S_HL 8220 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "98b71df0eb2b850ca8fbc206337a90ff"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/590078f5-c132-47d1-a575-9a05637cdaba___RS_GLSp 9351.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "d133f84097adab0023814721299d2250"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/97bb609b-99f9-4dd8-9468-cb24cb17bf7c___RS_NLB 3497.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "d4e70898a7ef7d2ca0794a3f4c72d026"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Common_rust_/RS_Rust 2613.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "4eb3b27fbcdaacf9c26b1e305c5242d6"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/3d233d54-4960-454c-b98e-2febc7019bba___R.S_HL 7944 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "e378d4c38c46ebcc7c464b7f381a2e4a"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/b131eadc-23e6-4784-92b4-4aaee4293bb7___RS_GLSp 4431.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "862c49452b77ace9efea5bafdfdc8673"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1922.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "8632a259b91ef10c8bd03587207b1aac"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___healthy/cfa7d11e-1df2-4e9f-a90d-1feb1bbdb55d___R.S_HL 7895 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "4fc13bb7639e57229a0aa1abf2956766"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/ceebdf43-7611-422c-b083-cf1eb7ad640a___R.S_HL 0627 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "dd7ae7f16931d634f8d07f3be324ebe1"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/a7659e27-ba53-4b85-a0dd-6a1009703831___RS_GLSp 4619.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "4b3076da68182e3b41adecb79cdc05bc"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/e50fa094-ce6d-475b-91e7-55266a2677ac___RS_GLSp 4379 copy.jpg",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "03e1984672bc5a2e8d6e87ce71ac9e62"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/b0e09c66-6c79-46d4-9eae-26a2870e9f26___RS_GLSp 9270.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "63bc2c30876772179361067cf5193354"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1919.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "5158ffb77a4e4191bbcd5328a10b5d20"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2087.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "4fb90471a022898ee89f6307fad4913e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/74967cb3-e984-43f3-9bd3-74ba302b1db7___RS_GLSp 4555.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "da4c3c93a672e03087448298c71b24f9"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___healthy/ef21bc27-7f69-4eba-87e2-6b1f348cc846___R.S_HL 8279 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "f0500044899bd0382af2801751a8c430"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/5a341520-f90d-40eb-89a7-e557aa572200___RS_NLB 0764.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "a492ca26283f84c4a8812caa307334ce"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/b7cbd856-9fad-43a3-9b98-64b7b31c0f76___RS_NLB 4065.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "bbe6bf987a51292fde9e856e2765e442"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/bd9db5fe-e2d1-4c56-807d-2e90ea2fb6bf___RS_GLSp 4406.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "4d7b484e887e42ddc2c3d4de64071264"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2638.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "e4938b0f135669ff0bcca43c298d156b"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2133.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "e9657aad5e9ac85705f1b930fd432b34"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2490.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "4a512dd62ae989fe06d2d22f7fd34fbf"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/2206258a-43f1-481e-ace3-f55851e4c9a9___RS_NLB 4114.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "8a2cd8f218ee6d93e403c5c3bc946da8"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/7104ad51-e018-4c0d-b767-33014cefe392___R.S_HL 8232 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "a9b83a9d5cf650ab4fca1dd25cf78278"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/336c4d7c-6905-4f19-b81a-eb7af7d3fd22___RS_GLSp 4413.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "693a4074dd81bded3d735665c164e7b4"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/6757fd53-7558-407f-bd79-b52e7c0286b0___R.S_HL 8160 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "3250139e835391bb9b740c448f69efac"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/0a1a49a8-3a95-415a-b115-4d6d136b980b___R.S_HL 8216 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "6d7d5897dd797c79e59aa0eb0a9ec1b8"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/4d669c56-5dff-4b5b-9395-85fd4ec204fc___RS_NLB 4266.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "87e24d53511218b9fc027dc13cb93018"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/a9d8c701-7c8d-4615-9486-6b8d78918ebc___RS_NLB 3866.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "39edf8fdf325dd49a9434a5664838953"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Northern_Leaf_Blight/95786afb-4b8e-4837-a396-0157ec1a2245___RS_NLB 0767.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "bc517eb58a8127bc04da5fd11b2964fe"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/89d03cba-77b6-4197-9993-434138cf6eba___RS_GLSp 7303.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "0f1a5f4c36bec6a03aeaf3796a36409e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/b3ff7fcd-955e-4a4d-9278-9642ac737f73___R.S_HL 0638 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "3f403ec2a738a9923ce953652e13f743"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/60e614c6-47f5-49c6-9058-00c1558a382e___R.S_HL 0646 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "66fb023a66c3e751fdd3bf545f2ce534"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/095ac154-37a5-4511-b4e1-4b3853f9c1cb___R.S_HL 0601 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "1f334349ad1ce16a823e089fcf3a10cb"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2089.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "58bdfdc3aefaccd5eb81551d8cbe22aa"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/162b2f34-0fa5-49ca-8996-ef495e8ef6c6___RS_NLB 3484.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "b3ff864270b0d168b842c7774c98eb74"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/0b799242-624f-46fb-acd3-a9352e8b4213___R.S_HL 8216 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "3805433e961a14e3a5f490e4a8a5306a"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/65deda93-1bde-4adc-a57e-b7e1b8372101___R.S_HL 0603.JPG",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "32042c0cb4b0a08be90dde66a9d739e1"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/53cd35a7-f989-4813-9c79-a3af9d175b90___RS_NLB 0758.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "484b422fe1c09a320fb4e9a817f6aaa0"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/b62826b2-1547-4c3d-bb4f-4ebc2e166b9c___RS_GLSp 4651 copy.jpg",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "fc7a9f2663cc5f848731a94ab8c229aa"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1793.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "e252c3a2e8a6140525a79b63a052ee0a"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/493500a1-d3d1-4cf9-b354-78540b3e3044___RS_NLB 3689.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "2fe8f892c0329ebc883c839e0ea81500"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Northern_Leaf_Blight/de023021-3b7a-4b88-bb83-7bcb09f80b6a___RS_NLB 4666 copy.jpg",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "ae70562edb0941a4b2a5e7858aecbb81"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/d1265756-90d5-4126-943b-4bff5b1e8277___RS_NLB 3904.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "fe3720b86edea9e7da5ee9361977fa2f"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2127.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "6948b83d4f85f2bdaf3ec0ed17223e20"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Common_rust_/RS_Rust 2071.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "bc76573d5c60d067b6657149b0030d01"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/d1b2206b-39e5-4444-9ebe-223d0d78880e___RS_GLSp 4407.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "25fc80e57e378844b1453ae0d6a495db"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/a5427e24-26fc-4d4f-af7d-882b9ca2bcdc___RS_NLB 4228 copy 3.jpg",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "0b29c20dcaa90c4d27bd735e199bb249"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/3146c9fd-b7eb-4e06-b063-6d9de01a645f___RS_NLB 4222.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "5b60b0f14a777b6cdf8865a4b5fb6492"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/9ff013dc-f099-4a5c-a187-65f5864132a6___RS_GLSp 4397.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "91d25adff75dbc6dd8b70e7bb34a8584"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/c671c535-9c69-4935-9cc8-0f187b4df44e___R.S_HL 8045 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "ad0d59d9f1f478cfda1c6c48fddd2438"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/d5c6e7d2-c531-4ef2-adb5-987d705923bb___RS_GLSp 4657 copy.jpg",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "98ee7879ccd56688ede97a7452536910"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Northern_Leaf_Blight/dca191ee-4869-454f-a67e-6af114398edf___RS_NLB 3647.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "ee7e9e4b0446e39d1a05d9ee9a381082"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/9a16ff5e-7227-4739-8e42-f1bc3e478acf___RS_NLB 3699.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "5e397efbb9e7253f27b6a406c71f5114"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/b761537f-f90f-43a6-a816-6d515dfa0e26___RS_NLB 3797.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "c48e95751936261eb6bbc27c778ce610"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/937c02c2-e783-4c8b-a04c-ce5411970236___RS_NLB 3911.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "18cc9f319fef070e50d1b5e48a12d4a9"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/a9bc0746-7cb8-4cf7-8998-27afed5648d8___RS_GLSp 7322.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "dcc8b75ff6e75a3572d73126c07a3125"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/8e1480d8-2b13-4b0e-83a0-6f8d8e37d888___R.S_HL 7911 copy 3.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "52d5ec960dab016775c6230a88ba5989"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2279.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "c413a70c14b6622589db0daaede9cd46"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___healthy/247cf021-2864-47ac-9f14-f89e12e4faef___R.S_HL 5514 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "f7ccbe3aa83ce9089db16a7c01c33218"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1665.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "d35a6fe74268cd1301aa095bb7705a78"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/dda4a05e-e5cd-471b-9c6b-38f589d863dd___RS_GLSp 4491 copy.jpg",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "261e7f13631935fc2d15d3970a0f2be4"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2610.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "2844ca063c1807ac020b02a313650a86"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/ef0479e0-c62b-4a8f-a5c6-1957d0a77c8f___RS_GLSp 4396.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "f43fa7e4c7312c8d4d97d05c821e4141"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Common_rust_/RS_Rust 1879.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "49cbfa7fabd4e6e214fbd572f802d9c4"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/937045bf-b8e0-4bc1-b630-34b683a23cda___R.S_HL 5554 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "c10691c38686078c2c1587fc1f6a8ada"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/67580ca9-48d4-485a-8f99-bd68c56e89c2___R.S_HL 8340 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "c3953fed7b50314a3256451f35c308dd"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Northern_Leaf_Blight/ae7fbdce-0d55-41d7-bbc9-a8f043771636___RS_NLB 4669.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "98ca62e5b19d094963ab8d83dd6657dc"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/0d13a6d5-7993-4a5d-beb1-4f38b7805fac___RS_GLSp 9303.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "086ae132e0484d3787ad51fcb50d283b"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/432d152d-dd08-40b4-ba2f-2cbf2352d29c___RS_NLB 3586.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "4bb247311098b413ec2b3cf697f1eff5"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Northern_Leaf_Blight/f546ba30-4b0b-4906-a527-bb4834df87cd___RS_NLB 3558.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "153b8c47f41c1b88b018b068e7ab48f0"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Common_rust_/RS_Rust 2548.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "d0be7682a4851e7b8d1e8a862b5cdb7e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/59bc212e-6b39-4712-b9c9-6edc3fa3e05f___RS_NLB 3604 copy 2.jpg",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "cf6f9feae3802d19f289d46fedae3902"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Common_rust_/RS_Rust 1886.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "784ca39d2a880c3abee96c4c85d426fb"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1983.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "4f8dfa08782281424c5ac0e20a9b7bbd"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/9210aee1-c3fc-4a6c-b98b-5b2634482985___RS_GLSp 4682.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "12ca84d5ce595c0a6fb2ed9281214786"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/d0e16874-80b3-4f2a-8511-15d5e69d33c6___R.S_HL 8056 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "798deb1ab0056ecf615d9b3441c20e14"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 1956.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "dc7f4408cca7397dbb58ca126b1839ed"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Common_rust_/RS_Rust 1988.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "f894a3636d04e3bccfd688591755de8e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/206517f4-4d5f-4d16-abab-7e634fc78d0d___RS_GLSp 4412.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "1ab3591972f9f1a1359422cbcbbdaba3"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/bfa4998b-ab2a-439a-8e65-3501db446811___RS_NLB 3704.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "e6e1cee14e80dbb9636b6f3c624cd63d"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2695.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "ad8effa0af4b9145b3389aa3d20221ab"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2730.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "be77ebe9dbb33723e6aec2733db5ab77"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/53c211a4-96bc-4f7b-baa2-25eb66878c3a___R.S_HL 5514 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "57fc20394e370b1d912b350167160816"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2491.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "fe67a2dff16c5232a88f370bee051b51"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Northern_Leaf_Blight/a294edd3-2e37-4901-b35a-454480f4cea1___RS_NLB 0768.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "4c1fdbe29c791122cd91d85c1e4d4a03"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/3b9cce3e-5b77-444d-957d-71e3a105d66e___RS_GLSp 7289.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "c383f6980e3e153bcd0cca901139b586"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/e760af68-e885-46b4-a823-c4faf290c9d0___RS_GLSp 7299.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "6cb50cafbbf90ee19a0e5cf86448029e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/a89fef58-2ae1-4fcc-ac6e-c9191a3ac3a5___RS_GLSp 9311 copy.jpg",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "241a76a726671a8101948decc2348f8c"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/0788fd06-d2f5-4f2d-9fc0-27eee3f437fc___R.S_HL 8243 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "70e30a7fcafe0b8b59572a8e3548c65b"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2232.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "36e9e9b90ddc9bd5a34e769c41c0571d"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/ec76caa7-e1a4-440e-9b4c-3ee355aac33b___RS_GLSp 4479.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "032a08d9b2f1e326d294eaead04aa9ff"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/0ea6082b-93ed-4823-a7c5-acd907695d6f___RS_NLB 4080.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "28c8652103ac682d142e0679f9ca8e6f"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/ccc55a8a-35d3-4621-88a0-0f81af01a7ad___RS_GLSp 3811.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "e2b33e473e3b1e1c11d2ac08e8374f92"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/a9b8dca9-da3d-4206-94b9-38fd2781bfc7___R.S_HL 0619 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "39aec9d68101dc889f7950f455e61142"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/468d93ab-7a44-4ae7-a489-a03d39651009___RS_GLSp 4466.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "3b5eb4e3e56402033dbfa6541920e2a7"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/15887cb9-7dcc-4839-ac67-a87cf2cec9c6___R.S_HL 5532 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "bdd03b300620034cb5c36b6cab0893cc"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/b14bcb73-04d0-4e27-8cf3-9d26bdc1a8d7___R.S_HL 0612.JPG",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "b19595be7e888ddb7fca0532e152ab45"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/867d1311-1976-4387-8fb0-28c9ce135f0b___R.S_HL 0595 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "d37ff88dc20b89d1bdc197ff8e42fbb4"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/3fb57074-5e53-45e8-9219-bc0cee74f440___RS_NLB  4597.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "b5dbd498658e449d6a60787b02d9b33c"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Common_rust_/RS_Rust 2533.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "33708e4ed350c4191f3209dfb642f028"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/87f58832-076a-41b1-b8d0-181077b5f478___R.S_HL 5560 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "6c0b86f6e8673b4a352b68a3e9d897c0"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/28132313-02f5-4116-b7e6-5b0d33b1868f___RS_GLSp 7334 copy.jpg",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "380ac27c40fe506049d1a42c3eb764c1"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___healthy/5307bb57-584b-4af3-a3a6-af59b60d1944___R.S_HL 0629 copy 3.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "12df710cb5ed9c5dcce2886a97fed663"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/0be917c7-7340-40f3-af7f-3343a45d7621___RS_NLB 3942 copy.jpg",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "c2a16f0a6343267d6d67d7686a5ea613"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/4ea4d667-2e5d-4440-83ee-5b0d68217272___R.S_HL 0651 copy 3.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "47404edeae307d21a78f088b6fd7628b"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/7f69942f-70ce-456b-b8cb-1ce937ea6389___RS_GLSp 4418.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "2bef210befcbc69179e47c6912ca9bb3"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/283e2340-1c6a-4d67-b40b-64620f95912b___RS_GLSp 4470.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "98edb94753333f957d4d46cfdd731a36"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2402.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "aadffaa68c1f2ad9b7edcdd1d31f8985"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/2fd737f7-bba3-4df7-8bd9-8c1d78b96bf3___RS_NLB 4127.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "968c1d9d2bac3f4b9bdc414a0e7119dd"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/9ffb3724-b220-4e79-9883-f1d3a5141152___RS_GLSp 4688 copy.jpg",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "7b5221102db9f46a990f3aa70ffa652b"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/9a59a663-089f-4722-8bb5-937f18978888___RS_GLSp 7301.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "d7114d34aaf375b4f14d54f212a23b5a"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___healthy/9c774ac1-c09e-4365-bb0e-eee0dd61ac3c___R.S_HL 0637 copy 3.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "5bcbc92bb86f27afd8aee67ec677ade7"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___healthy/5a2800a4-15ed-43a5-864d-01d16d37ed67___R.S_HL 8219 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "02355e9e2076534342341514080b688c"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/c72b436a-2b40-4e4c-8a87-275ec5c90bea___RS_NLB 0827.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "d1a1e205310abfe229a29aaaa8e25e37"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/71deb36b-bebd-4f7e-8ed3-362b1bbf86b2___RS_GLSp 4446.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "51132ac0d2ff266bab03ce921ff87008"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/0a5cb475-a6e8-4233-b251-bc5165868730___R.S_HL 7978 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "c12119de46b1c13190c9b8f138e9404d"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/11e65380-6628-446b-91af-ae42d998d5ff___RS_NLB 4220.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "6c04cff1b78a431933a6b994545e38c2"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/f4f3369b-f1e7-4d82-a504-f9ce40d7a997___RS_GLSp 4694.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "95f760f4275e8bf3c962ec98e1fa02be"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2553.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "bab80b41c9184e984275dc5e9eff4d39"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Northern_Leaf_Blight/7325478b-3516-4cb0-8635-57f785b6262d___RS_NLB 4109.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "bb8f28126470875a89a7b8bc9c34ed53"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___healthy/3a188d29-5d0c-4707-bd8d-cfa29fe88eae___R.S_HL 8283 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "650dcd31853a4cbbf08ec41cad3e6109"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/bda64a31-97b6-4a99-8182-acca2dc14e96___R.S_HL 8094 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "56d9bb02ddd4795d5b973df3eb73506f"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot/27d44f36-eb1b-42df-b32f-ba8373b08e46___RS_GLSp 4416.JPG",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "md5": "f49c41e5721514bee33a3688abe14ecb"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/7252dde0-c959-483b-a17e-5b3aac4100ab___R.S_HL 7995 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "8b1d2b96a1225a3d03902fc4bdb52080"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Common_rust_/RS_Rust 2132.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "8b3726a65d0fd832fcc85e0bf2ba9a0e"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___Northern_Leaf_Blight/5a2e998f-6157-42a7-a2b3-bfb972a8c94e___RS_NLB 4111.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "298b199845fc7309677dad99a3dc1212"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Northern_Leaf_Blight/7c3b05fe-d387-4542-8a0b-d027d7c9a72c___RS_NLB 0821.JPG",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "md5": "01d78fd726c5350fc6f2ce2ce39aca02"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/1cf6abd0-261e-4a8c-92b4-92320be88999___R.S_HL 8121 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "46a816648fb5273e2ebe3993e98589ca"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/val/Corn_(maize)___healthy/1825cb9f-8f7b-46ef-a4a0-65a93592b857___R.S_HL 0615 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "4fb7124cfb45174c0ecf6c93bc0cf84a"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/e2735878-7aa1-4db0-9013-6bf31f6e4e43___R.S_HL 0598 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "f34f2734bef1b115c56a4ee044b1fbba"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/2c832929-4ee6-4e36-b473-436d49f26413___R.S_HL 7940 copy 2.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "81c6e9fbbec943b8397cf014fc2efd35"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___healthy/b0d24620-42b3-4ad9-88c8-400f5652ab44___R.S_HL 8074 copy.jpg",
+    "class_name": "Corn_(maize)___healthy",
+    "md5": "02df3cb26c09a0720d110f7346509fe2"
+  },
+  {
+    "path": "~/.cache/kagglehub/datasets/mohitsingh1804/plantvillage/versions/1/PlantVillage/train/Corn_(maize)___Common_rust_/RS_Rust 2039.JPG",
+    "class_name": "Corn_(maize)___Common_rust_",
+    "md5": "e9f375eca0a1441a5b5c6d65981d4648"
+  }
+]
