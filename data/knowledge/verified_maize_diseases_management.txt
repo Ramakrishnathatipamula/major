@@ -1,0 +1,58 @@
+# ==============================================================================
+# OFFICIAL CIBRC, ICAR-IIMR, AND STATE AGRICULTURAL EXTENSION GUIDANCE
+# MAIZE / CORN DISEASES: COMMON RUST, TURCICUM BLIGHT, AND GRAY LEAF SPOT
+# ==============================================================================
+
+TARGET CROP: Maize / Corn (Zea mays)
+GOVERNING BODIES: Central Insecticides Board & Registration Committee (CIBRC), ICAR-Indian Institute of Maize Research (IIMR), State Agricultural Universities (TNAU, ANGRAU, PAU).
+
+---
+## 1. MAIZE COMMON RUST (Puccinia sorghi)
+
+### Symptoms & Environmental Drivers
+- Small, powdery, circular-to-elongated cinnamon-brown to golden-brown pustules on both upper and lower leaf surfaces.
+- Favoured by moderate temperatures (16°C to 25°C) and high relative humidity (>85%) with prolonged dew periods.
+- Pustules rupture epidermal tissues, accelerating transpiration and early senescence.
+
+### CIBRC & ICAR Verified Chemical Treatments
+1. Azoxystrobin 18.2% + Difenoconazole 11.4% SC:
+   - Dosage: 1.0 ml per litre of water (200 ml per acre in 200 L water).
+   - Highly curative and preventive for cereal rusts.
+2. Mancozeb 75% WP:
+   - Dosage: 2.5 g per litre of water (500 g per acre).
+   - Apply at the first sign of rust pustules; repeat after 10-12 days if disease conditions remain favourable.
+3. Propiconazole 25% EC:
+   - Dosage: 1.0 ml per litre of water (200 ml per acre).
+   - Fast systemic action arresting mycelium development.
+
+### Biological & Cultural Management
+- Plant rust-resistant commercial hybrids (HQPM-1, DHM-117, Pusa HM-4, Bio-9681).
+- Spray Trichoderma harzianum @ 10 g/L or Pseudomonas fluorescens @ 10 g/L.
+- Destroy volunteer corn plants in field borders.
+
+---
+## 2. NORTHERN CORN LEAF BLIGHT / TURCICUM LEAF BLIGHT (Exserohilum turcicum)
+
+### Symptoms
+- Long, elliptical, grayish-green to tan lesions (cigar-shaped, 3 to 15 cm long) beginning on lower leaves and progressing upwards.
+- Severe blighting causes foliage to appear burned or frost-damaged.
+
+### Recommended Fungicides
+1. Mancozeb 75% WP or Zineb 75% WP:
+   - Dosage: 2.5 to 3.0 g per litre of water (600 g per acre in 200-250 L water).
+2. Azoxystrobin 18.2% + Difenoconazole 11.4% SC:
+   - Dosage: 1.0 ml per litre of water.
+3. Carbendazim 12% + Mancozeb 63% WP:
+   - Dosage: 2.0 g per litre of water.
+
+---
+## 3. GRAY LEAF SPOT (Cercospora zeae-maydis)
+
+### Symptoms
+- Rectangular, tan-to-gray lesions strictly delimited by parallel leaf veins.
+- Develops under warm (25°C to 30°C), humid (>90% RH) conditions with overcast skies.
+
+### Treatment
+- Spray Pyraclostrobin 20% WG @ 1.0 g/L or Azoxystrobin 23% SC @ 1.0 ml/L.
+- Alternate with contact Mancozeb 75% WP @ 2.5 g/L to manage resistance.
+

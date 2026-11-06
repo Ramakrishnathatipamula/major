@@ -163,6 +163,34 @@ class PlantRouter:
         # Step 2: Auto-Detect Mode — Run Stage 1 Plant Identification
         plant_res: PlantIdentificationResult = self.plant_identifier.identify(image_input)
 
+        # Multimodal AI Vision Verification (corrects offline model gaps for Rice, Wheat, etc.)
+        try:
+            from modules.identification.multimodal_verifier import multimodal_verify_leaf
+            multi_res = multimodal_verify_leaf(image_input)
+            if multi_res and multi_res.get("crop"):
+                detected_gemini_crop = str(multi_res["crop"]).strip().lower()
+                crop_obj = self.crop_registry.get_crop(detected_gemini_crop)
+                if crop_obj:
+                    # If multimodal AI confirms crop with high certainty or corrects a cereal misclassification
+                    if crop_obj.crop_id != plant_res.crop_id or plant_res.confidence < 80.0:
+                        crop_id = crop_obj.crop_id
+                        crop_name = crop_obj.display_name
+                        confidence = float(multi_res.get("confidence", 95.0))
+                        specialist_status = f"ROUTED_TO_{crop_id.upper()}_SPECIALIST"
+                        return RoutingDecision(
+                            target_crop=crop_id,
+                            display_name=crop_name,
+                            route_to_specialist=True,
+                            routing_status=specialist_status,
+                            confidence=confidence,
+                            message=f"Plant identified as {crop_name} via AI Multimodal Vision ({confidence:.1f}% confidence). Routing to {crop_name} disease specialist.",
+                            leaf_verification=leaf_res.to_dict(),
+                            plant_identification=plant_res.to_dict(),
+                            warning=None
+                        )
+        except Exception:
+            pass
+
         # Case A: Identification rejected, confidence < 40%, or OOD rejected
         if plant_res.is_rejected or plant_res.ood_status == "REJECTED_OOD":
             detail = f"Confidence: {plant_res.confidence:.1f}%"

@@ -1,0 +1,57 @@
+# ==============================================================================
+# OFFICIAL CIBRC, ICAR-NRRI, AND STATE AGRICULTURAL EXTENSION GUIDANCE
+# RICE / PADDY DISEASES: BACTERIAL LEAF BLIGHT, BROWN SPOT, LEAF SMUT & BLAST
+# ==============================================================================
+
+TARGET CROP: Rice / Paddy (Oryza sativa)
+GOVERNING BODIES: Central Insecticides Board & Registration Committee (CIBRC), ICAR-National Rice Research Institute (NRRI), TNAU Agritech Portal, IRRI (International Rice Research Institute).
+
+---
+## 1. RICE BACTERIAL LEAF BLIGHT (Xanthomonas oryzae pv. oryzae)
+
+### Symptoms & Environmental Drivers
+- Water-soaked to yellowish-white stripes starting from leaf tips and margins, undulating down the blade.
+- Droplets of bacterial ooze (milky/amber beads) dry into crusts on lesions.
+- Favoured by warm temperatures (25°C to 34°C), high humidity (>70%), rainstorms, and strong winds that injure leaves.
+- High nitrogen application drastically exacerbates susceptibility.
+
+### CIBRC & ICAR-NRRI Verified Treatments
+1. Copper Oxychloride 50% WP + Streptocycline (Bactericide combination):
+   - Dosage: Copper Oxychloride 50% WP @ 2.5 g/L + Streptocycline (Streptomycin sulphate + Tetracycline hydrochloride 90:10) @ 6 g per 120 litres of water (approx. 50 mg/L).
+   - Application: Spray twice at 10-12 day intervals at the initiation of disease.
+2. Kasugamycin 3% SL (Kasu-B):
+   - Dosage: 2.0 to 2.5 ml per litre of water (400-500 ml/acre).
+   - Antibiotic fungicide with systemic translaminar activity against bacterial blight and blast.
+3. Biological:
+   - Spray Pseudomonas fluorescens (Pf-1 strain) @ 2.5 kg/ha or 5 g/L of water at 30, 45, and 60 days after transplanting.
+
+### Cultural Management
+- Strictly avoid split top-dressing of nitrogen (urea) during disease outbreak; apply muriate of potash (potassium) to fortify leaf cell walls.
+- Drain excess standing water from infected fields to prevent bacterial spread through irrigation channels.
+- Grow resistant varieties (e.g., Improved Samba Mahsuri / RP Bio-226, IR 64, Swarna Sub1).
+
+---
+## 2. RICE BROWN SPOT (Bipolaris oryzae / Helminthosporium oryzae)
+
+### Symptoms
+- Small, oval-to-circular, dark brown lesions with gray or whitish centers and yellow halos resembling sesame seeds.
+- Associated with nutrient-deficient, sandy, or moisture-stressed soils.
+
+### Chemical Treatments
+1. Mancozeb 75% WP:
+   - Dosage: 2.0 to 2.5 g per litre of water (500 g per acre).
+2. Tricyclazole 75% WP (Trade name: Beam 75 WP):
+   - Dosage: 0.6 g per litre of water (120 g per acre).
+3. Edifenphos 50% EC or Hexaconazole 5% EC:
+   - Dosage: 1.0 to 2.0 ml per litre of water.
+
+---
+## 3. RICE LEAF SMUT (Entyloma oryzae)
+
+### Symptoms
+- Small, angular, black spots (sori) slightly raised above the leaf epidermis, densely scattered on mature leaves.
+
+### Treatments
+- Propiconazole 25% EC @ 1.0 ml/L or Hexaconazole 5% EC @ 2.0 ml/L.
+- Maintain balanced fertilization; avoid prolonged standing water stress.
+

@@ -1,0 +1,68 @@
+# ==============================================================================
+# OFFICIAL CIBRC, ICAR-IIWBR, AND STATE AGRICULTURAL EXTENSION GUIDANCE
+# WHEAT FOLIAR DISEASES: STRIPE RUST, SEPTORIA LEAF BLOTCH, AND BROWN RUST
+# ==============================================================================
+
+TARGET CROP: Wheat (Triticum aestivum)
+GOVERNING BODIES: Central Insecticides Board & Registration Committee (CIBRC), ICAR-Indian Institute of Wheat and Barley Research (IIWBR), Punjab Agricultural University (PAU), Haryana Agricultural University (CCSHAU).
+
+---
+## 1. WHEAT STRIPE RUST / YELLOW RUST (Puccinia striiformis)
+
+### Pathogen Biology & Symptoms
+- Yellow to orange-yellow uredinial pustules arranged in linear stripes/stripes along the leaf veins of wheat blades.
+- Highly destructive under cool (10°C to 18°C), humid, and dewy weather conditions typical of Northern and North-Western agricultural zones.
+- Wind-dispersed urediniospores spread rapidly across fields, causing chlorosis, premature leaf desiccation, and severe grain shrivelling (losses up to 70%).
+
+### CIBRC & ICAR-IIWBR Verified Chemical Treatments (Fungicides)
+1. Propiconazole 25% EC (Trade name: Tilt 25 EC / Bumper):
+   - Formulation & Dosage: 0.1% concentration, i.e., 1.0 ml per litre of water (200 ml dissolved in 200 litres of water per acre, or 500 ml in 500 L water per hectare).
+   - Application Timing: Spray immediately at the appearance of the first yellow rust pustules or upon receiving meteorological warning alarms.
+   - Method: Uniform foliar spray covering both upper and lower canopy leaves. Repeat after 15 days if cool, dewy conditions persist.
+   - Pre-Harvest Interval (PHI): 30 days. Re-Entry Interval (REI): 24 hours.
+
+2. Tebuconazole 25.9% m/m EC (Trade name: Folicur):
+   - Formulation & Dosage: 1.0 ml per litre of water (200 ml per acre in 200 L water).
+   - Mechanism: Systemic ergosterol biosynthesis inhibitor providing both curative eradication of latent fungal mycelium and protective residual coverage.
+   - Pre-Harvest Interval (PHI): 30 days. REI: 24 hours.
+
+3. Azoxystrobin 18.2% + Difenoconazole 11.4% SC (Trade name: Amistar Top):
+   - Formulation & Dosage: 1.0 ml per litre of water (200 ml per acre).
+   - Dual mode of action: Strobilurin contact inhibition + Triazole systemic curative arrest.
+
+4. Mancozeb 75% WP (Contact Protectant):
+   - Dosage: 2.0 to 2.5 g per litre of water (500 g per acre in 200 L water).
+   - Prophylactic contact protectant to delay initial infection in border rows.
+
+### Biological & Organic Control
+- Foliar spray of Trichoderma harzianum or Trichoderma viride @ 5 to 10 g/L with 0.1% sticker during early vegetative stages.
+- Neem seed kernel extract (NSKE 5%) or cold-pressed Neem oil (10,000 ppm) @ 3 ml/L as repellent and mild fungal inhibitor.
+
+### Cultural & Preventative Practices
+- Sow yellow rust-resistant wheat varieties recommended for your agro-climatic zone (e.g., HD 2967, HD 3086, DBW 187, DBW 222, PBW 725).
+- Eradicate volunteer wheat plants and alternate grass hosts from field borders.
+- Avoid excessive nitrogenous fertilizers (urea); apply balanced N:P:K (120:60:40 kg/ha) with potash to strengthen cell wall resistance.
+- Irrigate in the early morning to minimize nighttime leaf wetness duration.
+
+---
+## 2. WHEAT SEPTORIA LEAF BLOTCH (Zymoseptoria tritici / Septoria tritici)
+
+### Symptoms & Epidemiology
+- Long, narrow, yellowish-brown lesions bounded by leaf veins that develop tiny black specks (pycnidia) visible on mature necrotic lesions.
+- Prevalent during cool, wet, windy weather (15°C to 20°C) with frequent rain splashes.
+
+### CIBRC & Extension Verified Chemical Treatments
+1. Propiconazole 25% EC:
+   - Dosage: 1.0 ml/L of water (200 ml per acre).
+   - Highly effective against Septoria complex when applied at flag leaf emergence (Zadoks GS 37-39).
+2. Carbendazim 12% + Mancozeb 63% WP (Trade name: Saaf):
+   - Dosage: 2.0 g per litre of water (400-500 g/acre).
+   - Broad-spectrum contact and systemic combination.
+3. Mancozeb 75% WP:
+   - Dosage: 2.5 g/L of water as protective spray.
+
+### Cultural Management
+- Crop rotation with non-cereal crops (legumes, oilseeds) for at least 1-2 years to eliminate soil-borne stubble inoculum.
+- Deep summer ploughing to bury wheat crop residue.
+- Certified clean seed treated with Carboxin 37.5% + Thiram 37.5% DS @ 2.5 g/kg seed.
+

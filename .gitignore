@@ -59,3 +59,7 @@ data/tomato/evaluation_report.json
 
 # Nested repositories (PlantDoc dataset checkout)
 data/field_eval/raw_plantdoc/.git/
+
+# Temporary scratch and tools
+scratch/
+.jetro/

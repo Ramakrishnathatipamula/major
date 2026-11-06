@@ -1,0 +1,56 @@
+# ==============================================================================
+# OFFICIAL CIBRC & EXTENSION GUIDANCE: HORTICULTURAL CROPS & VEGETABLES
+# APPLE, GRAPE, BELL PEPPER, CITRUS, STRAWBERRY, PEACH, SQUASH & SOYBEAN
+# ==============================================================================
+
+TARGET CROPS: Apple, Grape, Bell Pepper (Capsicum), Orange/Citrus, Peach, Strawberry, Squash, Soybean, Cherry.
+GOVERNING BODIES: CIBRC, ICAR-IIHR (Indian Institute of Horticultural Research), University Extension Services.
+
+---
+## 1. APPLE SCAB & FOLIAR DISEASES (Venturia inaequalis)
+- Symptoms: Olive-green to velvety brown-black spots on leaves and fruit.
+- Chemical Treatment:
+  1. Difenoconazole 25% EC (Score): 0.5 ml per litre of water (protective and early post-infection kickback).
+  2. Mancozeb 75% WP: 2.5 g per litre of water (pre-bloom and petal fall protectant).
+  3. Dodine 65% WP: 1.0 g per litre of water (eradicant for scab lesions).
+- PHI: 14-21 days.
+
+---
+## 2. GRAPE DOWNY MILDEW, POWDERY MILDEW & BLACK ROT
+- Symptoms: Yellow oily 'oil spots' on upper leaf surface with white downy growth underneath (Downy Mildew); white powdery coating (Powdery Mildew); circular reddish-brown leaf spots with black pycnidia rings (Black Rot).
+- Chemical Treatment:
+  1. Metalaxyl 8% + Mancozeb 64% WP (Ridomil MZ): 2.5 g per litre of water for Downy Mildew.
+  2. Azoxystrobin 23% SC: 1.0 ml per litre of water (broad spectrum downy & powdery mildew control).
+  3. Wettable Sulphur 80% WDG: 2.5 to 3.0 g per litre of water for Powdery Mildew.
+  4. Myclobutanil 10% WP: 0.4 g per litre of water for Black Rot and Powdery Mildew.
+
+---
+## 3. BELL PEPPER (CAPSICUM) BACTERIAL SPOT & ANTHRACNOSE
+- Symptoms: Water-soaked spots turning necrotic with chlorotic halos (Bacterial Spot); sunken circular spots with concentric rings and pink gelatinous spore masses (Anthracnose).
+- Chemical Treatment:
+  1. Copper Oxychloride 50% WP (2.5 g/L) + Streptocycline (1 g in 10 L water) for Bacterial Leaf Spot.
+  2. Azoxystrobin 18.2% + Difenoconazole 11.4% SC: 1.0 ml per litre of water for Anthracnose / Colletotrichum.
+  3. Mancozeb 75% WP: 2.5 g per litre of water.
+
+---
+## 4. CITRUS / ORANGE CANKER & GREENING
+- Symptoms: Raised, corky, crater-like lesions on leaves surrounded by prominent oily yellow margins.
+- Treatment:
+  1. Streptocycline (1 g in 10 L water) + Copper Oxychloride 50% WP (2.5 g/L) at flushing stages.
+  2. Pruning and destruction of cankered twigs before monsoon showers.
+
+---
+## 5. SQUASH POWDERY MILDEW & DOWNY MILDEW
+- Symptoms: White talcum-powder like dusting on leaf surfaces, causing leaf curling and drying.
+- Treatment:
+  1. Wettable Sulphur 80% WP @ 2.5 g/L or Dinocap 48% EC @ 1 ml/L.
+  2. Azoxystrobin 23% SC @ 1 ml/L.
+  3. Biological: Potassium bicarbonate (5 g/L) + horticultural oil spray.
+
+---
+## 6. STRAWBERRY LEAF SCORCH & LEAF SPOT
+- Symptoms: Small round purple-brown spots; leaves scorch around edges.
+- Treatment:
+  1. Mancozeb 75% WP @ 2.0 g/L or Captan 50% WP @ 2.0 g/L.
+  2. Trichoderma harzianum soil drench and foliar bio-protective spray.
+
